@@ -1,0 +1,957 @@
+#usda 1.0
+(
+    upAxis = "Z"
+)
+
+over "RootNode"
+{
+    over "meshes"
+    {
+        over "mesh_6B02A684EDD7E104"
+        {
+            def RectLight "RectLight" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -0), (5, 5, 0)]
+                float inputs:height = 500
+                float inputs:intensity = 1
+                float inputs:shaping:cone:angle = 90
+                float inputs:shaping:cone:softness
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                float inputs:width = 500
+                double3 xformOp:rotateXYZ = (180, -1.4210854715202004e-13, 90)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (-192.6114196777312, 594.8983154296998, -1030.4735680136855)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                float inputs:exposure = 0.4
+                float inputs:intensity = 200
+                float inputs:radius = 100
+                float inputs:shaping:cone:angle = 122.399994
+                float inputs:shaping:cone:softness = 1.8000001
+                float inputs:shaping:focus = 0
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                double3 xformOp:rotateXYZ = (46.057498795144454, -1.1368683772161603e-13, 170.37731644492703)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (516.2294900944562, 2783.302616283458, -545.3578952730318)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_01" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                color3f inputs:color = (0.99999, 1, 0.9999964)
+                float inputs:colorTemperature = 6300
+                bool inputs:enableColorTemperature = 1
+                float inputs:exposure = 0
+                float inputs:intensity = 2
+                float inputs:radius = 20.19985
+                float inputs:shaping:cone:angle = 180
+                float inputs:shaping:cone:softness = 0
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                double3 xformOp:rotateXYZ = (90, 0, 90)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (-67.12197656597702, 305.102202012201, -96.43426739354831)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_02" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                color3f inputs:color = (0.99999, 1, 0.9999964)
+                float inputs:colorTemperature = 6300
+                bool inputs:enableColorTemperature = 1
+                float inputs:exposure = 0
+                float inputs:intensity = 2
+                float inputs:radius = 26.247852
+                float inputs:shaping:cone:angle = 180
+                float inputs:shaping:cone:softness = 0
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                double3 xformOp:rotateXYZ = (90, 0, 90)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (-767.8859036666041, 247.48615479701104, -151.3175334810779)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def Xform "ref_24d9391413764f038be1055059df278a" (
+                prepend references = @./assets/models/finale4/earth/earth_card_mdl.usd@
+            )
+            {
+                custom bool IsRemixRef = 1
+                double3 xformOp:rotateXYZ = (0, 0, 0)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (0, 0, 0)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                over "XForms"
+                {
+                    float3 xformOp:rotateXYZ = (0, 0, -113.28409)
+                    float3 xformOp:scale = (1, 1, 1)
+                    double3 xformOp:translate = (-1009.4467163085938, 806.9656372070312, -77.50521850585938)
+                    uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                    over "World"
+                    {
+                        over "earth_card"
+                        {
+                            float3 xformOp:rotateXYZ = (-90.00001, 0, -11.362084)
+                            float3 xformOp:scale = (300, 300, 1)
+                            double3 xformOp:translate = (965.9151734681824, -211.00869981128972, -537.7215841764485)
+                            uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                            over "earth_card"
+                            {
+                                float3 xformOp:rotateXYZ = (4.676849e-9, 0, 3.6191352e-9)
+                                float3 xformOp:scale = (1, 1, 1)
+                                double3 xformOp:translate = (-3.9927962133439725, 1.5304548545102055, -2242.7336569588733)
+                                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+                            }
+                        }
+
+                        over "Looks"
+                        {
+                            over "earth_card_mtl"
+                            {
+                                over "Shader"
+                                {
+                                    int inputs:alpha_test_type = 4 (
+                                        customData = {
+                                            int default = 0
+                                        }
+                                        displayGroup = "Alpha Blending"
+                                        displayName = "Alpha Test Type"
+                                        doc = """The alpha state alpha test type to use.
+This parameter is unused."""
+                                        hidden = false
+                                        renderType = "AlphaTestType"
+                                        sdrMetadata = {
+                                            string __SDR__enum_value = "Always"
+                                            string options = "Always:0|Never:1|Less:2|Equal:3|LessOrEqual:4|Greater:5|NotEqual:6|GreaterOrEqual:7"
+                                        }
+                                    )
+                                    bool inputs:blend_enabled = 1 (
+                                        customData = {
+                                            bool default = 0
+                                        }
+                                        displayGroup = "Alpha Blending"
+                                        displayName = "Blend Enabled"
+                                        doc = "Indicates if alpha state blending should be enabled."
+                                        hidden = false
+                                    )
+                                    int inputs:blend_type = 0 (
+                                        customData = {
+                                            int default = 0
+                                        }
+                                        displayGroup = "Alpha Blending"
+                                        displayName = "Blend Type"
+                                        doc = """The alpha state blend type to use.
+This parameter is unused."""
+                                        hidden = false
+                                        renderType = "BlendType"
+                                        sdrMetadata = {
+                                            string __SDR__enum_value = "Alpha"
+                                            string options = "Alpha:0|AlphaEmissive:1|ReverseAlphaEmissive:2|Color:3|ColorEmissive:4|ReverseColorEmissive:5|Emissive:6|Multiplicative:7|DoubleMultiplicative:8"
+                                        }
+                                    )
+                                    float inputs:emissive_intensity = 0.3 (
+                                        customData = {
+                                            float default = 40
+                                            dictionary range = {
+                                                float max = 65504
+                                                float min = 0
+                                            }
+                                        }
+                                        displayGroup = "Emission"
+                                        displayName = "Emissive Intensity"
+                                        doc = "Intensity of the emission"
+                                        hidden = false
+                                    )
+                                    asset inputs:emissive_mask_texture = @./assets/models/finale4/earth/textures/earth_card_2k.a.rtex.dds@ (
+                                        colorSpace = "auto"
+                                        customData = {
+                                            asset default = @@
+                                        }
+                                        displayGroup = "Emission"
+                                        displayName = "Emissive Mask Map"
+                                        doc = "The texture masking the emissive color"
+                                        hidden = false
+                                        renderType = "texture_2d"
+                                    )
+                                    bool inputs:enable_emission = 1 (
+                                        customData = {
+                                            bool default = 0
+                                        }
+                                        displayGroup = "Emission"
+                                        displayName = "Enable Emission"
+                                        doc = "Enables the emission of light from the material"
+                                        hidden = false
+                                    )
+                                    float inputs:metallic_constant = 0 (
+                                        customData = {
+                                            float default = 0
+                                            dictionary range = {
+                                                float max = 1
+                                                float min = 0
+                                            }
+                                        }
+                                        displayGroup = "Base Material"
+                                        displayName = "Metallic Amount"
+                                        doc = "How metallic is this material, 0 for not at all, 1 for fully metallic. (Used if no texture is specified)."
+                                        hidden = false
+                                    )
+                                    float inputs:opacity_constant = 1 (
+                                        customData = {
+                                            float default = 1
+                                            dictionary range = {
+                                                float max = 1
+                                                float min = 0
+                                            }
+                                        }
+                                        displayGroup = "Base Material"
+                                        displayName = "Opacity Amount"
+                                        doc = "0 for completely transparent, 1 for completely opaque.  (Used if no texture is specified)"
+                                        hidden = false
+                                    )
+                                    float inputs:reflection_roughness_constant = 1 (
+                                        customData = {
+                                            float default = 0.5
+                                            dictionary range = {
+                                                float max = 1
+                                                float min = 0
+                                            }
+                                        }
+                                        displayGroup = "Base Material"
+                                        displayName = "Roughness Amount"
+                                        doc = "Higher roughness values lead to more blurry reflections, use 0 for perfectly smooth.  (Used if no texture is specified)."
+                                        hidden = false
+                                    )
+                                    bool inputs:use_legacy_alpha_state = 0 (
+                                        customData = {
+                                            bool default = 1
+                                        }
+                                        displayGroup = "Alpha Blending"
+                                        displayName = "Use Legacy Alpha State"
+                                        doc = "Indicates if the alpha state should be driven by the game itself, or overridden by this material."
+                                        hidden = false
+                                    )
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+            def SphereLight "SphereLight_03" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                float inputs:exposure = 0.75
+                float inputs:intensity = 20
+                float inputs:radius = 5
+                float inputs:shaping:cone:angle = 180
+                float inputs:shaping:cone:softness
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                double3 xformOp:rotateXYZ = (90, 0, 90)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (-2.0754265785217285, 1635.034502495798, 152.04749127002387)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def Xform "ref_9d2dd9a4897946a5a111d7e07b0883b9" (
+                prepend references = @./assets/models/finale4/earth/earth_card_mdl.usd@
+            )
+            {
+                custom bool IsRemixRef = 1
+                double3 xformOp:rotateXYZ = (0, 0, 0)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (0, 0, 0)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                over "XForms"
+                {
+                    over "World"
+                    {
+                        over "earth_card"
+                        {
+                            float3 xformOp:rotateXYZ = (-180, 0, -90.53503)
+                            float3 xformOp:scale = (32, 57, 1)
+                            double3 xformOp:translate = (1.279611050943963, 222.76345962188552, -1.9235411068484747)
+                            uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                            over "earth_card"
+                            {
+                                uniform bool doubleSided = 0
+                                float3 xformOp:rotateXYZ = (0, 0, 0)
+                                float3 xformOp:scale = (1, 1, 1)
+                                double3 xformOp:translate = (-0.01579848120651306, 0.026012038475070894, -0.04171086953662506)
+                                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+                            }
+                        }
+
+                        over "Looks"
+                        {
+                            over "earth_card_mtl"
+                            {
+                                over "Shader"
+                                {
+                                    int inputs:alpha_test_type = 5 (
+                                        customData = {
+                                            int default = 0
+                                        }
+                                        displayGroup = "Alpha Blending"
+                                        displayName = "Alpha Test Type"
+                                        doc = """The alpha state alpha test type to use.
+This parameter is unused."""
+                                        hidden = false
+                                        renderType = "AlphaTestType"
+                                        sdrMetadata = {
+                                            string __SDR__enum_value = "Always"
+                                            string options = "Always:0|Never:1|Less:2|Equal:3|LessOrEqual:4|Greater:5|NotEqual:6|GreaterOrEqual:7"
+                                        }
+                                    )
+                                    bool inputs:blend_enabled = 1 (
+                                        customData = {
+                                            bool default = 0
+                                        }
+                                        displayGroup = "Alpha Blending"
+                                        displayName = "Blend Enabled"
+                                        doc = "Indicates if alpha state blending should be enabled."
+                                        hidden = false
+                                    )
+                                    int inputs:blend_type = 1 (
+                                        customData = {
+                                            int default = 0
+                                        }
+                                        displayGroup = "Alpha Blending"
+                                        displayName = "Blend Type"
+                                        doc = """The alpha state blend type to use.
+This parameter is unused."""
+                                        hidden = false
+                                        renderType = "BlendType"
+                                        sdrMetadata = {
+                                            string __SDR__enum_value = "Alpha"
+                                            string options = "Alpha:0|AlphaEmissive:1|ReverseAlphaEmissive:2|Color:3|ColorEmissive:4|ReverseColorEmissive:5|Emissive:6|Multiplicative:7|DoubleMultiplicative:8"
+                                        }
+                                    )
+                                    asset inputs:diffuse_texture = @./assets/textures_effects/portal/Portal1024Blue_03.dds@ (
+                                        customData = {
+                                            asset default = @@
+                                        }
+                                        displayGroup = "Base Material"
+                                        displayName = "Albedo/Opacity Map"
+                                        doc = "The texture specifying the albedo value and the optional opacity value to use in the alpha channel"
+                                        hidden = false
+                                        renderType = "texture_2d"
+                                    )
+                                    float inputs:emissive_intensity = 0.02 (
+                                        customData = {
+                                            float default = 40
+                                            dictionary range = {
+                                                float max = 65504
+                                                float min = 0
+                                            }
+                                        }
+                                        displayGroup = "Emission"
+                                        displayName = "Emissive Intensity"
+                                        doc = "Intensity of the emission"
+                                        hidden = false
+                                    )
+                                    asset inputs:emissive_mask_texture = @./assets/textures_effects/portal/Portal1024Blue_03.dds@ (
+                                        colorSpace = "auto"
+                                        customData = {
+                                            asset default = @@
+                                        }
+                                        displayGroup = "Emission"
+                                        displayName = "Emissive Mask Map"
+                                        doc = "The texture masking the emissive color"
+                                        hidden = false
+                                        renderType = "texture_2d"
+                                    )
+                                    bool inputs:enable_emission = 1 (
+                                        customData = {
+                                            bool default = 0
+                                        }
+                                        displayGroup = "Emission"
+                                        displayName = "Enable Emission"
+                                        doc = "Enables the emission of light from the material"
+                                        hidden = false
+                                    )
+                                    bool inputs:inverted_blend = 0 (
+                                        customData = {
+                                            bool default = 0
+                                        }
+                                        displayGroup = "Alpha Blending"
+                                        displayName = "Inverted Blend"
+                                        doc = """Indicates if an inverted blend type should be used.
+This parameter is unused."""
+                                        hidden = false
+                                    )
+                                    float inputs:reflection_roughness_constant = 1 (
+                                        customData = {
+                                            float default = 0.5
+                                            dictionary range = {
+                                                float max = 1
+                                                float min = 0
+                                            }
+                                        }
+                                        displayGroup = "Base Material"
+                                        displayName = "Roughness Amount"
+                                        doc = "Higher roughness values lead to more blurry reflections, use 0 for perfectly smooth.  (Used if no texture is specified)."
+                                        hidden = false
+                                    )
+                                    int inputs:sprite_sheet_cols = 8 (
+                                        customData = {
+                                            int default = 1
+                                            dictionary range = {
+                                                int max = 255
+                                                int min = 1
+                                            }
+                                        }
+                                        displayGroup = "Animation"
+                                        displayName = "Sprite Sheet Columns"
+                                        doc = "Number of columns the spritesheet across all textures is divided into."
+                                        hidden = false
+                                    )
+                                    int inputs:sprite_sheet_fps = 24 (
+                                        customData = {
+                                            int default = 0
+                                            dictionary range = {
+                                                int max = 255
+                                                int min = 0
+                                            }
+                                        }
+                                        displayGroup = "Animation"
+                                        displayName = "Sprite Sheet FPS"
+                                        doc = "Framerate in Frames Per Second to use for the spritesheet across all textures. Note that a value of 0 disables this functionality."
+                                        hidden = false
+                                    )
+                                    int inputs:sprite_sheet_rows = 8 (
+                                        customData = {
+                                            int default = 1
+                                            dictionary range = {
+                                                int max = 255
+                                                int min = 1
+                                            }
+                                        }
+                                        displayGroup = "Animation"
+                                        displayName = "Sprite Sheet Rows"
+                                        doc = "Number of row the spritesheet across all textures is divided into."
+                                        hidden = false
+                                    )
+                                    bool inputs:use_legacy_alpha_state = 0 (
+                                        customData = {
+                                            bool default = 1
+                                        }
+                                        displayGroup = "Alpha Blending"
+                                        displayName = "Use Legacy Alpha State"
+                                        doc = "Indicates if the alpha state should be driven by the game itself, or overridden by this material."
+                                        hidden = false
+                                    )
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+            def Xform "ref_858aed2ecfa34da4abbe04c651f8be7d" (
+                prepend references = @./assets/models/finale4/earth/earth_card_mdl.usd@
+            )
+            {
+                custom bool IsRemixRef = 1
+                double3 xformOp:rotateXYZ = (0, 0, 0)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (0, 0, 0)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                over "XForms"
+                {
+                    over "World"
+                    {
+                        over "earth_card"
+                        {
+                            float3 xformOp:rotateXYZ = (0, -0, -90.53503)
+                            float3 xformOp:scale = (32, 57, 1)
+                            double3 xformOp:translate = (0.9000130616877059, 222.9759493953981, -1.4894749645360257)
+                            uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                            over "earth_card"
+                            {
+                                uniform bool doubleSided = 0
+                                float3 xformOp:rotateXYZ = (0, 0, 0)
+                                float3 xformOp:scale = (1, 1, 1)
+                                double3 xformOp:translate = (-0.033912173471877693, -0.030070267287309247, 2.4017335522810344)
+                                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+                            }
+                        }
+
+                        over "Looks"
+                        {
+                            over "earth_card_mtl"
+                            {
+                                over "Shader"
+                                {
+                                    float inputs:alpha_test_reference_value = 0 (
+                                        customData = {
+                                            float default = 0
+                                        }
+                                        displayGroup = "Alpha Blending"
+                                        displayName = "Alpha Test Reference Value"
+                                        doc = """The value to use for alpha testing against.
+This parameter is unused."""
+                                        hidden = false
+                                    )
+                                    int inputs:alpha_test_type = 4 (
+                                        customData = {
+                                            int default = 0
+                                        }
+                                        displayGroup = "Alpha Blending"
+                                        displayName = "Alpha Test Type"
+                                        doc = """The alpha state alpha test type to use.
+This parameter is unused."""
+                                        hidden = false
+                                        renderType = "AlphaTestType"
+                                        sdrMetadata = {
+                                            string __SDR__enum_value = "Always"
+                                            string options = "Always:0|Never:1|Less:2|Equal:3|LessOrEqual:4|Greater:5|NotEqual:6|GreaterOrEqual:7"
+                                        }
+                                    )
+                                    bool inputs:blend_enabled = 1 (
+                                        customData = {
+                                            bool default = 0
+                                        }
+                                        displayGroup = "Alpha Blending"
+                                        displayName = "Blend Enabled"
+                                        doc = "Indicates if alpha state blending should be enabled."
+                                        hidden = false
+                                    )
+                                    int inputs:blend_type = 1 (
+                                        customData = {
+                                            int default = 0
+                                        }
+                                        displayGroup = "Alpha Blending"
+                                        displayName = "Blend Type"
+                                        doc = """The alpha state blend type to use.
+This parameter is unused."""
+                                        hidden = false
+                                        renderType = "BlendType"
+                                        sdrMetadata = {
+                                            string __SDR__enum_value = "Alpha"
+                                            string options = "Alpha:0|AlphaEmissive:1|ReverseAlphaEmissive:2|Color:3|ColorEmissive:4|ReverseColorEmissive:5|Emissive:6|Multiplicative:7|DoubleMultiplicative:8"
+                                        }
+                                    )
+                                    asset inputs:diffuse_texture = @./assets/textures_effects/portal/Portal1024Orange_03.dds@ (
+                                        colorSpace = "auto"
+                                        customData = {
+                                            asset default = @@
+                                        }
+                                        displayGroup = "Base Material"
+                                        displayName = "Albedo/Opacity Map"
+                                        doc = "The texture specifying the albedo value and the optional opacity value to use in the alpha channel"
+                                        hidden = false
+                                        renderType = "texture_2d"
+                                    )
+                                    bool inputs:enable_emission = 0 (
+                                        customData = {
+                                            bool default = 0
+                                        }
+                                        displayGroup = "Emission"
+                                        displayName = "Enable Emission"
+                                        doc = "Enables the emission of light from the material"
+                                        hidden = false
+                                    )
+                                    bool inputs:inverted_blend = 0 (
+                                        customData = {
+                                            bool default = 0
+                                        }
+                                        displayGroup = "Alpha Blending"
+                                        displayName = "Inverted Blend"
+                                        doc = """Indicates if an inverted blend type should be used.
+This parameter is unused."""
+                                        hidden = false
+                                    )
+                                    int inputs:sprite_sheet_cols = 8 (
+                                        customData = {
+                                            int default = 1
+                                            dictionary range = {
+                                                int max = 255
+                                                int min = 1
+                                            }
+                                        }
+                                        displayGroup = "Animation"
+                                        displayName = "Sprite Sheet Columns"
+                                        doc = "Number of columns the spritesheet across all textures is divided into."
+                                        hidden = false
+                                    )
+                                    int inputs:sprite_sheet_fps = 24 (
+                                        customData = {
+                                            int default = 0
+                                            dictionary range = {
+                                                int max = 255
+                                                int min = 0
+                                            }
+                                        }
+                                        displayGroup = "Animation"
+                                        displayName = "Sprite Sheet FPS"
+                                        doc = "Framerate in Frames Per Second to use for the spritesheet across all textures. Note that a value of 0 disables this functionality."
+                                        hidden = false
+                                    )
+                                    int inputs:sprite_sheet_rows = 8 (
+                                        customData = {
+                                            int default = 1
+                                            dictionary range = {
+                                                int max = 255
+                                                int min = 1
+                                            }
+                                        }
+                                        displayGroup = "Animation"
+                                        displayName = "Sprite Sheet Rows"
+                                        doc = "Number of row the spritesheet across all textures is divided into."
+                                        hidden = false
+                                    )
+                                    bool inputs:use_legacy_alpha_state = 0 (
+                                        customData = {
+                                            bool default = 1
+                                        }
+                                        displayGroup = "Alpha Blending"
+                                        displayName = "Use Legacy Alpha State"
+                                        doc = "Indicates if the alpha state should be driven by the game itself, or overridden by this material."
+                                        hidden = false
+                                    )
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+            def Xform "ref_1431a0e239ab44c09c0d24cac26dae70" (
+                prepend references = @./assets/models/finale4/earth/earth_card_mdl.usd@
+            )
+            {
+                custom bool IsRemixRef = 1
+                double3 xformOp:rotateXYZ = (0, 0, 0)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (0, 0, 0)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                over "XForms"
+                {
+                    float3 xformOp:rotateXYZ = (0, 0, 0)
+                    float3 xformOp:scale = (1, 1, 1)
+                    double3 xformOp:translate = (0, 80.73215397956113, 0)
+                    uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                    over "World"
+                    {
+                        over "Looks"
+                        {
+                            over "earth_card_mtl"
+                            {
+                                over "Shader"
+                                {
+                                    color3f inputs:diffuse_color_constant = (0.000001, 9.9999e-7, 9.9999e-7) (
+                                        customData = {
+                                            float3 default = (0.2, 0.2, 0.2)
+                                            dictionary range = {
+                                                float3 max = (1, 1, 1)
+                                                float3 min = (0, 0, 0)
+                                            }
+                                        }
+                                        displayGroup = "Base Material"
+                                        displayName = "Albedo Color"
+                                        doc = "The base albedo color.  (Used if no texture is specified)"
+                                        hidden = false
+                                        renderType = "color"
+                                    )
+                                    asset inputs:diffuse_texture = @@ (
+                                        customData = {
+                                            asset default = @@
+                                        }
+                                        displayGroup = "Base Material"
+                                        displayName = "Albedo/Opacity Map"
+                                        doc = "The texture specifying the albedo value and the optional opacity value to use in the alpha channel"
+                                        hidden = false
+                                        renderType = "texture_2d"
+                                    )
+                                    float inputs:metallic_constant = 1 (
+                                        customData = {
+                                            float default = 0
+                                            dictionary range = {
+                                                float max = 1
+                                                float min = 0
+                                            }
+                                        }
+                                        displayGroup = "Base Material"
+                                        displayName = "Metallic Amount"
+                                        doc = "How metallic is this material, 0 for not at all, 1 for fully metallic. (Used if no texture is specified)."
+                                        hidden = false
+                                    )
+                                    float inputs:reflection_roughness_constant = 1 (
+                                        customData = {
+                                            float default = 0.5
+                                            dictionary range = {
+                                                float max = 1
+                                                float min = 0
+                                            }
+                                        }
+                                        displayGroup = "Base Material"
+                                        displayName = "Roughness Amount"
+                                        doc = "Higher roughness values lead to more blurry reflections, use 0 for perfectly smooth.  (Used if no texture is specified)."
+                                        hidden = false
+                                    )
+                                }
+                            }
+                        }
+
+                        over "earth_card"
+                        {
+                            float3 xformOp:rotateXYZ = (-90.00001, -0, 0)
+                            float3 xformOp:scale = (120, 420, 1)
+                            double3 xformOp:translate = (0, -13.689797291985528, -441.1850928982275)
+                            uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+                        }
+                    }
+                }
+            }
+
+            def Xform "ref_fc6a8cf428564b4183a68e8a6e3e36ba" (
+                prepend references = @./assets/models/finale4/earth/earth_card_mdl.usd@
+            )
+            {
+                custom bool IsRemixRef = 1
+                double3 xformOp:rotateXYZ = (0, 0, 0)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (0, 0, 0)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                over "XForms"
+                {
+                    over "World"
+                    {
+                        float3 xformOp:rotateXYZ = (0, 0, 0)
+                        float3 xformOp:scale = (1, 1, 1)
+                        double3 xformOp:translate = (0, 0, 0)
+                        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                        over "earth_card"
+                        {
+                            float3 xformOp:rotateXYZ = (81.056625, -0.000030229907, -208.49036)
+                            float3 xformOp:scale = (1, 1, 1)
+                            double3 xformOp:translate = (44.58160968982071, 657.5927089450173, -529.8648691797131)
+                            uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                            over "earth_card"
+                            {
+                                float3 xformOp:rotateXYZ = (-18.489973, -23.68012, -10.396562)
+                                float3 xformOp:scale = (230, 400, 1)
+                                double3 xformOp:translate = (293.21865682494666, -6.160324038483736, -879.7866123779446)
+                                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+                            }
+                        }
+
+                        over "Looks"
+                        {
+                            over "earth_card_mtl"
+                            {
+                                over "Shader"
+                                {
+                                    color3f inputs:diffuse_color_constant = (0.000001, 9.9999e-7, 9.9999e-7) (
+                                        customData = {
+                                            float3 default = (0.2, 0.2, 0.2)
+                                            dictionary range = {
+                                                float3 max = (1, 1, 1)
+                                                float3 min = (0, 0, 0)
+                                            }
+                                        }
+                                        displayGroup = "Base Material"
+                                        displayName = "Albedo Color"
+                                        doc = "The base albedo color.  (Used if no texture is specified)"
+                                        hidden = false
+                                        renderType = "color"
+                                    )
+                                    asset inputs:diffuse_texture = @@ (
+                                        colorSpace = "auto"
+                                        customData = {
+                                            asset default = @@
+                                        }
+                                        displayGroup = "Base Material"
+                                        displayName = "Albedo/Opacity Map"
+                                        doc = "The texture specifying the albedo value and the optional opacity value to use in the alpha channel"
+                                        hidden = false
+                                        renderType = "texture_2d"
+                                    )
+                                    float inputs:metallic_constant = 1 (
+                                        customData = {
+                                            float default = 0
+                                            dictionary range = {
+                                                float max = 1
+                                                float min = 0
+                                            }
+                                        }
+                                        displayGroup = "Base Material"
+                                        displayName = "Metallic Amount"
+                                        doc = "How metallic is this material, 0 for not at all, 1 for fully metallic. (Used if no texture is specified)."
+                                        hidden = false
+                                    )
+                                    float inputs:reflection_roughness_constant = 1 (
+                                        customData = {
+                                            float default = 0.5
+                                            dictionary range = {
+                                                float max = 1
+                                                float min = 0
+                                            }
+                                        }
+                                        displayGroup = "Base Material"
+                                        displayName = "Roughness Amount"
+                                        doc = "Higher roughness values lead to more blurry reflections, use 0 for perfectly smooth.  (Used if no texture is specified)."
+                                        hidden = false
+                                    )
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    over "Looks"
+    {
+        over "mat_09C7A8895C2E8E7C"
+        {
+            over "Shader"
+            {
+                float inputs:displace_in = 0.2 (
+                    customData = {
+                        float default = 0.05
+                        dictionary range = {
+                            float max = 0.2
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Displacement"
+                    displayName = "Inwards Displacement"
+                    doc = """Ratio of UV width to depth.  If the texture is displayed as 1 meter wide, then a value of 1 means it can be at most 1 meter deep.  A value of 0.1 means that same 1 meter wide quad can be at most 0.1 meters deep.
+This parameter is unused."""
+                    hidden = false
+                )
+                float inputs:displace_out = 0.03 (
+                    customData = {
+                        float default = 0
+                        dictionary range = {
+                            float max = 0.2
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Displacement"
+                    displayName = "Outwards Displacement"
+                    doc = """Ratio of UV width to depth.  If the texture is displayed as 1 meter wide, then a value of 1 means it can be at most 1 meter high.  A value of 0.1 means that same 1 meter wide quad can be at most 0.1 meters high.
+This parameter is unused."""
+                    hidden = false
+                )
+                asset inputs:height_texture = @./assets/textures_world/natural/moon/09C7A8895C2E8E7C_height2.h.rtex.dds@ (
+                    colorSpace = "auto"
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Displacement"
+                    displayName = "Height Map"
+                    doc = """A pixel value of 0 is the lowest point.  A pixel value of 1 will be the highest point.  A pixel of value displace_in / (displace_in + displace_out) will be the original height of the triangle.
+This parameter is unused."""
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                asset inputs:normalmap_texture = @./assets/textures_world/natural/moon/09C7A8895C2E8E7C_normal_dx_OTH_Normal.n.rtex.dds@ (
+                    colorSpace = "auto"
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Base Material"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                float inputs:reflection_roughness_constant = 1 (
+                    customData = {
+                        float default = 0.5
+                        dictionary range = {
+                            float max = 1
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Base Material"
+                    displayName = "Roughness Amount"
+                    doc = "Higher roughness values lead to more blurry reflections, use 0 for perfectly smooth.  (Used if no texture is specified)."
+                    hidden = false
+                )
+                asset inputs:reflectionroughness_texture = @@ (
+                    colorSpace = "auto"
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Base Material"
+                    displayName = "Roughness Map"
+                    doc = "A single channel texture defining roughness per texel.  Higher roughness values lead to more blurry reflections."
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+            }
+        }
+
+        over "mat_3F0D77754EA069C0"
+        {
+            over "Shader"
+            {
+                float inputs:metallic_constant = 0.885 (
+                    customData = {
+                        float default = 0
+                        dictionary range = {
+                            float max = 1
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Base Material"
+                    displayName = "Metallic Amount"
+                    doc = "How metallic is this material, 0 for not at all, 1 for fully metallic. (Used if no texture is specified)."
+                    hidden = false
+                )
+                float inputs:reflection_roughness_constant = 0.705 (
+                    customData = {
+                        float default = 0.5
+                        dictionary range = {
+                            float max = 1
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Base Material"
+                    displayName = "Roughness Amount"
+                    doc = "Higher roughness values lead to more blurry reflections, use 0 for perfectly smooth.  (Used if no texture is specified)."
+                    hidden = false
+                )
+            }
+        }
+    }
+}
+

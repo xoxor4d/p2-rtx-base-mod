@@ -1,0 +1,1006 @@
+#usda 1.0
+(
+    upAxis = "Z"
+)
+
+over "RootNode"
+{
+    over "Looks"
+    {
+        over "mat_BCA27FC0CF9541BE" (
+            references = @./materials/AperturePBR_Translucent.usda@</Looks/mat_AperturePBR_Translucent>
+        )
+        {
+            over "Shader"
+            {
+                float inputs:ior_constant = 1.3 (
+                    customData = {
+                        float default = 1.3
+                        dictionary range = {
+                            float max = 3
+                            float min = 1
+                        }
+                    }
+                    displayGroup = "Specular"
+                    displayName = "Index of Refraction"
+                    doc = "Index of Refraction of the material"
+                    hidden = false
+                )
+                bool inputs:thin_walled = 0 (
+                    customData = {
+                        bool default = 0
+                    }
+                    displayGroup = "Specular"
+                    displayName = "Thin-walled"
+                    doc = "Whether the material is thin-walled, use when material is being applied to single triangle thick geometry."
+                    hidden = false
+                )
+                color3f inputs:transmittance_color = (0.71659636, 0.976834, 0.8586894) (
+                    customData = {
+                        float3 default = (0.97, 0.97, 0.97)
+                        dictionary range = {
+                            float3 max = (1, 1, 1)
+                            float3 min = (0, 0, 0)
+                        }
+                    }
+                    displayGroup = "Volume"
+                    displayName = "Transmittance Color"
+                    doc = "Expected transmittance after the specified transmittance distance through the volume."
+                    hidden = false
+                    renderType = "color"
+                )
+                float inputs:transmittance_measurement_distance = 1 (
+                    customData = {
+                        float default = 1
+                        dictionary range = {
+                            float max = 65504
+                            float min = 0.001
+                        }
+                    }
+                    displayGroup = "Volume"
+                    displayName = "Transmittance Measurement Distance"
+                    doc = "Distance to match the transmittance through the volume at."
+                    hidden = false
+                )
+                bool inputs:use_diffuse_layer = 0 (
+                    customData = {
+                        bool default = 0
+                    }
+                    displayGroup = "Volume"
+                    displayName = "Use diffuse layer"
+                    doc = "When set, simulates a diffuse layer on top of the material"
+                    hidden = false
+                )
+            }
+        }
+
+        over "mat_7DA1CA371563D3A2"
+        {
+            over "Shader"
+            {
+                float inputs:metallic_constant = 0.85999995 (
+                    customData = {
+                        float default = 0
+                        dictionary range = {
+                            float max = 1
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Base Material"
+                    displayName = "Metallic Amount"
+                    doc = "How metallic is this material, 0 for not at all, 1 for fully metallic. (Used if no texture is specified)."
+                    hidden = false
+                )
+                float inputs:reflection_roughness_constant = 0.19999999 (
+                    customData = {
+                        float default = 0.5
+                        dictionary range = {
+                            float max = 1
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Base Material"
+                    displayName = "Roughness Amount"
+                    doc = "Higher roughness values lead to more blurry reflections, use 0 for perfectly smooth.  (Used if no texture is specified)."
+                    hidden = false
+                )
+            }
+        }
+
+        over "mat_679C7BB5E40FF87F"
+        {
+            over "Shader"
+            {
+                float inputs:metallic_constant = 0.47 (
+                    customData = {
+                        float default = 0
+                        dictionary range = {
+                            float max = 1
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Base Material"
+                    displayName = "Metallic Amount"
+                    doc = "How metallic is this material, 0 for not at all, 1 for fully metallic. (Used if no texture is specified)."
+                    hidden = false
+                )
+                float inputs:reflection_roughness_constant = 0.16499999 (
+                    customData = {
+                        float default = 0.5
+                        dictionary range = {
+                            float max = 1
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Base Material"
+                    displayName = "Roughness Amount"
+                    doc = "Higher roughness values lead to more blurry reflections, use 0 for perfectly smooth.  (Used if no texture is specified)."
+                    hidden = false
+                )
+            }
+        }
+
+        over "mat_990C1CCB42F806E0"
+        {
+            over "Shader"
+            {
+                float inputs:metallic_constant = 0.31 (
+                    customData = {
+                        float default = 0
+                        dictionary range = {
+                            float max = 1
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Base Material"
+                    displayName = "Metallic Amount"
+                    doc = "How metallic is this material, 0 for not at all, 1 for fully metallic. (Used if no texture is specified)."
+                    hidden = false
+                )
+                float inputs:reflection_roughness_constant = 0.255 (
+                    customData = {
+                        float default = 0.5
+                        dictionary range = {
+                            float max = 1
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Base Material"
+                    displayName = "Roughness Amount"
+                    doc = "Higher roughness values lead to more blurry reflections, use 0 for perfectly smooth.  (Used if no texture is specified)."
+                    hidden = false
+                )
+            }
+        }
+
+        over "mat_FE98EC9681EACA96"
+        {
+            over "Shader"
+            {
+                color3f inputs:emissive_color_constant = (0.98455596, 0.9845461, 0.9845461) (
+                    customData = {
+                        float3 default = (1, 0.1, 0.1)
+                        dictionary range = {
+                            float3 max = (1, 1, 1)
+                            float3 min = (0, 0, 0)
+                        }
+                    }
+                    displayGroup = "Emission"
+                    displayName = "Emissive Color"
+                    doc = "The emissive color when no emissive color texture is specified."
+                    hidden = false
+                    renderType = "color"
+                )
+                float inputs:emissive_intensity = 1 (
+                    customData = {
+                        float default = 40
+                        dictionary range = {
+                            float max = 65504
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Emission"
+                    displayName = "Emissive Intensity"
+                    doc = "Intensity of the emission"
+                    hidden = false
+                )
+                bool inputs:enable_emission = 1 (
+                    customData = {
+                        bool default = 0
+                    }
+                    displayGroup = "Emission"
+                    displayName = "Enable Emission"
+                    doc = "Enables the emission of light from the material"
+                    hidden = false
+                )
+            }
+        }
+
+        over "mat_E28B7C682E4CBB1B"
+        {
+            over "Shader"
+            {
+                float inputs:reflection_roughness_constant = 0.84 (
+                    customData = {
+                        float default = 0.5
+                        dictionary range = {
+                            float max = 1
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Base Material"
+                    displayName = "Roughness Amount"
+                    doc = "Higher roughness values lead to more blurry reflections, use 0 for perfectly smooth.  (Used if no texture is specified)."
+                    hidden = false
+                )
+            }
+        }
+
+        over "mat_D892109A12FE3D54"
+        {
+            over "Shader"
+            {
+                float inputs:reflection_roughness_constant = 0.71999997 (
+                    customData = {
+                        float default = 0.5
+                        dictionary range = {
+                            float max = 1
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Base Material"
+                    displayName = "Roughness Amount"
+                    doc = "Higher roughness values lead to more blurry reflections, use 0 for perfectly smooth.  (Used if no texture is specified)."
+                    hidden = false
+                )
+            }
+        }
+
+        over "mat_4894F26CABEFDEC2" (
+            references = @./materials/AperturePBR_Translucent.usda@</Looks/mat_AperturePBR_Translucent>
+        )
+        {
+            over "Shader"
+            {
+                bool inputs:thin_walled = 0 (
+                    customData = {
+                        bool default = 0
+                    }
+                    displayGroup = "Specular"
+                    displayName = "Thin-walled"
+                    doc = "Whether the material is thin-walled, use when material is being applied to single triangle thick geometry."
+                    hidden = false
+                )
+            }
+        }
+
+        over "mat_0FD8345231735AFE"
+        {
+            over "Shader"
+            {
+                bool inputs:enable_emission = 0 (
+                    customData = {
+                        bool default = 0
+                    }
+                    displayGroup = "Emission"
+                    displayName = "Enable Emission"
+                    doc = "Enables the emission of light from the material"
+                    hidden = false
+                )
+            }
+        }
+
+        over "mat_7116DA5ECF329C2A"
+        {
+            over "Shader"
+            {
+                int inputs:alpha_test_type = 4 (
+                    customData = {
+                        int default = 0
+                    }
+                    displayGroup = "Alpha Blending"
+                    displayName = "Alpha Test Type"
+                    doc = """The alpha state alpha test type to use.
+This parameter is unused."""
+                    hidden = false
+                    renderType = "AlphaTestType"
+                    sdrMetadata = {
+                        string __SDR__enum_value = "Always"
+                        string options = "Always:0|Never:1|Less:2|Equal:3|LessOrEqual:4|Greater:5|NotEqual:6|GreaterOrEqual:7"
+                    }
+                )
+                bool inputs:blend_enabled = 1 (
+                    customData = {
+                        bool default = 0
+                    }
+                    displayGroup = "Alpha Blending"
+                    displayName = "Blend Enabled"
+                    doc = "Indicates if alpha state blending should be enabled."
+                    hidden = false
+                )
+                float inputs:metallic_constant = 0 (
+                    customData = {
+                        float default = 0
+                        dictionary range = {
+                            float max = 1
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Base Material"
+                    displayName = "Metallic Amount"
+                    doc = "How metallic is this material, 0 for not at all, 1 for fully metallic. (Used if no texture is specified)."
+                    hidden = false
+                )
+                float inputs:reflection_roughness_constant = 1 (
+                    doc = "Higher roughness values lead to more blurry reflections, use 0 for perfectly smooth.  (Used if no texture is specified)."
+                    hidden = false
+                )
+                bool inputs:use_legacy_alpha_state = 0 (
+                    customData = {
+                        bool default = 1
+                    }
+                    displayGroup = "Alpha Blending"
+                    displayName = "Use Legacy Alpha State"
+                    doc = "Indicates if the alpha state should be driven by the game itself, or overridden by this material."
+                    hidden = false
+                )
+            }
+        }
+
+        over "mat_90ABF9B7573AA175"
+        {
+            over "Shader"
+            {
+                int inputs:alpha_test_type = 4 (
+                    customData = {
+                        int default = 0
+                    }
+                    displayGroup = "Alpha Blending"
+                    displayName = "Alpha Test Type"
+                    doc = """The alpha state alpha test type to use.
+This parameter is unused."""
+                    hidden = false
+                    renderType = "AlphaTestType"
+                    sdrMetadata = {
+                        string __SDR__enum_value = "Always"
+                        string options = "Always:0|Never:1|Less:2|Equal:3|LessOrEqual:4|Greater:5|NotEqual:6|GreaterOrEqual:7"
+                    }
+                )
+                bool inputs:blend_enabled = 1 (
+                    customData = {
+                        bool default = 0
+                    }
+                    displayGroup = "Alpha Blending"
+                    displayName = "Blend Enabled"
+                    doc = "Indicates if alpha state blending should be enabled."
+                    hidden = false
+                )
+                float inputs:reflection_roughness_constant = 1 (
+                    doc = "Higher roughness values lead to more blurry reflections, use 0 for perfectly smooth.  (Used if no texture is specified)."
+                    hidden = false
+                )
+                float inputs:subsurface_measurement_distance = 0 (
+                    customData = {
+                        float default = 0
+                        dictionary range = {
+                            float max = 16
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Subsurface"
+                    displayName = "Measurement Distance"
+                    doc = """The distance between front and back surface of subsurface materials in millimeter, or the thickness of the surface. (Used if no texture is specified).
+This parameter is unused."""
+                    hidden = false
+                )
+                color3f inputs:subsurface_single_scattering_albedo = (1, 0.99999, 0.99999) (
+                    customData = {
+                        float3 default = (0.5, 0.5, 0.5)
+                        dictionary range = {
+                            float3 max = (1, 1, 1)
+                            float3 min = (0, 0, 0)
+                        }
+                    }
+                    displayGroup = "Subsurface"
+                    displayName = "Single Scattering Albedo"
+                    doc = """The color of light that most easily passes through the material after a single time scattering inside volume. (Used if no texture is specified).
+This parameter is unused."""
+                    hidden = false
+                    renderType = "color"
+                )
+                color3f inputs:subsurface_transmittance_color = (0.64351296, 0.68339765, 0.32718652) (
+                    customData = {
+                        float3 default = (0.5, 0.5, 0.5)
+                        dictionary range = {
+                            float3 max = (1, 1, 1)
+                            float3 min = (0, 0, 0)
+                        }
+                    }
+                    displayGroup = "Subsurface"
+                    displayName = "Transmittance Color"
+                    doc = """The transmittance color of subsurface materials. This property can be easily considered as the light color after passing through volume. (Used if no texture is specified).
+This parameter is unused."""
+                    hidden = false
+                    renderType = "color"
+                )
+                float inputs:subsurface_volumetric_anisotropy = 0 (
+                    customData = {
+                        float default = 0
+                        dictionary range = {
+                            float max = 0.99
+                            float min = -0.99
+                        }
+                    }
+                    displayGroup = "Subsurface"
+                    displayName = "Volumetric Anisotropy"
+                    doc = """The anisotropy of the scattering phase function. 0.99 = light mostly passes straight through (forward), 0 = light spreads a lot (diffuse), -0.99 = light mostly reflects (backward).
+This parameter is unused."""
+                    hidden = false
+                )
+                bool inputs:use_legacy_alpha_state = 0 (
+                    customData = {
+                        bool default = 1
+                    }
+                    displayGroup = "Alpha Blending"
+                    displayName = "Use Legacy Alpha State"
+                    doc = "Indicates if the alpha state should be driven by the game itself, or overridden by this material."
+                    hidden = false
+                )
+            }
+        }
+
+        over "mat_B39925E0A2BE52AD"
+        {
+            over "Shader"
+            {
+                int inputs:alpha_test_type = 4 (
+                    customData = {
+                        int default = 0
+                    }
+                    displayGroup = "Alpha Blending"
+                    displayName = "Alpha Test Type"
+                    doc = """The alpha state alpha test type to use.
+This parameter is unused."""
+                    hidden = false
+                    renderType = "AlphaTestType"
+                    sdrMetadata = {
+                        string __SDR__enum_value = "Always"
+                        string options = "Always:0|Never:1|Less:2|Equal:3|LessOrEqual:4|Greater:5|NotEqual:6|GreaterOrEqual:7"
+                    }
+                )
+                bool inputs:blend_enabled = 1 (
+                    customData = {
+                        bool default = 0
+                    }
+                    displayGroup = "Alpha Blending"
+                    displayName = "Blend Enabled"
+                    doc = "Indicates if alpha state blending should be enabled."
+                    hidden = false
+                )
+                float inputs:reflection_roughness_constant = 1 (
+                    doc = "Higher roughness values lead to more blurry reflections, use 0 for perfectly smooth.  (Used if no texture is specified)."
+                    hidden = false
+                )
+                bool inputs:use_legacy_alpha_state = 0 (
+                    customData = {
+                        bool default = 1
+                    }
+                    displayGroup = "Alpha Blending"
+                    displayName = "Use Legacy Alpha State"
+                    doc = "Indicates if the alpha state should be driven by the game itself, or overridden by this material."
+                    hidden = false
+                )
+            }
+        }
+
+        over "mat_81CD39F4CCF1D20A"
+        {
+            over "Shader"
+            {
+                float inputs:alpha_test_reference_value = 0 (
+                    customData = {
+                        float default = 0
+                    }
+                    displayGroup = "Alpha Blending"
+                    displayName = "Alpha Test Reference Value"
+                    doc = """The value to use for alpha testing against.
+This parameter is unused."""
+                    hidden = false
+                )
+                int inputs:alpha_test_type = 4 (
+                    customData = {
+                        int default = 0
+                    }
+                    displayGroup = "Alpha Blending"
+                    displayName = "Alpha Test Type"
+                    doc = """The alpha state alpha test type to use.
+This parameter is unused."""
+                    hidden = false
+                    renderType = "AlphaTestType"
+                    sdrMetadata = {
+                        string __SDR__enum_value = "Always"
+                        string options = "Always:0|Never:1|Less:2|Equal:3|LessOrEqual:4|Greater:5|NotEqual:6|GreaterOrEqual:7"
+                    }
+                )
+                bool inputs:blend_enabled = 1 (
+                    customData = {
+                        bool default = 0
+                    }
+                    displayGroup = "Alpha Blending"
+                    displayName = "Blend Enabled"
+                    doc = "Indicates if alpha state blending should be enabled."
+                    hidden = false
+                )
+                int inputs:blend_type = 0 (
+                    customData = {
+                        int default = 0
+                    }
+                    displayGroup = "Alpha Blending"
+                    displayName = "Blend Type"
+                    doc = """The alpha state blend type to use.
+This parameter is unused."""
+                    hidden = false
+                    renderType = "BlendType"
+                    sdrMetadata = {
+                        string __SDR__enum_value = "Alpha"
+                        string options = "Alpha:0|AlphaEmissive:1|ReverseAlphaEmissive:2|Color:3|ColorEmissive:4|ReverseColorEmissive:5|Emissive:6|Multiplicative:7|DoubleMultiplicative:8"
+                    }
+                )
+                bool inputs:inverted_blend = 0 (
+                    customData = {
+                        bool default = 0
+                    }
+                    displayGroup = "Alpha Blending"
+                    displayName = "Inverted Blend"
+                    doc = """Indicates if an inverted blend type should be used.
+This parameter is unused."""
+                    hidden = false
+                )
+                float inputs:reflection_roughness_constant = 1 (
+                    customData = {
+                        float default = 0.5
+                        dictionary range = {
+                            float max = 1
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Base Material"
+                    displayName = "Roughness Amount"
+                    doc = "Higher roughness values lead to more blurry reflections, use 0 for perfectly smooth.  (Used if no texture is specified)."
+                    hidden = false
+                )
+                bool inputs:use_legacy_alpha_state = 0 (
+                    customData = {
+                        bool default = 1
+                    }
+                    displayGroup = "Alpha Blending"
+                    displayName = "Use Legacy Alpha State"
+                    doc = "Indicates if the alpha state should be driven by the game itself, or overridden by this material."
+                    hidden = false
+                )
+            }
+        }
+
+        over "mat_435DFC4DA4070A99"
+        {
+            over "Shader"
+            {
+                int inputs:alpha_test_type = 4 (
+                    customData = {
+                        int default = 0
+                    }
+                    displayGroup = "Alpha Blending"
+                    displayName = "Alpha Test Type"
+                    doc = """The alpha state alpha test type to use.
+This parameter is unused."""
+                    hidden = false
+                    renderType = "AlphaTestType"
+                    sdrMetadata = {
+                        string __SDR__enum_value = "Always"
+                        string options = "Always:0|Never:1|Less:2|Equal:3|LessOrEqual:4|Greater:5|NotEqual:6|GreaterOrEqual:7"
+                    }
+                )
+                bool inputs:blend_enabled = 1 (
+                    customData = {
+                        bool default = 0
+                    }
+                    displayGroup = "Alpha Blending"
+                    displayName = "Blend Enabled"
+                    doc = "Indicates if alpha state blending should be enabled."
+                    hidden = false
+                )
+                float inputs:reflection_roughness_constant = 1 (
+                    customData = {
+                        float default = 0.5
+                        dictionary range = {
+                            float max = 1
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Base Material"
+                    displayName = "Roughness Amount"
+                    doc = "Higher roughness values lead to more blurry reflections, use 0 for perfectly smooth.  (Used if no texture is specified)."
+                    hidden = false
+                )
+                bool inputs:use_legacy_alpha_state = 0 (
+                    customData = {
+                        bool default = 1
+                    }
+                    displayGroup = "Alpha Blending"
+                    displayName = "Use Legacy Alpha State"
+                    doc = "Indicates if the alpha state should be driven by the game itself, or overridden by this material."
+                    hidden = false
+                )
+            }
+        }
+
+        over "mat_CDA4694345FB3392"
+        {
+            over "Shader"
+            {
+                float inputs:emissive_intensity = 3 (
+                    customData = {
+                        float default = 40
+                        dictionary range = {
+                            float max = 65504
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Emission"
+                    displayName = "Emissive Intensity"
+                    doc = "Intensity of the emission"
+                    hidden = false
+                )
+                asset inputs:emissive_mask_texture = @./assets/textures_model/lights/CDA4694345FB3392_emissive.e.rtex.dds@ (
+                    colorSpace = "auto"
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Emission"
+                    displayName = "Emissive Mask Map"
+                    doc = "The texture masking the emissive color"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                bool inputs:enable_emission = 1 (
+                    customData = {
+                        bool default = 0
+                    }
+                    displayGroup = "Emission"
+                    displayName = "Enable Emission"
+                    doc = "Enables the emission of light from the material"
+                    hidden = false
+                )
+            }
+        }
+
+        over "mat_714DCD339D8231B9"
+        {
+            over "Shader"
+            {
+                float inputs:emissive_intensity = 1 (
+                    customData = {
+                        float default = 40
+                        dictionary range = {
+                            float max = 65504
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Emission"
+                    displayName = "Emissive Intensity"
+                    doc = "Intensity of the emission"
+                    hidden = false
+                )
+                asset inputs:emissive_mask_texture = @./assets/textures_model/lights/714DCD339D8231B9_emissive.e.rtex.dds@ (
+                    colorSpace = "auto"
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Emission"
+                    displayName = "Emissive Mask Map"
+                    doc = "The texture masking the emissive color"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                bool inputs:enable_emission = 1 (
+                    customData = {
+                        bool default = 0
+                    }
+                    displayGroup = "Emission"
+                    displayName = "Enable Emission"
+                    doc = "Enables the emission of light from the material"
+                    hidden = false
+                )
+            }
+        }
+
+        over "mat_21249F8BDC9041E9"
+        {
+            over "Shader"
+            {
+                float inputs:emissive_intensity = 0.5 (
+                    customData = {
+                        float default = 40
+                        dictionary range = {
+                            float max = 65504
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Emission"
+                    displayName = "Emissive Intensity"
+                    doc = "Intensity of the emission"
+                    hidden = false
+                )
+                asset inputs:emissive_mask_texture = @./assets/textures_model/sentry/sentry_eye_col.e.rtex.dds@ (
+                    colorSpace = "auto"
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Emission"
+                    displayName = "Emissive Mask Map"
+                    doc = "The texture masking the emissive color"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                bool inputs:enable_emission = 1 (
+                    customData = {
+                        bool default = 0
+                    }
+                    displayGroup = "Emission"
+                    displayName = "Enable Emission"
+                    doc = "Enables the emission of light from the material"
+                    hidden = false
+                )
+            }
+        }
+
+        over "mat_497C1C3F01D40B3B"
+        {
+            over "Shader"
+            {
+                float inputs:emissive_intensity = 1 (
+                    customData = {
+                        float default = 40
+                        dictionary range = {
+                            float max = 65504
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Emission"
+                    displayName = "Emissive Intensity"
+                    doc = "Intensity of the emission"
+                    hidden = false
+                )
+                asset inputs:emissive_mask_texture = @./assets/textures_model/lights/497C1C3F01D40B3B_emissive.e.rtex.dds@ (
+                    colorSpace = "auto"
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Emission"
+                    displayName = "Emissive Mask Map"
+                    doc = "The texture masking the emissive color"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                bool inputs:enable_emission = 1 (
+                    customData = {
+                        bool default = 0
+                    }
+                    displayGroup = "Emission"
+                    displayName = "Enable Emission"
+                    doc = "Enables the emission of light from the material"
+                    hidden = false
+                )
+            }
+        }
+
+        over "mat_673B514AB00F6A4E"
+        {
+            over "Shader"
+            {
+                float inputs:metallic_constant = 0.76 (
+                    customData = {
+                        float default = 0
+                        dictionary range = {
+                            float max = 1
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Base Material"
+                    displayName = "Metallic Amount"
+                    doc = "How metallic is this material, 0 for not at all, 1 for fully metallic. (Used if no texture is specified)."
+                    hidden = false
+                )
+                float inputs:reflection_roughness_constant = 0.51 (
+                    customData = {
+                        float default = 0.5
+                        dictionary range = {
+                            float max = 1
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Base Material"
+                    displayName = "Roughness Amount"
+                    doc = "Higher roughness values lead to more blurry reflections, use 0 for perfectly smooth.  (Used if no texture is specified)."
+                    hidden = false
+                )
+            }
+        }
+
+        over "mat_81CD66728FD908BE"
+        {
+            over "Shader"
+            {
+                float inputs:metallic_constant = 0.42 (
+                    customData = {
+                        float default = 0
+                        dictionary range = {
+                            float max = 1
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Base Material"
+                    displayName = "Metallic Amount"
+                    doc = "How metallic is this material, 0 for not at all, 1 for fully metallic. (Used if no texture is specified)."
+                    hidden = false
+                )
+                float inputs:reflection_roughness_constant = 0.52 (
+                    customData = {
+                        float default = 0.5
+                        dictionary range = {
+                            float max = 1
+                            float min = 0
+                        }
+                    }
+                    displayGroup = "Base Material"
+                    displayName = "Roughness Amount"
+                    doc = "Higher roughness values lead to more blurry reflections, use 0 for perfectly smooth.  (Used if no texture is specified)."
+                    hidden = false
+                )
+            }
+        }
+
+        over "mat_361BC3323F89738A"
+        {
+            over "Shader"
+            {
+                int inputs:alpha_test_type = 4 (
+                    customData = {
+                        int default = 0
+                    }
+                    displayGroup = "Alpha Blending"
+                    displayName = "Alpha Test Type"
+                    doc = """The alpha state alpha test type to use.
+This parameter is unused."""
+                    hidden = false
+                    renderType = "AlphaTestType"
+                    sdrMetadata = {
+                        string __SDR__enum_value = "Always"
+                        string options = "Always:0|Never:1|Less:2|Equal:3|LessOrEqual:4|Greater:5|NotEqual:6|GreaterOrEqual:7"
+                    }
+                )
+                bool inputs:blend_enabled = 1 (
+                    customData = {
+                        bool default = 0
+                    }
+                    displayGroup = "Alpha Blending"
+                    displayName = "Blend Enabled"
+                    doc = "Indicates if alpha state blending should be enabled."
+                    hidden = false
+                )
+                bool inputs:use_legacy_alpha_state = 0 (
+                    customData = {
+                        bool default = 1
+                    }
+                    displayGroup = "Alpha Blending"
+                    displayName = "Use Legacy Alpha State"
+                    doc = "Indicates if the alpha state should be driven by the game itself, or overridden by this material."
+                    hidden = false
+                )
+            }
+        }
+
+        over "mat_A16A1F097A68830D" (
+            references = @./materials/AperturePBR_Translucent.usda@</Looks/mat_AperturePBR_Translucent>
+        )
+        {
+            over "Shader"
+            {
+                asset inputs:normalmap_texture = @@ (
+                    colorSpace = "auto"
+                    customData = {
+                        asset default = @@
+                    }
+                    displayGroup = "Normal"
+                    displayName = "Normal Map"
+                    hidden = false
+                    renderType = "texture_2d"
+                )
+                bool inputs:thin_walled = 1 (
+                    customData = {
+                        bool default = 0
+                    }
+                    displayGroup = "Specular"
+                    displayName = "Thin-walled"
+                    doc = "Whether the material is thin-walled, use when material is being applied to single triangle thick geometry."
+                    hidden = false
+                )
+                color3f inputs:transmittance_color = (0.99999356, 1, 0.99999) (
+                    customData = {
+                        float3 default = (0.97, 0.97, 0.97)
+                        dictionary range = {
+                            float3 max = (1, 1, 1)
+                            float3 min = (0, 0, 0)
+                        }
+                    }
+                    displayGroup = "Volume"
+                    displayName = "Transmittance Color"
+                    doc = "Expected transmittance after the specified transmittance distance through the volume."
+                    hidden = false
+                    renderType = "color"
+                )
+                float inputs:transmittance_measurement_distance = 1 (
+                    customData = {
+                        float default = 1
+                        dictionary range = {
+                            float max = 65504
+                            float min = 0.001
+                        }
+                    }
+                    displayGroup = "Volume"
+                    displayName = "Transmittance Measurement Distance"
+                    doc = "Distance to match the transmittance through the volume at."
+                    hidden = false
+                )
+            }
+        }
+    }
+
+    over "meshes"
+    {
+        over "mesh_60AF95A66483724D"
+        {
+            def SphereLight "SphereLight" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-500, -500, -500), (500, 500, 500)]
+                color3f inputs:color = (0.94208497, 0.5172542, 0.03273654)
+                float inputs:intensity = 1.5
+                float inputs:radius = 8
+                float inputs:shaping:cone:angle = 180
+                float inputs:shaping:cone:softness
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                double3 xformOp:rotateXYZ = (90, 0, 90)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (-1151.3893720655665, 4355.759765625, 2760.522216796875)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+        }
+
+        over "mesh_73C912083EBA6716"
+        {
+            def SphereLight "SphereLight" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-500, -500, -500), (500, 500, 500)]
+                color3f inputs:color = (0.01583159, 0.4449859, 0.68339765)
+                float inputs:intensity = 10
+                float inputs:radius = 1.5
+                float inputs:shaping:cone:angle = 180
+                float inputs:shaping:cone:softness
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                double3 xformOp:rotateXYZ = (90, 0, 90)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (-3053.3323801632237, 2261.0412779781345, -265.6179919539438)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+        }
+    }
+}
+

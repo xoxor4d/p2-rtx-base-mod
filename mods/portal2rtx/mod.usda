@@ -1,0 +1,32 @@
+#usda 1.0
+(
+    customLayerData = {
+        string lightspeed_game_name = "Portal 2 - RTX - d742f13-dirty"
+        string lightspeed_layer_type = "replacement"
+        dictionary lightspeed_mod_dependencies = {
+        }
+        string lightspeed_mod_name = "portal2rtx"
+        string lightspeed_mod_notes = "github.com/xoxor4d"
+        string lightspeed_mod_version = "1.5.0"
+    }
+    subLayers = [
+        @./effects.usda@,
+        @./models.usda@,
+        @./world.usda@,
+        @./lights.usda@,
+        @./portals.usda@,
+        @./gel.usda@,
+        @./sp_a1_intro1.usda@,
+        @./sp_a1_intro2.usda@,
+        @./sp_a1_intro3.usda@,
+        @./sp_a1_intro4.usda@,
+        @./sp_a1_intro5.usda@,
+        @./sp_a1_intro6.usda@,
+        @./sp_a1_wakeup.usda@,
+        @./sp_a2_intro.usda@,
+        @./sp_a4_finale4.usda@
+    ]
+    timeCodesPerSecond = 24
+    upAxis = "Z"
+)
+
