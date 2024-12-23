@@ -15,7 +15,7 @@ It handles:
 
 ### Installation
 
-- Download repo as zip
+- [Download repo as zip](https://github.com/xoxor4d/p2-rtx-base-mod/archive/refs/heads/master.zip)
 - Place the `mods` folder into the `rtx-remix` folder found in the Portal 2 root folder  
 (see Folder Structure below)
 
