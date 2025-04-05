@@ -1,0 +1,858 @@
+#usda 1.0
+(
+    customLayerData = {
+        dictionary SelectionHistoryList = {
+            string "0" = "/RootNode/instances/inst_245B17A26E597B54_0/mesh"
+            string "1" = "/RootNode/instances/inst_E35268D874EB0631_0/SphereLight"
+            string "10" = "/RootNode/instances/inst_F66D628674E1FE66_0/mesh"
+            string "11" = "/RootNode/instances/inst_C2DB75CC87DA0E47_0/mesh"
+            string "12" = "/RootNode/instances/inst_C4C909B91F73098B_0/mesh"
+            string "13" = "/RootNode/instances/inst_3E5053CC3BD15F66_0/mesh"
+            string "14" = "/RootNode/instances/inst_47EBDC06098B0BE2_0/mesh"
+            string "15" = "/RootNode/instances/inst_D1F268FE31C4C83A_0/mesh"
+            string "16" = "/RootNode/instances/inst_363AD3651D92679F_0/mesh"
+            string "17" = "/RootNode/instances/inst_6E6CC7465D397CAD_0/mesh"
+            string "18" = "/RootNode/instances/inst_8A619E6A47B8094C_0/mesh"
+            string "19" = "/RootNode/instances/inst_F9E10650AB5E09DA_0/mesh"
+            string "2" = "/RootNode/instances/inst_E35268D874EB0631_0/mesh"
+            string "20" = "/RootNode/instances/inst_5BAC44392AD00917_0/mesh"
+            string "21" = "/RootNode/instances/inst_E23BC63B5DFE7D00_0/mesh"
+            string "22" = "/RootNode/instances/inst_405AA39EBDB5C932_9/mesh"
+            string "23" = "/RootNode/instances/inst_25F5ACBB87257603_0/mesh"
+            string "24" = "/RootNode/instances/inst_BE36DABB3D45D1A8_0/mesh"
+            string "25" = "/RootNode/instances/inst_E40D7619E2EEE0E3_0/mesh"
+            string "26" = "/RootNode/instances/inst_509E50FDA3D17D73_0/mesh"
+            string "27" = "/RootNode/instances/inst_A83CE458B5A4B659_0/mesh"
+            string "28" = "/RootNode/instances/inst_64E528F4B92D9A0A_0/mesh"
+            string "29" = "/RootNode/instances/inst_DCFB8A27E7E2122A_0/mesh"
+            string "3" = "/RootNode/instances/inst_13EA136ADA3A4E70_0/mesh"
+            string "30" = "/RootNode/instances/inst_2B4CD6907124E420_0/mesh"
+            string "31" = "/RootNode/instances/inst_58C7126652B803CA_0/mesh"
+            string "32" = "/RootNode/instances/inst_0424C3517E41E1FC_0/mesh"
+            string "33" = "/RootNode/instances/inst_EA8AE5A319059DEE_0/mesh"
+            string "34" = "/RootNode/instances/inst_15BC1593E8C8DDA7_0/mesh"
+            string "35" = "/RootNode/instances/inst_77CA36A41F53078E_0/mesh"
+            string "36" = "/RootNode/instances/inst_5E30AFE6E8915D9A_0/mesh"
+            string "37" = "/RootNode/instances/inst_B03B82671B80651E_0/mesh"
+            string "38" = "/RootNode/instances/inst_61B69E681A2EE4CC_0/mesh"
+            string "39" = "/RootNode/instances/inst_CD04759233E6CC19_0/mesh"
+            string "4" = "/RootNode/instances/inst_FFEBA2773D4AE6B0_0/mesh"
+            string "40" = "/RootNode/instances/inst_1B17B72F1D8DBDE4_0/mesh"
+            string "41" = "/RootNode/instances/inst_42B6FF28FE734634_0/mesh"
+            string "42" = "/RootNode/instances/inst_71EC5B79D9E82FF8_0/mesh"
+            string "43" = "/RootNode/instances/inst_DAC0F6F7064AA668_0/mesh"
+            string "44" = "/RootNode/instances/inst_647932AF787E5636_0/mesh"
+            string "45" = "/RootNode/instances/inst_8953BE679EF995E4_0/mesh"
+            string "46" = "/RootNode/instances/inst_BEA22777D694109D_0/mesh"
+            string "47" = "/RootNode/instances/inst_E3ED7672E6D548C9_0/mesh"
+            string "48" = "/RootNode/instances/inst_BD58B4FFE12677F3_0/mesh"
+            string "49" = "/RootNode/instances/inst_F909F05906A7C509_0/mesh"
+            string "5" = "/RootNode/instances/inst_3DF35B8A6F614124_0/mesh"
+            string "50" = "/RootNode/instances/inst_282FBC1BD3B9C3F5_0/mesh"
+            string "51" = "/RootNode/instances/inst_8697DAAC55F01C90_0/mesh"
+            string "52" = "/RootNode/instances/inst_C12FE6ACB4EAAD69_0/mesh"
+            string "53" = "/RootNode/instances/inst_9C96DF97AA819A34_0/mesh"
+            string "54" = "/RootNode/instances/inst_46CDF2BF859E3C67_0/mesh"
+            string "55" = "/RootNode/instances/inst_1ED130E0C5E21EDF_0/mesh"
+            string "56" = "/RootNode/instances/inst_46CDF2BF859E3C67_0/mesh"
+            string "57" = ""
+            string "58" = "/RootNode/Looks/mat_6689CB4AE011C323/Shader"
+            string "59" = "/RootNode/Looks/mat_6689CB4AE011C323"
+            string "6" = "/RootNode/instances/inst_4FB27C52324EE155_0/mesh"
+            string "60" = ""
+            string "61" = "/RootNode/Looks/mat_C1FDA1491A30AC33/Shader"
+            string "62" = ""
+            string "63" = "/RootNode/Looks/mat_5312CF5DA5654648/Shader"
+            string "64" = ""
+            string "65" = "/RootNode/Looks/mat_5312CF5DA5654648/Shader"
+            string "66" = ""
+            string "67" = "/RootNode"
+            string "68" = ""
+            string "69" = "/RootNode/Looks/mat_6689CB4AE011C323/Shader"
+            string "7" = "/RootNode/instances/inst_9D34296BB43CFDF7_0/mesh"
+            string "70" = "/RootNode/Looks/mat_6689CB4AE011C323"
+            string "71" = ""
+            string "72" = "/RootNode/Looks/mat_C1FDA1491A30AC33/Shader"
+            string "73" = ""
+            string "74" = "/RootNode/Looks/mat_5312CF5DA5654648/Shader"
+            string "75" = ""
+            string "76" = "/RootNode/Looks/mat_6689CB4AE011C323/Shader"
+            string "77" = "/RootNode/Looks/mat_6689CB4AE011C323"
+            string "78" = ""
+            string "79" = "/RootNode/Looks/mat_C1FDA1491A30AC33/Shader"
+            string "8" = "/RootNode/instances/inst_5836EAA1D6DE59B9_0/mesh"
+            string "80" = ""
+            string "81" = "/RootNode/Looks/mat_5312CF5DA5654648/Shader"
+            string "82" = ""
+            string "83" = "/RootNode/Looks/mat_5312CF5DA5654648/Shader"
+            string "84" = ""
+            string "85" = "/RootNode"
+            string "86" = ""
+            string "87" = "/RootNode/Looks/mat_6689CB4AE011C323/Shader"
+            string "88" = "/RootNode/Looks/mat_6689CB4AE011C323"
+            string "89" = ""
+            string "9" = "/RootNode/instances/inst_7ADE96BDDFD47CFF_0/mesh"
+            string "90" = "/RootNode/Looks/mat_C1FDA1491A30AC33/Shader"
+            string "91" = ""
+            string "92" = "/RootNode/Looks/mat_5312CF5DA5654648/Shader"
+            string "93" = ""
+        }
+        dictionary cameraSettings = {
+            dictionary Front = {
+                double3 position = (50000.00111758712, 0, 0)
+                double radius = 500
+            }
+            dictionary Perspective = {
+                double3 position = (-5682.544279501475, 1924.1226641405574, 318.60840809800675)
+                double3 target = (-5716.929461381439, 1934.32833739145, 315.1786427207576)
+            }
+            dictionary Right = {
+                double3 position = (0, -50000.00111758712, 0)
+                double radius = 500
+            }
+            dictionary Top = {
+                double3 position = (0, 0, 50000.00111758712)
+                double radius = 500
+            }
+            string boundCamera = "/OmniverseKit_Persp"
+        }
+        string lightspeed_layer_type = "workfile"
+        dictionary omni_layer = {
+            string authoring_layer = "./comp_sp_a1_intro1.usda"
+            dictionary locked = {
+                bool "./deps/captures/sp_a1_intro1_m101_second_container_01.usd" = 1
+            }
+            dictionary muteness = {
+                bool "./do_not_ship.usda" = 0
+            }
+        }
+        dictionary renderSettings = {
+        }
+    }
+    endTimeCode = 1
+    metersPerUnit = 1
+    startTimeCode = 0
+    timeCodesPerSecond = 24
+    upAxis = "Z"
+)
+
+over "RootNode"
+{
+    over "Looks"
+    {
+        over "mat_90ABF9B7573AA175"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_model/foliage/prop_foliage_combo_mtl_albedo.a.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/foliage/prop_foliage_combo_mtl_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/foliage/prop_foliage_combo_mtl_roughness.r.rtex.dds@
+                float inputs:subsurface_measurement_distance = 2.6399999
+                custom color3f inputs:subsurface_radius = (0.9999989, 1, 0.99999)
+                custom asset inputs:subsurface_thickness_texture = @@
+                custom asset inputs:subsurface_transmittance_texture = @./assets_hq/textures_model/foliage/prop_foliage_combo_mtl_albedo.a.rtex.dds@
+                float inputs:subsurface_volumetric_anisotropy = -0.5445
+            }
+        }
+
+        over "mat_D0F60FBA85B0333A"
+        {
+            over "Shader"
+            {
+                custom asset inputs:metallic_texture = @./assets_hq/textures_model/props_destruction/prop_destruction_metal01_metalness.m.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/props_destruction/prop_destruction_metal01_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/props_destruction/prop_destruction_metal01_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_6A51FD90DE2D039B"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_model/motel/bed01/prop_bed01_albedo.a.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/motel/bed01/prop_bed01_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/motel/bed01/prop_bed01_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_1A403D10AF8118D5"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_model/motel/closet_curtain01/prop_closet_curtain01_albedo.a.rtex.dds@
+                custom asset inputs:metallic_texture = @./assets_hq/textures_model/motel/closet_curtain01/prop_closet_curtain01_metalness.m.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/motel/closet_curtain01/prop_closet_curtain01_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/motel/closet_curtain01/prop_closet_curtain01_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_D63449BFB0EBE0F7"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_model/motel/hotel_door/mat_prop_door_albedo.a.rtex.dds@
+                custom float inputs:displace_in = 0.01
+                custom float inputs:displace_out = 0.002
+                custom asset inputs:height_texture = @./assets_hq/textures_model/motel/hotel_door/mat_prop_door_height.h.rtex.dds@
+                custom asset inputs:metallic_texture = @./assets_hq/textures_model/motel/hotel_door/mat_prop_door_metalness.m.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/motel/hotel_door/mat_prop_door_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/motel/hotel_door/mat_prop_door_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_4C1C50DA081076E3"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_model/motel/hotel_container_furniture03/prop_motel_furniture03_albedo.a.rtex.dds@
+                custom asset inputs:metallic_texture = @./assets_hq/textures_model/motel/hotel_container_furniture03/prop_motel_furniture03_metalness.m.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/motel/hotel_container_furniture03/prop_motel_furniture03_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/motel/hotel_container_furniture03/prop_motel_furniture03_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_20870211C5FAF983"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_model/motel/hotel_container_furniture01/prop_motel_furniture01_albedo.a.rtex.dds@
+                custom asset inputs:metallic_texture = @./assets_hq/textures_model/motel/hotel_container_furniture01/prop_motel_furniture01_metalness.m.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/motel/hotel_container_furniture01/prop_motel_furniture01_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/motel/hotel_container_furniture01/prop_motel_furniture01_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_C8EAC4BBC532F972"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_model/motel/hotel_container_furniture02/prop_motel_furniture02_albedo.a.rtex.dds@
+                custom asset inputs:metallic_texture = @./assets_hq/textures_model/motel/hotel_container_furniture02/prop_motel_furniture02_metalness.m.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/motel/hotel_container_furniture02/prop_motel_furniture02_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/motel/hotel_container_furniture02/prop_motel_furniture02_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_E28B7C682E4CBB1B"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_model/motel/bed02_dest/prop_bed02_dest_albedo.a.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/motel/bed02_dest/prop_bed02_dest_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/motel/bed02_dest/prop_bed02_dest_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_84D0D8CF7FCC4B2A"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_model/motel/hotel_door/mat_prop_door_albedo.a.rtex.dds@
+                custom asset inputs:metallic_texture = @./assets_hq/textures_model/motel/hotel_door/mat_prop_door_metalness.m.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/motel/hotel_door/mat_prop_door_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/motel/hotel_door/mat_prop_door_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_9B15855CDA6BF8C9"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.02
+                custom asset inputs:height_texture = @./assets_hq/textures_world/motel/BBDE3C38E269CAB0_hotel_interior_walls001/hotel_interior_walls001_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/motel/BBDE3C38E269CAB0_hotel_interior_walls001/hotel_interior_walls001_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/motel/BBDE3C38E269CAB0_hotel_interior_walls001/hotel_interior_walls001_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_5E089392BECDC334"
+        {
+            over "Shader"
+            {
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/motel/BBDE3C38E269CAB0_hotel_interior_walls001/hotel_interior_walls001_normal_dx_OTH_Normal.n.rtex.dds@
+            }
+        }
+
+        over "mat_DCD2F5241B03A88D"
+        {
+            over "Shader"
+            {
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/motel/BBDE3C38E269CAB0_hotel_interior_walls001/hotel_interior_walls001_normal_dx_OTH_Normal.n.rtex.dds@
+            }
+        }
+
+        over "mat_546BDB69FD42CBAB"
+        {
+            over "Shader"
+            {
+                custom asset inputs:metallic_texture = @./assets_hq/textures_model/motel/hotel_container_furniture02/prop_motel_furniture02_metalness.m.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/motel/hotel_container_furniture02/prop_motel_furniture02_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_D892109A12FE3D54"
+        {
+            over "Shader"
+            {
+                custom asset inputs:metallic_texture = @./assets_hq/textures_model/motel/hotel_container_furniture03/prop_motel_furniture03_metalness.m.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/motel/hotel_container_furniture03/prop_motel_furniture03_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/motel/hotel_container_furniture03/prop_motel_furniture03_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_1188B1998C59612C"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_model/motel/metal_substructure/motel_container_subframe01/prop_motel_container_subframe01_albedo.a.rtex.dds@
+                custom asset inputs:metallic_texture = @./assets_hq/textures_model/motel/metal_substructure/motel_container_subframe01/prop_motel_container_subframe01_metalness.m.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/motel/metal_substructure/motel_container_subframe01/prop_motel_container_subframe01_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/motel/metal_substructure/motel_container_subframe01/prop_motel_container_subframe01_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_0A3EC4FDB035472F"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_model/motel/metal_substructure/motel_container_subframe02/prop_motel_container_subframe02_albedo.a.rtex.dds@
+                custom asset inputs:metallic_texture = @./assets_hq/textures_model/motel/metal_substructure/motel_container_subframe02/prop_motel_container_subframe02_metalness.m.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/motel/metal_substructure/motel_container_subframe02/prop_motel_container_subframe02_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/motel/metal_substructure/motel_container_subframe02/prop_motel_container_subframe02_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_5DFD9DEA7D671597"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_model/motel/metal_substructure/5DFD9DEA7D671597_albedo.a.rtex.dds@
+                custom float inputs:metallic_constant = 0.39499998
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/motel/metal_substructure/motel_container_subframe_normal_dx_OTH_Normal.n.rtex.dds@
+                custom float inputs:reflection_roughness_constant = 0.58
+            }
+        }
+
+        over "mat_FE63227ECA815302"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_model/motel/metal_substructure/FE63227ECA815302_albedo.a.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/motel/metal_substructure/motel_container_subframe_normal_dx_OTH_Normal.n.rtex.dds@
+            }
+        }
+
+        over "mat_513DC6FAA2BA6AFE"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_model/motel/metal_substructure/513DC6FAA2BA6AFE_albedo.a.rtex.dds@
+                custom float inputs:metallic_constant = 0.835
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/motel/metal_substructure/motel_container_subframe_normal_dx_OTH_Normal.n.rtex.dds@
+                custom float inputs:reflection_roughness_constant = 0.465
+            }
+        }
+
+        over "mat_2F071A21BBC065CB"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_model/motel/hotel_container_outside/2F071A21BBC065CB_subframe_rust _albedo.a.rtex.dds@
+                custom asset inputs:metallic_texture = @./assets_hq/textures_model/motel/hotel_container_outside/2F071A21BBC065CB_subframe_rust metalness.m.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/motel/hotel_container_outside/2F071A21BBC065CB_subframe_rust normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/motel/hotel_container_outside/2F071A21BBC065CB_subframe_rust roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_2A9964CFA960828B"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_model/motel/hotel_container_outside/2A9964CFA960828B_shell01 _albedo.a.rtex.dds@
+                custom asset inputs:metallic_texture = @./assets_hq/textures_model/motel/hotel_container_outside/2A9964CFA960828B_shell01 metalness.m.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/motel/hotel_container_outside/2A9964CFA960828B_shell01 normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/motel/hotel_container_outside/2A9964CFA960828B_shell01 roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_D7EF0F6F07037712"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_model/motel/hotel_container_outside/D7EF0F6F07037712_shell04_albedo.a.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/motel/hotel_container_outside/DF4570BC3A7F73DB_shell02_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/motel/hotel_container_outside/DF4570BC3A7F73DB_shell02_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_D1CB7B983ABC609E"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_model/motel/hotel_container_outside/D1CB7B983ABC609E_shell_combined01_albedo.a.rtex.dds@
+                custom asset inputs:metallic_texture = @./assets_hq/textures_model/motel/hotel_container_outside/D1CB7B983ABC609E_shell_combined01_metalness.m.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/motel/hotel_container_outside/D1CB7B983ABC609E_shell_combined01_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/motel/hotel_container_outside/D1CB7B983ABC609E_shell_combined01_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_14F0F2E8D3BA5141"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_model/motel/hotel_container_outside/14F0F2E8D3BA5141_shell_combined02 _albedo.a.rtex.dds@
+                custom asset inputs:metallic_texture = @./assets_hq/textures_model/motel/hotel_container_outside/14F0F2E8D3BA5141_shell_combined02 _metalness.m.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/motel/hotel_container_outside/14F0F2E8D3BA5141_shell_combined02 _normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/motel/hotel_container_outside/14F0F2E8D3BA5141_shell_combined02_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_B23A6A3DFFAB581A"
+        {
+            over "Shader"
+            {
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/motel/hotel_container_outside/B23A6A3DFFAB581A_shell03_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/motel/hotel_container_outside/B23A6A3DFFAB581A_shell03_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_DF4570BC3A7F73DB"
+        {
+            over "Shader"
+            {
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/motel/hotel_container_outside/DF4570BC3A7F73DB_shell02_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/motel/hotel_container_outside/DF4570BC3A7F73DB_shell02_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_A1EB3F7335EE09C7"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_model/props/metal_box/prop_metal_box_dusty_albedo.a.rtex.dds@
+                custom float inputs:emissive_intensity = 0.25
+                custom asset inputs:emissive_mask_texture = @./assets_hq/textures_model/props/metal_box/prop_metal_box_dusty_orange_emissive.e.rtex.dds@
+                custom bool inputs:enable_emission = 1
+                custom asset inputs:metallic_texture = @./assets_hq/textures_model/props/metal_box/prop_metal_box_dusty_metalness.m.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/props/metal_box/prop_metal_box_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/props/metal_box/prop_metal_box_dusty_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_14B193F6317D7B9E"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_model/props/metal_box/prop_metal_box_dusty_albedo.a.rtex.dds@
+                custom float inputs:emissive_intensity = 0.2
+                custom asset inputs:emissive_mask_texture = @./assets_hq/textures_model/props/metal_box/prop_metal_box_dusty_blue_emissive.e.rtex.dds@
+                custom bool inputs:enable_emission = 1
+                custom asset inputs:metallic_texture = @./assets_hq/textures_model/props/metal_box/prop_metal_box_dusty_metalness.m.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/props/metal_box/prop_metal_box_dusty_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/props/metal_box/prop_metal_box_dusty_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_361BC3323F89738A"
+        {
+            over "Shader"
+            {
+                custom float inputs:subsurface_radius_scale = 0
+            }
+        }
+
+        over "mat_DEEF18A891EBAD7C"
+        {
+            over "Shader"
+            {
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/elevator/DEEF18A891EBAD7C_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_F0E4D3DA631D8AB0"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_model/props/metal_box/prop_metal_box_albedo.a.rtex.dds@
+                custom float inputs:emissive_intensity = 0.3
+                custom asset inputs:emissive_mask_texture = @./assets_hq/textures_model/props/metal_box/prop_metal_box_blue_emissive.e.rtex.dds@
+                custom bool inputs:enable_emission = 1
+                custom asset inputs:metallic_texture = @./assets_hq/textures_model/props/metal_box/prop_metal_box_metalness.m.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/props/metal_box/prop_metal_box_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/props/metal_box/prop_metal_box_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_FE295BD5D57B4FCC"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_model/props/metal_box/prop_metal_box_albedo.a.rtex.dds@
+                custom float inputs:emissive_intensity = 0.3
+                custom asset inputs:emissive_mask_texture = @./assets_hq/textures_model/props/metal_box/prop_metal_box_orange_emissive.e.rtex.dds@
+                custom bool inputs:enable_emission = 1
+                custom asset inputs:metallic_texture = @./assets_hq/textures_model/props/metal_box/prop_metal_box_metalness.m.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/props/metal_box/prop_metal_box_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/props/metal_box/prop_metal_box_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_990C1CCB42F806E0"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_model/portal_gun/v_portalgun_albedo.a.rtex.dds@
+                custom asset inputs:metallic_texture = @./assets_hq/textures_model/portal_gun/v_portalgun_metal.m.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_model/portal_gun/v_portalgun_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_model/portal_gun/v_portalgun_roughness.r.rtex.dds@
+            }
+        }
+    }
+
+    over "meshes"
+    {
+        over "mesh_F18BBD6C4F67F65A" (
+            references = None
+        )
+        {
+            def Xform "ref_5d767541577e46728c0dc5410fe1d702" (
+                prepend references = @./assets_hq/models/foliage/ivy/ivy_flat01/ivy_flat01.usda@
+            )
+            {
+                custom bool IsRemixRef = 1
+                double3 xformOp:rotateXYZ = (0, 0, 0)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (0, 0, 0)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                over "XForms"
+                {
+                    float3 xformOp:rotateXYZ = (0, 0, 90)
+                    float3 xformOp:scale = (0.1, 0.1, 0.1)
+                    double3 xformOp:translate = (0.36022876232914314, -3.165678208461031e-8, 4.665537027328355)
+                    uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                    over "World"
+                    {
+                        over "brown_ivy_flat"
+                        {
+                            float3 xformOp:rotateXYZ = (0, -0, -90)
+                            float3 xformOp:scale = (10, 10, 10)
+                            double3 xformOp:translate = (0, 0, 0)
+                            uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                            over "brown_ivy_flat_001"
+                            {
+                                uniform bool doubleSided = 1
+                            }
+                        }
+
+                        over "brown_ivy_short"
+                        {
+                            float3 xformOp:rotateXYZ = (0, -0, -90)
+                            float3 xformOp:scale = (10, 10, 10)
+                            double3 xformOp:translate = (0, 0, 0)
+                            uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                            over "brown_ivy_short_001"
+                            {
+                                uniform bool doubleSided = 1
+                            }
+                        }
+
+                        over "green_ivy_flat"
+                        {
+                            float3 xformOp:rotateXYZ = (0, -0, -90)
+                            float3 xformOp:scale = (10, 10, 10)
+                            double3 xformOp:translate = (0, 0, 0)
+                            uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                            over "green_ivy_flat_001"
+                            {
+                                uniform bool doubleSided = 1
+                            }
+                        }
+
+                        over "Looks"
+                        {
+                            over "vine_material"
+                            {
+                                over "Shader"
+                                {
+                                    custom asset inputs:diffuse_texture = @./assets_hq/models/foliage/ivy/ivy_flat01/Atlas-100-A_BaseColor.a.rtex.dds@
+                                    custom float inputs:displace_in = 0
+                                    custom float inputs:displace_out = 0
+                                    bool inputs:enable_emission = 0
+                                    custom asset inputs:height_texture = @@
+                                    custom asset inputs:normalmap_texture = @./assets_hq/models/foliage/ivy/ivy_flat01/Atlas-100-A_OTH_Normal.n.rtex.dds@
+                                    custom asset inputs:reflectionroughness_texture = @./assets_hq/models/foliage/ivy/ivy_flat01/Atlas-100-A_Roughness.r.rtex.dds@
+                                    custom bool inputs:subsurface_diffusion_profile = 0
+                                    custom float inputs:subsurface_max_sample_radius = 16
+                                    custom float inputs:subsurface_measurement_distance = 2.8
+                                    custom color3f inputs:subsurface_radius = (0.9999986, 1, 0.99999)
+                                    custom float inputs:subsurface_radius_scale = 0
+                                    custom asset inputs:subsurface_radius_texture = @./assets_hq/models/foliage/ivy/ivy_flat01/Atlas-100-A_Translucency.a.rtex.dds@
+                                    custom color3f inputs:subsurface_single_scattering_albedo = (1, 0.99999, 0.99999)
+                                    custom color3f inputs:subsurface_transmittance_color = (0.9999957, 1, 0.99999)
+                                    custom asset inputs:subsurface_transmittance_texture = @./assets_hq/models/foliage/ivy/ivy_flat01/Atlas-100-A_Brighter_Translucency.a.rtex.dds@
+                                    custom float inputs:subsurface_volumetric_anisotropy = 0.0495
+                                }
+                            }
+
+                            over "mtl_brown_leafs"
+                            {
+                                over "Shader"
+                                {
+                                    custom asset inputs:diffuse_texture = @./assets_hq/models/foliage/ivy/ivy_flat01/Atlas-18-A_BaseColor.a.rtex.dds@
+                                    custom asset inputs:normalmap_texture = @./assets_hq/models/foliage/ivy/ivy_flat01/Atlas-18-A_OTH_Normal.n.rtex.dds@
+                                    custom float inputs:reflection_roughness_constant = 0.705
+                                    custom asset inputs:reflectionroughness_texture = @./assets_hq/models/foliage/ivy/ivy_flat01/Atlas-18-A_Roughness.r.rtex.dds@
+                                    custom bool inputs:subsurface_diffusion_profile = 0
+                                    custom float inputs:subsurface_measurement_distance = 4.72
+                                    custom color3f inputs:subsurface_radius = (1, 0.99999, 0.99999)
+                                    custom float inputs:subsurface_radius_scale = 0
+                                    custom asset inputs:subsurface_radius_texture = @@
+                                    custom color3f inputs:subsurface_single_scattering_albedo = (1, 0.99999464, 0.99999)
+                                    custom color3f inputs:subsurface_transmittance_color = (0.93822396, 0.8760595, 0.82592684)
+                                    custom asset inputs:subsurface_transmittance_texture = @./assets_hq/models/foliage/ivy/ivy_flat01/Atlas-18-A_BaseColor.a.rtex.dds@
+                                    custom float inputs:subsurface_volumetric_anisotropy = -0.099
+                                }
+                            }
+
+                            over "mtl_vine"
+                            {
+                                over "Shader"
+                                {
+                                    color3f inputs:diffuse_color_constant = (0.16216218, 0.124136224, 0.08076804)
+                                    custom float inputs:reflection_roughness_constant = 0.92499995
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        over "mesh_8C8B4A5EB2ED8436"
+        {
+            def Xform "ref_c4b7884683a545cd97e513020875a021" (
+                prepend references = @./assets_hq/models/foliage/ivy/ivy_flat01/ivy_flat01.usda@
+            )
+            {
+                custom bool IsRemixRef = 1
+                double3 xformOp:rotateXYZ = (0, 0, 0)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (0, 0, 0)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+        }
+
+        over "mesh_1E78EED7270E075E" (
+            references = None
+        )
+        {
+            def Xform "ref_b847f706417447a8ac3dd13ac52d2281" (
+                prepend references = @./assets_hq/models/foliage/ivy/ivy_flat01/ivy_hanging_1E78EED.usda@
+            )
+            {
+                custom bool IsRemixRef = 1
+                double3 xformOp:rotateXYZ = (0, 0, 0)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (0, 0, 0)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                over "XForms"
+                {
+                    float3 xformOp:rotateXYZ = (0, 0, 90)
+                    float3 xformOp:scale = (1, 1, 1)
+                    double3 xformOp:translate = (0, 0, 0)
+                    uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                    over "World"
+                    {
+                        over "ivy_brown"
+                        {
+                            over "ivy_brown"
+                            {
+                                uniform bool doubleSided = 1
+                            }
+                        }
+
+                        over "ivy_green"
+                        {
+                            over "ivy_green"
+                            {
+                                uniform bool doubleSided = 1
+                            }
+                        }
+
+                        over "Looks"
+                        {
+                            over "mtl_grandiflora_leaf"
+                            {
+                                over "Shader"
+                                {
+                                    custom float inputs:metallic_constant = 0
+                                    custom float inputs:reflection_roughness_constant = 0.69
+                                    custom asset inputs:reflectionroughness_texture = @./assets_hq/models/foliage/ivy/ivy_flat01/Beaumontia_grandiflora_leaf_roughness.r.rtex.dds@
+                                    custom float inputs:subsurface_measurement_distance = 2.8
+                                    custom color3f inputs:subsurface_single_scattering_albedo = (1, 0.99999, 0.99999)
+                                    custom color3f inputs:subsurface_transmittance_color = (1, 0.99999, 0.99999)
+                                    custom asset inputs:subsurface_transmittance_texture = @./assets_hq/models/foliage/ivy/ivy_flat01/Beaumontia_grandiflora_leaf_Color.a.rtex.dds@
+                                    custom float inputs:subsurface_volumetric_anisotropy = 0.0297
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        over "mesh_75CC876C8D055624" (
+            references = None
+        )
+        {
+            def Xform "ref_661e518627294726a4df149b82d1c00f" (
+                prepend references = @./assets_hq/models/foliage/ivy/ivy_flat01/ivy_hanging_75CC87.usda@
+            )
+            {
+                custom bool IsRemixRef = 1
+                double3 xformOp:rotateXYZ = (0, 0, 0)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (0, 0, 0)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                over "XForms"
+                {
+                    float3 xformOp:rotateXYZ = (0, 0, 90)
+                    float3 xformOp:scale = (1, 1, 1)
+                    double3 xformOp:translate = (0, 0, 0)
+                    uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                    over "World"
+                    {
+                        over "Looks"
+                        {
+                            over "mtl_grandiflora_leaf"
+                            {
+                                over "Shader"
+                                {
+                                    custom float inputs:subsurface_measurement_distance = 2.64
+                                    custom float inputs:subsurface_volumetric_anisotropy = -0.1485
+                                }
+                            }
+                        }
+
+                        over "ivy_hanging_75CC87"
+                        {
+                            over "ivy_hanging_75CC87"
+                            {
+                                uniform bool doubleSided = 1
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        over "mesh_F9DB8E4CC2417478" (
+            references = None
+        )
+        {
+            def Xform "ref_bb326bcd07a34aeaa7079085fa51c40a" (
+                prepend references = @./assets_hq/models/foliage/ivy/ivy_flat01/ivy_F9DB8E4.usda@
+            )
+            {
+                custom bool IsRemixRef = 1
+                double3 xformOp:rotateXYZ = (0, 0, 0)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (0, 0, 0)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                over "XForms"
+                {
+                    float3 xformOp:rotateXYZ = (0, 0, 90)
+                    float3 xformOp:scale = (1, 1, 1)
+                    double3 xformOp:translate = (0, 0, 0)
+                    uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                    over "World"
+                    {
+                        over "Looks"
+                        {
+                            over "vine_material"
+                            {
+                                over "Shader"
+                                {
+                                    custom float inputs:subsurface_measurement_distance = 0.96
+                                    custom float inputs:subsurface_volumetric_anisotropy = 0.099
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        over "mesh_80523FB6915F355D" (
+            references = None
+        )
+        {
+            def Xform "ref_1f0b83852d0b4139a2f042caf52f14dd" (
+                prepend references = @./assets_hq/models/foliage/ivy/ivy_flat01/ivy_80523F.usda@
+            )
+            {
+                custom bool IsRemixRef = 1
+                double3 xformOp:rotateXYZ = (0, 0, 0)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (0, 0, 0)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                over "XForms"
+                {
+                    float3 xformOp:rotateXYZ = (0, 0, 90)
+                    float3 xformOp:scale = (1, 1, 1)
+                    double3 xformOp:translate = (0, 0, 0)
+                    uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                    over "World"
+                    {
+                        over "ivy_80523F_hanging"
+                        {
+                            over "ivy_80523F_hanging"
+                            {
+                                uniform bool doubleSided = 1
+                            }
+                        }
+
+                        over "ivy_80523F_top"
+                        {
+                            over "ivy_80523F_top"
+                            {
+                                uniform bool doubleSided = 1
+                            }
+                        }
+
+                        over "Looks"
+                        {
+                            over "vine_material"
+                            {
+                                over "Shader"
+                                {
+                                    custom float inputs:metallic_constant = 0
+                                    custom asset inputs:normalmap_texture = @./assets_hq/models/foliage/ivy/ivy_flat01/Atlas-100-A_OTH_Normal.n.rtex.dds@
+                                    custom float inputs:reflection_roughness_constant = 0.48499998
+                                    custom asset inputs:reflectionroughness_texture = @@
+                                    custom float inputs:subsurface_measurement_distance = 1.92
+                                    custom color3f inputs:subsurface_single_scattering_albedo = (0.34749037, 0.28808427, 0.095258005)
+                                    custom float inputs:subsurface_volumetric_anisotropy = -0.5643
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+

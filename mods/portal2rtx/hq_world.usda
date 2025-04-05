@@ -1,0 +1,533 @@
+#usda 1.0
+(
+    customLayerData = {
+        dictionary SelectionHistoryList = {
+            string "0" = "/RootNode/instances/inst_245B17A26E597B54_0/mesh"
+            string "1" = "/RootNode/instances/inst_E35268D874EB0631_0/SphereLight"
+            string "10" = "/RootNode/instances/inst_F66D628674E1FE66_0/mesh"
+            string "11" = "/RootNode/instances/inst_C2DB75CC87DA0E47_0/mesh"
+            string "12" = "/RootNode/instances/inst_C4C909B91F73098B_0/mesh"
+            string "13" = "/RootNode/instances/inst_3E5053CC3BD15F66_0/mesh"
+            string "14" = "/RootNode/instances/inst_47EBDC06098B0BE2_0/mesh"
+            string "15" = "/RootNode/instances/inst_D1F268FE31C4C83A_0/mesh"
+            string "16" = "/RootNode/instances/inst_363AD3651D92679F_0/mesh"
+            string "17" = "/RootNode/instances/inst_6E6CC7465D397CAD_0/mesh"
+            string "18" = "/RootNode/instances/inst_8A619E6A47B8094C_0/mesh"
+            string "19" = "/RootNode/instances/inst_F9E10650AB5E09DA_0/mesh"
+            string "2" = "/RootNode/instances/inst_E35268D874EB0631_0/mesh"
+            string "20" = "/RootNode/instances/inst_5BAC44392AD00917_0/mesh"
+            string "21" = "/RootNode/instances/inst_E23BC63B5DFE7D00_0/mesh"
+            string "22" = "/RootNode/instances/inst_405AA39EBDB5C932_9/mesh"
+            string "23" = "/RootNode/instances/inst_25F5ACBB87257603_0/mesh"
+            string "24" = "/RootNode/instances/inst_BE36DABB3D45D1A8_0/mesh"
+            string "25" = "/RootNode/instances/inst_E40D7619E2EEE0E3_0/mesh"
+            string "26" = "/RootNode/instances/inst_509E50FDA3D17D73_0/mesh"
+            string "27" = "/RootNode/instances/inst_A83CE458B5A4B659_0/mesh"
+            string "28" = "/RootNode/instances/inst_64E528F4B92D9A0A_0/mesh"
+            string "29" = "/RootNode/instances/inst_DCFB8A27E7E2122A_0/mesh"
+            string "3" = "/RootNode/instances/inst_13EA136ADA3A4E70_0/mesh"
+            string "30" = "/RootNode/instances/inst_2B4CD6907124E420_0/mesh"
+            string "31" = "/RootNode/instances/inst_58C7126652B803CA_0/mesh"
+            string "32" = "/RootNode/instances/inst_0424C3517E41E1FC_0/mesh"
+            string "33" = "/RootNode/instances/inst_EA8AE5A319059DEE_0/mesh"
+            string "34" = "/RootNode/instances/inst_15BC1593E8C8DDA7_0/mesh"
+            string "35" = "/RootNode/instances/inst_77CA36A41F53078E_0/mesh"
+            string "36" = "/RootNode/instances/inst_5E30AFE6E8915D9A_0/mesh"
+            string "37" = "/RootNode/instances/inst_B03B82671B80651E_0/mesh"
+            string "38" = "/RootNode/instances/inst_61B69E681A2EE4CC_0/mesh"
+            string "39" = "/RootNode/instances/inst_CD04759233E6CC19_0/mesh"
+            string "4" = "/RootNode/instances/inst_FFEBA2773D4AE6B0_0/mesh"
+            string "40" = "/RootNode/instances/inst_1B17B72F1D8DBDE4_0/mesh"
+            string "41" = "/RootNode/instances/inst_42B6FF28FE734634_0/mesh"
+            string "42" = "/RootNode/instances/inst_71EC5B79D9E82FF8_0/mesh"
+            string "43" = "/RootNode/instances/inst_DAC0F6F7064AA668_0/mesh"
+            string "44" = "/RootNode/instances/inst_647932AF787E5636_0/mesh"
+            string "45" = "/RootNode/instances/inst_8953BE679EF995E4_0/mesh"
+            string "46" = "/RootNode/instances/inst_BEA22777D694109D_0/mesh"
+            string "47" = "/RootNode/instances/inst_E3ED7672E6D548C9_0/mesh"
+            string "48" = "/RootNode/instances/inst_BD58B4FFE12677F3_0/mesh"
+            string "49" = "/RootNode/instances/inst_F909F05906A7C509_0/mesh"
+            string "5" = "/RootNode/instances/inst_3DF35B8A6F614124_0/mesh"
+            string "50" = "/RootNode/instances/inst_282FBC1BD3B9C3F5_0/mesh"
+            string "51" = "/RootNode/instances/inst_8697DAAC55F01C90_0/mesh"
+            string "52" = "/RootNode/instances/inst_C12FE6ACB4EAAD69_0/mesh"
+            string "53" = "/RootNode/instances/inst_9C96DF97AA819A34_0/mesh"
+            string "54" = "/RootNode/instances/inst_46CDF2BF859E3C67_0/mesh"
+            string "55" = "/RootNode/instances/inst_1ED130E0C5E21EDF_0/mesh"
+            string "56" = "/RootNode/instances/inst_46CDF2BF859E3C67_0/mesh"
+            string "57" = ""
+            string "58" = "/RootNode/Looks/mat_6689CB4AE011C323/Shader"
+            string "59" = "/RootNode/Looks/mat_6689CB4AE011C323"
+            string "6" = "/RootNode/instances/inst_4FB27C52324EE155_0/mesh"
+            string "60" = ""
+            string "61" = "/RootNode/Looks/mat_C1FDA1491A30AC33/Shader"
+            string "62" = ""
+            string "63" = "/RootNode/Looks/mat_5312CF5DA5654648/Shader"
+            string "64" = ""
+            string "65" = "/RootNode/Looks/mat_5312CF5DA5654648/Shader"
+            string "66" = ""
+            string "67" = "/RootNode"
+            string "68" = ""
+            string "69" = "/RootNode/Looks/mat_6689CB4AE011C323/Shader"
+            string "7" = "/RootNode/instances/inst_9D34296BB43CFDF7_0/mesh"
+            string "70" = "/RootNode/Looks/mat_6689CB4AE011C323"
+            string "71" = ""
+            string "72" = "/RootNode/Looks/mat_C1FDA1491A30AC33/Shader"
+            string "73" = ""
+            string "74" = "/RootNode/Looks/mat_5312CF5DA5654648/Shader"
+            string "75" = ""
+            string "76" = "/RootNode/Looks/mat_6689CB4AE011C323/Shader"
+            string "77" = "/RootNode/Looks/mat_6689CB4AE011C323"
+            string "78" = ""
+            string "79" = "/RootNode/Looks/mat_C1FDA1491A30AC33/Shader"
+            string "8" = "/RootNode/instances/inst_5836EAA1D6DE59B9_0/mesh"
+            string "80" = ""
+            string "81" = "/RootNode/Looks/mat_5312CF5DA5654648/Shader"
+            string "82" = ""
+            string "83" = "/RootNode/Looks/mat_5312CF5DA5654648/Shader"
+            string "84" = ""
+            string "85" = "/RootNode"
+            string "86" = ""
+            string "87" = "/RootNode/Looks/mat_6689CB4AE011C323/Shader"
+            string "88" = "/RootNode/Looks/mat_6689CB4AE011C323"
+            string "89" = ""
+            string "9" = "/RootNode/instances/inst_7ADE96BDDFD47CFF_0/mesh"
+            string "90" = "/RootNode/Looks/mat_C1FDA1491A30AC33/Shader"
+            string "91" = ""
+            string "92" = "/RootNode/Looks/mat_5312CF5DA5654648/Shader"
+            string "93" = ""
+        }
+        dictionary cameraSettings = {
+            dictionary Front = {
+                double3 position = (50000.00111758712, 0, 0)
+                double radius = 500
+            }
+            dictionary Perspective = {
+                double3 position = (-5682.544279501475, 1924.1226641405574, 318.60840809800675)
+                double3 target = (-5716.929461381439, 1934.32833739145, 315.1786427207576)
+            }
+            dictionary Right = {
+                double3 position = (0, -50000.00111758712, 0)
+                double radius = 500
+            }
+            dictionary Top = {
+                double3 position = (0, 0, 50000.00111758712)
+                double radius = 500
+            }
+            string boundCamera = "/OmniverseKit_Persp"
+        }
+        string lightspeed_layer_type = "workfile"
+        dictionary omni_layer = {
+            string authoring_layer = "./comp_sp_a1_intro1.usda"
+            dictionary locked = {
+                bool "./deps/captures/sp_a1_intro1_m101_second_container_01.usd" = 1
+            }
+            dictionary muteness = {
+                bool "./do_not_ship.usda" = 0
+            }
+        }
+        dictionary renderSettings = {
+        }
+    }
+    endTimeCode = 1
+    metersPerUnit = 1
+    startTimeCode = 0
+    timeCodesPerSecond = 24
+    upAxis = "Z"
+)
+
+over "RootNode"
+{
+    over "Looks"
+    {
+        over "mat_7C8AFE9F2C3DEB5B"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_world/ceiling/grid_ceiling/grid_ceiling_5x5_albedo.a.rtex.dds@
+                custom float inputs:displace_in = 0.005
+                custom float inputs:displace_out = 0
+                custom asset inputs:height_texture = @./assets_hq/textures_world/ceiling/grid_ceiling/grid_ceiling_5x5_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/ceiling/grid_ceiling/grid_ceiling_5x5_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_54E418E86BA2B997"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_world/ceiling/grid_ceiling/grid_ceiling_5x5_albedo.a.rtex.dds@
+                custom float inputs:displace_in = 0.005
+                custom float inputs:displace_out = 0
+                custom asset inputs:height_texture = @./assets_hq/textures_world/ceiling/grid_ceiling/grid_ceiling_5x5_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/ceiling/grid_ceiling/grid_ceiling_5x5_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_6F7956F806A9CC21"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_world/ceiling/grid_ceiling/grid_ceiling_albedo.a.rtex.dds@
+                custom float inputs:displace_in = 0.005
+                custom asset inputs:height_texture = @./assets_hq/textures_world/ceiling/grid_ceiling/grid_ceiling_height.h.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/ceiling/grid_ceiling/grid_ceiling_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_FE7F15F6A4F76D5D"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_world/concrete/concrete_a1/concrete_a1_albedo.a.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/concrete/concrete_a1/concrete_a1_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/concrete/concrete_a1/concrete_a1_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_B4FF8054BBFF32AF"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_world/elevator/B4FF8054BBFF32AF_2x_albedo.a.rtex.dds@
+                custom asset inputs:metallic_texture = @./assets_hq/textures_world/elevator/B4FF8054BBFF32AF_metalness.m.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/elevator/B4FF8054BBFF32AF_more_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/elevator/B4FF8054BBFF32AF_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_F88EDCC459DDEA67"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_world/metal/F88EDCC459DDEA67/F88EDCC459DDEA67_2x_albedo.a.rtex.dds@
+                custom float inputs:displace_in = 0.1
+                custom float inputs:displace_out = 0
+                custom asset inputs:height_texture = @./assets_hq/textures_world/metal/F88EDCC459DDEA67/F88EDCC459DDEA67_2x_height.h.rtex.dds@
+                custom asset inputs:metallic_texture = @./assets_hq/textures_world/metal/F88EDCC459DDEA67/F88EDCC459DDEA67_2x_metal.m.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/metal/F88EDCC459DDEA67/F88EDCC459DDEA67_2x_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/metal/F88EDCC459DDEA67/F88EDCC459DDEA67_2x_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_BE8EE906CD2B2296"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_world/metal/BE8EE906CD2B2296/black_wall_metal_005a_albedo.a.rtex.dds@
+                custom float inputs:displace_in = 0.005
+                custom asset inputs:height_texture = @./assets_hq/textures_world/metal/BE8EE906CD2B2296/black_wall_metal_005a_better_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/metal/BE8EE906CD2B2296/black_wall_metal_005a_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/metal/BE8EE906CD2B2296/black_wall_metal_005a_less_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_0194B8EAD54D2A45"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_world/metal/0194B8EAD54D2A45_metalwall_bts_006/metalwall_bts_006a_2x_albedo.a.rtex.dds@
+                custom float inputs:displace_in = 0.06
+                custom float inputs:displace_out = 0
+                custom asset inputs:height_texture = @./assets_hq/textures_world/metal/0194B8EAD54D2A45_metalwall_bts_006/metalwall_bts_006a_2x_height.h.rtex.dds@
+                custom asset inputs:metallic_texture = @./assets_hq/textures_world/metal/0194B8EAD54D2A45_metalwall_bts_006/metalwall_bts_006a_2x_metal.m.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/metal/0194B8EAD54D2A45_metalwall_bts_006/metalwall_bts_006a_2x_merged_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/metal/0194B8EAD54D2A45_metalwall_bts_006/metalwall_bts_006a_2x_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_DC16DBB87079D7FE"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_world/metal/DC16DBB87079D7FE_beam/DC16DBB87079D7FE_2x_albedo.a.rtex.dds@
+                custom float inputs:displace_in = 0.02
+                custom asset inputs:height_texture = @./assets_hq/textures_world/metal/DC16DBB87079D7FE_beam/DC16DBB87079D7FE_height.h.rtex.dds@
+                custom float inputs:metallic_constant = 0.275
+                custom asset inputs:metallic_texture = @@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/metal/DC16DBB87079D7FE_beam/DC16DBB87079D7FE_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/metal/DC16DBB87079D7FE_beam/DC16DBB87079D7FE_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_D29F86C125BC747E"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_world/metal/D29F86C125BC747E_black_wall_metal_005b/black_wall_metal_005b_2x_albedo.a.rtex.dds@
+                custom float inputs:displace_in = 0
+                custom float inputs:displace_out = 0
+                custom asset inputs:height_texture = @./assets_hq/textures_world/metal/D29F86C125BC747E_black_wall_metal_005b/black_wall_metal_005b_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/metal/D29F86C125BC747E_black_wall_metal_005b/black_wall_metal_005b_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/metal/D29F86C125BC747E_black_wall_metal_005b/black_wall_metal_005b_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_67EA007C38BF2F9F"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_world/metal/67EA007C38BF2F9F_black_wall_metal_005c/black_wall_metal_005c_albedo.a.rtex.dds@
+                custom float inputs:displace_in = 0
+                custom float inputs:displace_out = 0.008
+                custom asset inputs:height_texture = @./assets_hq/textures_world/metal/67EA007C38BF2F9F_black_wall_metal_005c/black_wall_metal_005c_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/metal/67EA007C38BF2F9F_black_wall_metal_005c/black_wall_metal_005c_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/metal/67EA007C38BF2F9F_black_wall_metal_005c/black_wall_metal_005c_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_0DB99B058D6B83A8"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_world/tiles/0DB99B058D6B83A8_white_wall_tile004h/white_wall_tile004h_albedo.a.rtex.dds@
+                custom float inputs:displace_in = 0
+                custom float inputs:displace_out = 0.005
+                custom asset inputs:height_texture = @./assets_hq/textures_world/tiles/0DB99B058D6B83A8_white_wall_tile004h/white_floor_tile004d_dots_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/tiles/0DB99B058D6B83A8_white_wall_tile004h/white_floor_tile004d_holes_much_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/tiles/0DB99B058D6B83A8_white_wall_tile004h/white_wall_tile004h_holes_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_58EB7898B0294D74"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_world/tiles/58EB7898B0294D74_white_wall_tile004d/white_wall_tile004d_albedo.a.rtex.dds@
+                custom float inputs:displace_in = 0.003
+                custom float inputs:displace_out = 0
+                custom asset inputs:height_texture = @./assets_hq/textures_world/tiles/58EB7898B0294D74_white_wall_tile004d/white_wall_tile004a_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/tiles/58EB7898B0294D74_white_wall_tile004d/white_wall_tile004a_normal_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/tiles/58EB7898B0294D74_white_wall_tile004d/white_wall_tile004c_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_FF9270B42DF1D29E"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.003
+                custom asset inputs:height_texture = @./assets_hq/textures_world/tiles/58EB7898B0294D74_white_wall_tile004d/white_wall_tile004a_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/tiles/58EB7898B0294D74_white_wall_tile004d/white_wall_tile004a_normal_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/tiles/58EB7898B0294D74_white_wall_tile004d/white_wall_tile004c_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_FDCBB035BF2DE1E2"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.003
+                custom asset inputs:height_texture = @./assets_hq/textures_world/tiles/58EB7898B0294D74_white_wall_tile004d/white_wall_tile004a_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/tiles/58EB7898B0294D74_white_wall_tile004d/white_wall_tile004a_normal_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/tiles/58EB7898B0294D74_white_wall_tile004d/white_wall_tile004c_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_77A6A9E47B99D3BC"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.003
+                custom asset inputs:height_texture = @./assets_hq/textures_world/tiles/58EB7898B0294D74_white_wall_tile004d/white_wall_tile004a_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/tiles/58EB7898B0294D74_white_wall_tile004d/white_wall_tile004a_normal_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/tiles/58EB7898B0294D74_white_wall_tile004d/white_wall_tile004c_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_DE5AC43FF2678076"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.003
+                custom asset inputs:height_texture = @./assets_hq/textures_world/tiles/58EB7898B0294D74_white_wall_tile004d/white_wall_tile004a_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/tiles/58EB7898B0294D74_white_wall_tile004d/white_wall_tile004a_normal_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/tiles/58EB7898B0294D74_white_wall_tile004d/white_wall_tile004c_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_DA4B8058A8FF657C"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_world/nature/DA4B8058A8FF657C_dirtfloor004c/mat_dirtfloor004c_dirty_albedo.a.rtex.dds@
+                custom float inputs:displace_in = 0
+                custom float inputs:displace_out = 0.008
+                custom asset inputs:height_texture = @./assets_hq/textures_world/nature/DA4B8058A8FF657C_dirtfloor004c/dirtfloor004c_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/nature/DA4B8058A8FF657C_dirtfloor004c/mat_dirtfloor004c_dirty_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/nature/DA4B8058A8FF657C_dirtfloor004c/mat_dirtfloor004c_dirty_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_50D849525E2DD721"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_world/overlays/50D849525E2DD721_overlay_moss01/overlay_moss01_albedo.a.rtex.dds@
+                custom float inputs:displace_in = 0.004
+                custom float inputs:displace_out = 0.004
+                custom asset inputs:height_texture = @./assets_hq/textures_world/overlays/50D849525E2DD721_overlay_moss01/overlay_moss01_albedo_smooth_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/overlays/50D849525E2DD721_overlay_moss01/overlay_moss01_albedo_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/overlays/50D849525E2DD721_overlay_moss01/overlay_moss01_albedo_less_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_BBDE3C38E269CAB0"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_world/motel/BBDE3C38E269CAB0_hotel_interior_walls001/hotel_interior_walls001_albedo.a.rtex.dds@
+                custom float inputs:displace_in = 0
+                custom float inputs:displace_out = 0.013
+                custom asset inputs:height_texture = @./assets_hq/textures_world/motel/BBDE3C38E269CAB0_hotel_interior_walls001/hotel_interior_walls001_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/motel/BBDE3C38E269CAB0_hotel_interior_walls001/hotel_interior_walls001_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/motel/BBDE3C38E269CAB0_hotel_interior_walls001/hotel_interior_walls001_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_F18DA607F5D0C0FF"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_world/motel/F18DA607F5D0C0FF_hotel_carpet001/mat_hotel_carpet001_albedo.a.rtex.dds@
+                custom float inputs:displace_in = 0.01
+                custom float inputs:displace_out = 0.03
+                custom asset inputs:height_texture = @./assets_hq/textures_world/motel/F18DA607F5D0C0FF_hotel_carpet001/mat_hotel_carpet001_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/motel/F18DA607F5D0C0FF_hotel_carpet001/mat_hotel_carpet001_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/motel/F18DA607F5D0C0FF_hotel_carpet001/mat_hotel_carpet001_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_64156BC8C2374769"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.013
+                custom float inputs:displace_out = 0.005
+                custom asset inputs:height_texture = @./assets_hq/textures_world/motel/BBDE3C38E269CAB0_hotel_interior_walls001/hotel_interior_walls001_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/motel/BBDE3C38E269CAB0_hotel_interior_walls001/hotel_interior_walls001_normal_dx_OTH_Normal.n.rtex.dds@
+            }
+        }
+
+        over "mat_23F36BED99BA9EC2"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.005
+                custom float inputs:displace_out = 0.005
+                custom asset inputs:height_texture = @./assets_hq/textures_world/motel/BBDE3C38E269CAB0_hotel_interior_walls001/hotel_interior_walls001_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/motel/BBDE3C38E269CAB0_hotel_interior_walls001/hotel_interior_walls001_normal_dx_OTH_Normal.n.rtex.dds@
+            }
+        }
+
+        over "mat_83DCEF9FB252E9B7"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.01
+                custom float inputs:displace_out = 0.001
+                custom asset inputs:height_texture = @./assets_hq/textures_world/motel/BBDE3C38E269CAB0_hotel_interior_walls001/hotel_interior_walls001_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/motel/BBDE3C38E269CAB0_hotel_interior_walls001/hotel_interior_walls001_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/motel/BBDE3C38E269CAB0_hotel_interior_walls001/hotel_interior_walls001_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_9604E966EB59A742"
+        {
+            over "Shader"
+            {
+                custom float inputs:displace_in = 0.02
+                custom float inputs:displace_out = 0
+                custom asset inputs:height_texture = @./assets_hq/textures_world/motel/BBDE3C38E269CAB0_hotel_interior_walls001/hotel_interior_walls001_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/motel/BBDE3C38E269CAB0_hotel_interior_walls001/hotel_interior_walls001_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/motel/BBDE3C38E269CAB0_hotel_interior_walls001/hotel_interior_walls001_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_95217A357FEF6B88"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_world/motel/95217A357FEF6B88_hotel_carpet001b_dest/mat_hotel_carpet001_dirty_albedo.a.rtex.dds@
+                custom float inputs:displace_in = 0.005
+                custom float inputs:displace_out = 0.01
+                custom asset inputs:height_texture = @./assets_hq/textures_world/motel/95217A357FEF6B88_hotel_carpet001b_dest/mat_hotel_carpet001_dirty_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/motel/95217A357FEF6B88_hotel_carpet001b_dest/mat_hotel_carpet001_dirty_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/motel/95217A357FEF6B88_hotel_carpet001b_dest/mat_hotel_carpet001_dirty_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_5EDBA54F72C40601"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_world/motel/95217A357FEF6B88_hotel_carpet001b_dest/mat_hotel_carpet001_dirty_albedo.a.rtex.dds@
+                custom float inputs:displace_in = 0.005
+                custom float inputs:displace_out = 0.01
+                custom asset inputs:height_texture = @./assets_hq/textures_world/motel/95217A357FEF6B88_hotel_carpet001b_dest/mat_hotel_carpet001_dirty_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/motel/95217A357FEF6B88_hotel_carpet001b_dest/mat_hotel_carpet001_dirty_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/motel/95217A357FEF6B88_hotel_carpet001b_dest/mat_hotel_carpet001_dirty_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_5303741A7BFCA808"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_world/motel/endwall_tiles/endwall_tilessigned_albedo.a.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/motel/endwall_tiles/endwall_tiles_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/motel/endwall_tiles/endwall_tiles_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_796E73D52E6E0B5F"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_world/motel/796E73D52E6E0B5F_plasticwall003/plasticwall003a_albedo.a.rtex.dds@
+                custom float inputs:displace_in = 0.005
+                custom float inputs:displace_out = 0.01
+                custom asset inputs:height_texture = @./assets_hq/textures_world/motel/796E73D52E6E0B5F_plasticwall003/plasticwall003c_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/motel/796E73D52E6E0B5F_plasticwall003/plasticwall003c_ssbump_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/motel/796E73D52E6E0B5F_plasticwall003/plasticwall003c_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_917ED2900996FA8A"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_world/overlays/917ED2900996FA8A_vgui_screen_dirt/917ED2900996FA8A_albedo.a.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/overlays/917ED2900996FA8A_vgui_screen_dirt/917ED2900996FA8A_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_5E4E67EB6BA9063D"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_world/overlays/5E4E67EB6BA9063D_grass_decal/mat_grass_decal_albedo.a.rtex.dds@
+                custom float inputs:displace_in = 0.002
+                custom float inputs:displace_out = 0.01
+                custom asset inputs:height_texture = @./assets_hq/textures_world/overlays/5E4E67EB6BA9063D_grass_decal/mat_grass_decal_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/overlays/5E4E67EB6BA9063D_grass_decal/mat_grass_decal_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/overlays/5E4E67EB6BA9063D_grass_decal/mat_grass_decal_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_3829C560DC7E8F96"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets_hq/textures_world/tiles/3829C560DC7E8F96/mat_white_tile_dirty_a1_albedo.a.rtex.dds@
+                custom float inputs:displace_in = 0.007
+                custom asset inputs:height_texture = @./assets_hq/textures_world/tiles/3829C560DC7E8F96/mat_white_tile_dirty_a1_height.h.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets_hq/textures_world/tiles/3829C560DC7E8F96/mat_white_tile_dirty_a1_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets_hq/textures_world/tiles/3829C560DC7E8F96/mat_white_tile_dirty_a1_roughness.r.rtex.dds@
+            }
+        }
+    }
+}
+

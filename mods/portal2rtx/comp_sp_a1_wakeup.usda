@@ -1,0 +1,594 @@
+#usda 1.0
+(
+    customLayerData = {
+        dictionary SelectionHistoryList = {
+            string "0" = "/RootNode/instances/inst_8659416A822670B1_0/mesh"
+            string "1" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight_02"
+            string "10" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_09"
+            string "100" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_04"
+            string "101" = ""
+            string "102" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_02"
+            string "103" = ""
+            string "104" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_01"
+            string "105" = ""
+            string "106" = "/RootNode/instances/inst_EE478C2709E83984_0/mesh"
+            string "107" = ""
+            string "108" = "/RootNode/meshes/mesh_80523FB6915F355D"
+            string "109" = ""
+            string "11" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_08"
+            string "110" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_05"
+            string "111" = "/RootNode/meshes/mesh_F9DB8E4CC2417478"
+            string "112" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_08"
+            string "113" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_11"
+            string "114" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_10"
+            string "115" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_11"
+            string "116" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_10"
+            string "117" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_09"
+            string "118" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_08"
+            string "119" = "/RootNode/instances/inst_37CCD5173D58B010_0/mesh"
+            string "12" = "/RootNode/instances/inst_37CCD5173D58B010_0/mesh"
+            string "120" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_08"
+            string "121" = "/RootNode/meshes/mesh_64F2E6A25B59B29E/SphereLight_09"
+            string "122" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_07"
+            string "123" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_01"
+            string "124" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_08"
+            string "125" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_07"
+            string "126" = "/RootNode/instances/inst_BE9427700C58A301_41/mesh"
+            string "127" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_08"
+            string "128" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_07"
+            string "129" = ""
+            string "13" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_08"
+            string "130" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight_02"
+            string "131" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight_01"
+            string "132" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_06"
+            string "133" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_05"
+            string "134" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_04"
+            string "135" = "/RootNode/meshes/mesh_64F2E6A25B59B29E/SphereLight_05"
+            string "136" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_04"
+            string "137" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_03"
+            string "138" = ""
+            string "139" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_04"
+            string "14" = "/RootNode/meshes/mesh_64F2E6A25B59B29E/SphereLight_09"
+            string "140" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_03"
+            string "141" = "/RootNode/meshes/mesh_64F2E6A25B59B29E/SphereLight_04"
+            string "142" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_03"
+            string "143" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_02"
+            string "144" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_03"
+            string "145" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_02"
+            string "146" = ""
+            string "147" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_03"
+            string "148" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight_01"
+            string "149" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_03"
+            string "15" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_07"
+            string "150" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight"
+            string "151" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight_01"
+            string "152" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight"
+            string "153" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight_01"
+            string "154" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight"
+            string "155" = "/RootNode/meshes/mesh_64F2E6A25B59B29E/RectLight_01"
+            string "156" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight"
+            string "157" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_02"
+            string "158" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight"
+            string "159" = "/RootNode/instances/inst_1CC92A28515D2184_0/mesh"
+            string "16" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_01"
+            string "160" = "/RootNode/instances/inst_1CC92A28515D2184_1/mesh"
+            string "161" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight"
+            string "162" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_02"
+            string "163" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight"
+            string "164" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_03"
+            string "165" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_01"
+            string "166" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_03"
+            string "167" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_02"
+            string "168" = "/RootNode/meshes/mesh_64F2E6A25B59B29E/SphereLight_03"
+            string "169" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_02"
+            string "17" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_08"
+            string "170" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_01"
+            string "171" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_02"
+            string "172" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_01"
+            string "173" = "/RootNode/meshes/mesh_64F2E6A25B59B29E/SphereLight_02"
+            string "174" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_01"
+            string "175" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight"
+            string "176" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_01"
+            string "177" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight"
+            string "178" = "/RootNode/meshes/mesh_64F2E6A25B59B29E/SphereLight_01"
+            string "179" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight"
+            string "18" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_07"
+            string "180" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/mesh"
+            string "181" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_07"
+            string "182" = ""
+            string "183" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_15"
+            string "184" = ""
+            string "185" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_14"
+            string "186" = ""
+            string "187" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_13"
+            string "188" = ""
+            string "189" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_12"
+            string "19" = "/RootNode/instances/inst_BE9427700C58A301_41/mesh"
+            string "190" = ""
+            string "191" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_11"
+            string "192" = ""
+            string "193" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_10"
+            string "194" = ""
+            string "195" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_10"
+            string "196" = ""
+            string "197" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_09"
+            string "198" = ""
+            string "199" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_08"
+            string "2" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_06"
+            string "20" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_08"
+            string "21" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_07"
+            string "22" = ""
+            string "23" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight_02"
+            string "24" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight_01"
+            string "25" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_06"
+            string "26" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_05"
+            string "27" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_04"
+            string "28" = "/RootNode/meshes/mesh_64F2E6A25B59B29E/SphereLight_05"
+            string "29" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_04"
+            string "3" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight_02"
+            string "30" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_03"
+            string "31" = ""
+            string "32" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_04"
+            string "33" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_03"
+            string "34" = "/RootNode/meshes/mesh_64F2E6A25B59B29E/SphereLight_04"
+            string "35" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_03"
+            string "36" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_02"
+            string "37" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_03"
+            string "38" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_02"
+            string "39" = ""
+            string "4" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight_02"
+            string "40" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_03"
+            string "41" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight_01"
+            string "42" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_03"
+            string "43" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight"
+            string "44" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight_01"
+            string "45" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight"
+            string "46" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight_01"
+            string "47" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight"
+            string "48" = "/RootNode/meshes/mesh_64F2E6A25B59B29E/RectLight_01"
+            string "49" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight"
+            string "5" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_08"
+            string "50" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_02"
+            string "51" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight"
+            string "52" = "/RootNode/instances/inst_1CC92A28515D2184_0/mesh"
+            string "53" = "/RootNode/instances/inst_1CC92A28515D2184_1/mesh"
+            string "54" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/RectLight"
+            string "55" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_02"
+            string "56" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight"
+            string "57" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_03"
+            string "58" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_01"
+            string "59" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_03"
+            string "6" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_11"
+            string "60" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_02"
+            string "61" = "/RootNode/meshes/mesh_64F2E6A25B59B29E/SphereLight_03"
+            string "62" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_02"
+            string "63" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_01"
+            string "64" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_02"
+            string "65" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_01"
+            string "66" = "/RootNode/meshes/mesh_64F2E6A25B59B29E/SphereLight_02"
+            string "67" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_01"
+            string "68" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight"
+            string "69" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_01"
+            string "7" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_10"
+            string "70" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight"
+            string "71" = "/RootNode/meshes/mesh_64F2E6A25B59B29E/SphereLight_01"
+            string "72" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight"
+            string "73" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/mesh"
+            string "74" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_07"
+            string "75" = ""
+            string "76" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_15"
+            string "77" = ""
+            string "78" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_14"
+            string "79" = ""
+            string "8" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_11"
+            string "80" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_13"
+            string "81" = ""
+            string "82" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_12"
+            string "83" = ""
+            string "84" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_11"
+            string "85" = ""
+            string "86" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_10"
+            string "87" = ""
+            string "88" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_10"
+            string "89" = ""
+            string "9" = "/RootNode/instances/inst_64F2E6A25B59B29E_0/SphereLight_10"
+            string "90" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_09"
+            string "91" = ""
+            string "92" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_08"
+            string "93" = ""
+            string "94" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_07"
+            string "95" = ""
+            string "96" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_06"
+            string "97" = ""
+            string "98" = "/RootNode/meshes/mesh_395B4EE21A3A18E2/SphereLight_05"
+            string "99" = ""
+        }
+        dictionary cameraSettings = {
+            dictionary Front = {
+                double3 position = (50000.00111758712, 0, 0)
+                double radius = 500
+            }
+            dictionary Perspective = {
+                double3 position = (-554.3190387988701, -731.3173521807489, 1298.5791954164451)
+                double3 target = (-20668.30070172135, 15213.890498448505, 44.46656559669532)
+            }
+            dictionary Right = {
+                double3 position = (0, -50000.00111758712, 0)
+                double radius = 500
+            }
+            dictionary Top = {
+                double3 position = (0, 0, 50000.00111758712)
+                double radius = 500
+            }
+            string boundCamera = "/OmniverseKit_Persp"
+        }
+        string lightspeed_layer_type = "workfile"
+        dictionary omni_layer = {
+            string authoring_layer = "./comp_sp_a1_intro7.usda"
+            dictionary locked = {
+                bool "./deps/captures/sp_a1_awake_m108_spawn.usd" = 1
+                bool "./deps/captures/sp_a1_intro1_m101_chamber_01.usd" = 1
+                bool "./deps/captures/sp_a1_intro4_m104_first_room.usd" = 1
+                bool "X:/Z_temp/portal2_game/rtx-remix/captures/sp_a1_intro4_emanci_hidden_but_proxy_as_terrain.usd" = 1
+            }
+            dictionary muteness = {
+                bool "./do_not_ship.usda" = 0
+                bool "./emanci_test.usda" = 0
+            }
+        }
+        dictionary renderSettings = {
+        }
+    }
+    endTimeCode = 1
+    metersPerUnit = 1
+    startTimeCode = 0
+    timeCodesPerSecond = 24
+    upAxis = "Z"
+)
+
+over "RootNode"
+{
+    over "meshes"
+    {
+        over "mesh_3DC8EA514F686E25"
+        {
+            def SphereLight "SphereLight" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                float inputs:colorTemperature = 6900
+                bool inputs:enableColorTemperature = 1
+                float inputs:intensity = 10000
+                float inputs:radius = 5
+                float inputs:shaping:cone:angle = 50.399998
+                float inputs:shaping:cone:softness = 0.4
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                custom float inputs:volumetric_radiance_scale = 0.8
+                double3 xformOp:rotateXYZ = (339.5738606607415, 20.60665038558338, 82.53269890400327)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (76.25797638715903, 650.7188257119687, 333.42811091550345)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_01" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                color3f inputs:color = (0.6919992, 0.8146718, 0.80472535)
+                float inputs:colorTemperature = 6210
+                bool inputs:enableColorTemperature = 0
+                float inputs:intensity = 10000
+                float inputs:radius = 5
+                float inputs:shaping:cone:angle = 35.6
+                float inputs:shaping:cone:softness = 0.4
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                custom float inputs:volumetric_radiance_scale = 9.25
+                double3 xformOp:rotateXYZ = (374.42709892161974, -15.58959809115342, 101.23415407870488)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (1548.8602163939377, 363.1533422060767, 1582.716128402415)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_02" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                float inputs:intensity = 5
+                float inputs:radius = 15
+                float inputs:shaping:cone:angle = 180
+                float inputs:shaping:cone:softness
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                custom float inputs:volumetric_radiance_scale = 0
+                double3 xformOp:rotateXYZ = (89.3998881224561, 0, 90)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (927.499917172112, 602.4583129883006, 209.51421573465257)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_03" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                color3f inputs:color = (0.8067858, 0.9498069, 0.9217135)
+                float inputs:colorTemperature = 6210
+                bool inputs:enableColorTemperature = 1
+                float inputs:exposure = 2.3
+                float inputs:intensity = 14000
+                float inputs:radius = 5
+                float inputs:shaping:cone:angle = 41.399998
+                float inputs:shaping:cone:softness = 0.6
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                custom float inputs:volumetric_radiance_scale = 8.5
+                double3 xformOp:rotateXYZ = (18.29419441759984, -0.8850245339210403, 90.30591866449265)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (3365.155988763894, 163.3783543473761, 1892.4721996703306)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_04" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                color3f inputs:color = (0.8067858, 0.9498069, 0.9217135)
+                float inputs:colorTemperature = 6210
+                bool inputs:enableColorTemperature = 1
+                float inputs:exposure = 3.8
+                float inputs:intensity = 6500
+                float inputs:radius = 5
+                float inputs:shaping:cone:angle = 41.399998
+                float inputs:shaping:cone:softness = 0.6
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                custom float inputs:volumetric_radiance_scale = 8.5
+                double3 xformOp:rotateXYZ = (18.29419441759984, -0.8850245339210403, 90.30591866449265)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (4525.406820622542, 547.0477326270975, 5149.269921470174)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_05" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                color3f inputs:color = (0.8475127, 0.92784536, 0.94208497)
+                float inputs:exposure = 1.45
+                float inputs:intensity = 100
+                float inputs:radius = 5
+                float inputs:shaping:cone:angle = 95.399994
+                float inputs:shaping:cone:softness = 1
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                custom float inputs:volumetric_radiance_scale = 0
+                double3 xformOp:rotateXYZ = (37.12476978599872, -20.130099803092236, 83.66045660456763)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (2061.9209300019356, 474.0244235412015, 277.038740848147)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_06" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                color3f inputs:color = (0.8475127, 0.92784536, 0.94208497)
+                float inputs:exposure = 1.45
+                float inputs:intensity = 60
+                float inputs:radius = 5
+                float inputs:shaping:cone:angle = 95.399994
+                float inputs:shaping:cone:softness = 1
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                custom float inputs:volumetric_radiance_scale = 0
+                double3 xformOp:rotateXYZ = (-3.585117278091559, 16.7313556043444, 87.22941743470358)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (3865.6112075449964, 699.796209146041, 282.23794330909004)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_07" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                color3f inputs:color = (0.6759589, 0.8205834, 0.8416988)
+                float inputs:exposure = 0
+                float inputs:intensity = 300
+                float inputs:radius = 5
+                float inputs:shaping:cone:angle = 52.199997
+                float inputs:shaping:cone:softness = 0.55
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                custom float inputs:volumetric_radiance_scale = 0
+                double3 xformOp:rotateXYZ = (-4.96406139709606, 0, 90)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (3977.0249333033807, 627.0321324097583, 57.535800179401804)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_08" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                color3f inputs:color = (0.80750144, 0.9276658, 0.94208497)
+                float inputs:colorTemperature = 7170
+                bool inputs:enableColorTemperature = 1
+                float inputs:exposure = 0.35
+                float inputs:intensity = 3000
+                float inputs:radius = 3
+                float inputs:shaping:cone:angle = 81
+                float inputs:shaping:cone:softness = 0.65000004
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                custom float inputs:volumetric_radiance_scale = 4.9
+                double3 xformOp:rotateXYZ = (239.9282840263462, 12.25242187057728, 145.69374735267786)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (2439.95751953125, 395.7479248046875, -1197.3511352539062)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_09" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                float inputs:exposure = 6.05
+                float inputs:intensity = 61.24809
+                float inputs:radius = 5
+                float inputs:shaping:cone:angle = 21.599998
+                float inputs:shaping:cone:softness = 0.55
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                double3 xformOp:rotateXYZ = (2.842170943040401e-14, 14.297074678251022, 90.00000000000017)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (2084.24951171875, 546.2980278458513, -669.96192)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_10" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                float inputs:intensity = 3
+                float inputs:radius = 15
+                float inputs:shaping:cone:angle = 180
+                float inputs:shaping:cone:softness
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                custom float inputs:volumetric_radiance_scale = 0
+                double3 xformOp:rotateXYZ = (90, 0, 90)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (2038.7214036500445, 506.78383483814787, 17.517258245901985)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_11" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                float inputs:exposure = 3.4
+                float inputs:intensity = 100
+                float inputs:radius = 5
+                float inputs:shaping:cone:angle = 41.399998
+                float inputs:shaping:cone:softness = 0.85
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                custom float inputs:volumetric_radiance_scale = 0
+                double3 xformOp:rotateXYZ = (-26.57619513825597, 0, 90)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (3436.5204883341285, 617.3234695916979, -125.59224601035555)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_12" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                float inputs:exposure = 3.8500001
+                float inputs:intensity = 100
+                float inputs:radius = 5
+                float inputs:shaping:cone:angle = 82.799995
+                float inputs:shaping:cone:softness = 2.05
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                custom float inputs:volumetric_radiance_scale = 0
+                double3 xformOp:rotateXYZ = (43.87110130703593, 2.8981894562771515, 150.90957233787572)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (3088.596153477165, 615.7907437594229, 68.8872363218419)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_13" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                float inputs:exposure = 0
+                float inputs:intensity = 1
+                float inputs:radius = 20
+                float inputs:shaping:cone:angle = 90
+                float inputs:shaping:cone:softness = 0.15
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                custom float inputs:volumetric_radiance_scale = 0
+                double3 xformOp:rotateXYZ = (0, 0, 90)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (-758.2044135089272, 2848.876655896906, 1126.2694101562424)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_14" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                color3f inputs:color = (0.80183655, 0.8910428, 0.9189189)
+                float inputs:colorTemperature = 7080
+                bool inputs:enableColorTemperature = 0
+                float inputs:exposure = 0
+                float inputs:intensity = 20
+                float inputs:radius = 50
+                float inputs:shaping:cone:angle = 1.4
+                float inputs:shaping:cone:softness = 0
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                custom float inputs:volumetric_radiance_scale = 10
+                double3 xformOp:rotateXYZ = (180, 0, 90)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (-740.6835675425655, 2854.4695881919165, -1923.6159399341184)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_15" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                float inputs:colorTemperature = 5430
+                bool inputs:enableColorTemperature = 1
+                float inputs:exposure = 1.65
+                float inputs:intensity = 1000
+                float inputs:radius = 5
+                float inputs:shaping:cone:angle = 46.8
+                float inputs:shaping:cone:softness = 1
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                custom float inputs:volumetric_radiance_scale = 0
+                double3 xformOp:rotateXYZ = (68.49449184327307, -3.6483504073432016, 48.96375801021776)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (2546.8648283665916, 147.20781706150433, 257.37313921319264)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+        }
+    }
+}
+

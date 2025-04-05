@@ -1,0 +1,103 @@
+#usda 1.0
+(
+    customLayerData = {
+        dictionary SelectionHistoryList = {
+            string "0" = "/RootNode/instances/inst_46CDF2BF859E3C67_0/mesh"
+            string "1" = ""
+            string "10" = ""
+            string "11" = "/RootNode"
+            string "12" = ""
+            string "13" = "/RootNode/Looks/mat_6689CB4AE011C323/Shader"
+            string "14" = "/RootNode/Looks/mat_6689CB4AE011C323"
+            string "15" = ""
+            string "16" = "/RootNode/Looks/mat_C1FDA1491A30AC33/Shader"
+            string "17" = ""
+            string "18" = "/RootNode/Looks/mat_5312CF5DA5654648/Shader"
+            string "19" = ""
+            string "2" = "/RootNode/Looks/mat_6689CB4AE011C323/Shader"
+            string "20" = "/RootNode/Looks/mat_6689CB4AE011C323/Shader"
+            string "21" = "/RootNode/Looks/mat_6689CB4AE011C323"
+            string "22" = ""
+            string "23" = "/RootNode/Looks/mat_C1FDA1491A30AC33/Shader"
+            string "24" = ""
+            string "25" = "/RootNode/Looks/mat_5312CF5DA5654648/Shader"
+            string "26" = ""
+            string "27" = "/RootNode/Looks/mat_5312CF5DA5654648/Shader"
+            string "28" = ""
+            string "29" = "/RootNode"
+            string "3" = "/RootNode/Looks/mat_6689CB4AE011C323"
+            string "30" = ""
+            string "31" = "/RootNode/Looks/mat_6689CB4AE011C323/Shader"
+            string "32" = "/RootNode/Looks/mat_6689CB4AE011C323"
+            string "33" = ""
+            string "34" = "/RootNode/Looks/mat_C1FDA1491A30AC33/Shader"
+            string "35" = ""
+            string "36" = "/RootNode/Looks/mat_5312CF5DA5654648/Shader"
+            string "37" = ""
+            string "4" = ""
+            string "5" = "/RootNode/Looks/mat_C1FDA1491A30AC33/Shader"
+            string "6" = ""
+            string "7" = "/RootNode/Looks/mat_5312CF5DA5654648/Shader"
+            string "8" = ""
+            string "9" = "/RootNode/Looks/mat_5312CF5DA5654648/Shader"
+        }
+        dictionary cameraSettings = {
+            dictionary Front = {
+                double3 position = (50000.00111758712, 0, 0)
+                double radius = 500
+            }
+            dictionary Perspective = {
+                double3 position = (7667.377771356961, 1226.175472624438, 490.41158878596667)
+                double3 target = (7706.998613065969, 1224.3932876682766, 490.98707588158936)
+            }
+            dictionary Right = {
+                double3 position = (0, -50000.00111758712, 0)
+                double radius = 500
+            }
+            dictionary Top = {
+                double3 position = (0, 0, 50000.00111758712)
+                double radius = 500
+            }
+            string boundCamera = "/OmniverseKit_Persp"
+        }
+        string lightspeed_layer_type = "workfile"
+        dictionary omni_layer = {
+            string authoring_layer = "./sp_a1_wakeup.usda"
+            dictionary locked = {
+                bool "./deps/captures/sp_a1_intro1_m101_second_container_01.usd" = 1
+            }
+        }
+        dictionary renderSettings = {
+        }
+    }
+    endTimeCode = 1
+    metersPerUnit = 1
+    startTimeCode = 0
+    subLayers = [
+        @./comp_fizzler.usda@,
+        @./comp_marker_util.usda@,
+        @./comp_portals.usda@,
+        @./comp_effects.usda@,
+        @./comp_gel.usda@,
+        @./comp_sp_a1_intro1.usda@,
+        @./comp_sp_a1_intro2.usda@,
+        @./comp_sp_a1_intro3.usda@,
+        @./comp_sp_a1_intro4.usda@,
+        @./comp_sp_a1_intro5.usda@,
+        @./comp_sp_a1_intro6.usda@,
+        @./comp_sp_a1_intro7.usda@,
+        @./comp_sp_a1_wakeup.usda@,
+        @./comp_sp_a2_intro.usda@,
+        @./comp_sp_a2_laser_intro.usda@,
+        @./comp_sp_a2_laser_stairs.usda@,
+        @./comp_sp_a2_laser_over_goo.usda@,
+        @./comp_sp_a2_catapult_intro.usda@,
+        @./comp_lights.usda@,
+        @./comp_water.usda@,
+        @./comp_world.usda@,
+        @./comp_models_old.usda@
+    ]
+    timeCodesPerSecond = 24
+    upAxis = "Z"
+)
+

@@ -1,0 +1,652 @@
+#usda 1.0
+(
+    customLayerData = {
+        dictionary SelectionHistoryList = {
+            string "0" = "/RootNode/instances/inst_395B4EE21A3A18E2_0/mesh"
+            string "1" = "/RootNode/instances/inst_EE478C2709E83984_0/mesh"
+            string "10" = "/RootNode/instances/inst_7ABD10EF2EB7600E_0/mesh"
+            string "100" = ""
+            string "101" = "/RootNode/instances/inst_1E78EED7270E075E_0/mesh"
+            string "102" = "/RootNode/instances/inst_D2F181F29E1C5A2B_0/mesh"
+            string "103" = ""
+            string "104" = "/RootNode/meshes/mesh_EA500B3019CD1485/CylinderLight_01"
+            string "105" = ""
+            string "106" = "/RootNode/instances/inst_981513714EE45BDD_4/mesh"
+            string "107" = ""
+            string "108" = "/RootNode/instances/inst_59B0ED8C28DCA183_1/mesh"
+            string "109" = "/RootNode/instances/inst_A575D7E505F02644_0/mesh"
+            string "11" = "/RootNode/instances/inst_6E51CD6B7420A935_0/mesh"
+            string "110" = "/RootNode/instances/inst_00CDBD41206C7288_3/mesh"
+            string "111" = "/RootNode/instances/inst_00CDBD41206C7288_2/mesh"
+            string "112" = "/RootNode/instances/inst_A575D7E505F02644_1/mesh"
+            string "113" = "/RootNode/instances/inst_7ABD10EF2EB7600E_0/mesh"
+            string "114" = "/RootNode/instances/inst_6E51CD6B7420A935_0/mesh"
+            string "115" = "/RootNode/instances/inst_CC1D8CBA3A6E0F97_2/mesh"
+            string "116" = "/RootNode/instances/inst_96DF9558BEF2F0AC_0/mesh"
+            string "117" = "/RootNode/instances/inst_2C0691D65CBE6F1D_0/mesh"
+            string "118" = "/RootNode/instances/inst_7F5D619AD979011C_1/mesh"
+            string "119" = "/RootNode/instances/inst_3F25FA15C8D8C118_0/mesh"
+            string "12" = "/RootNode/instances/inst_CC1D8CBA3A6E0F97_2/mesh"
+            string "120" = "/RootNode/instances/inst_428462D0D1129431_0/mesh"
+            string "121" = "/RootNode/instances/inst_A575D7E505F02644_0/mesh"
+            string "122" = "/RootNode/instances/inst_CC1D8CBA3A6E0F97_0/mesh"
+            string "123" = "/RootNode/instances/inst_A575D7E505F02644_0/mesh"
+            string "124" = "/RootNode/instances/inst_7EF493D116BB2A0E_0/mesh"
+            string "125" = "/RootNode/instances/inst_7F5D619AD979011C_0/mesh"
+            string "126" = "/RootNode/instances/inst_59B0ED8C28DCA183_1/mesh"
+            string "127" = "/RootNode/instances/inst_1E78EED7270E075E_3/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green/mtl_grandiflora_leaf"
+            string "128" = "/RootNode/instances/inst_1E78EED7270E075E_3/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green"
+            string "129" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_hanging/ivy_80523F_hanging/vine_material"
+            string "13" = "/RootNode/instances/inst_96DF9558BEF2F0AC_0/mesh"
+            string "130" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_hanging/ivy_80523F_hanging"
+            string "131" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_top/ivy_80523F_top"
+            string "132" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_hanging/ivy_80523F_hanging/mtl_vine"
+            string "133" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_hanging/ivy_80523F_hanging/vine_material"
+            string "134" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_hanging/ivy_80523F_hanging"
+            string "135" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_hanging/ivy_80523F_hanging/vine_material"
+            string "136" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_hanging/ivy_80523F_hanging"
+            string "137" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_hanging/ivy_80523F_hanging/vine_material"
+            string "138" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_hanging/ivy_80523F_hanging"
+            string "139" = ""
+            string "14" = "/RootNode/instances/inst_2C0691D65CBE6F1D_0/mesh"
+            string "140" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_top/ivy_80523F_top"
+            string "141" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_top"
+            string "142" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_hanging/ivy_80523F_hanging/mtl_vine"
+            string "143" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_hanging/ivy_80523F_hanging/vine_material"
+            string "144" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_hanging/ivy_80523F_hanging"
+            string "145" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms"
+            string "146" = "/RootNode/meshes/mesh_80523FB6915F355D"
+            string "147" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms"
+            string "148" = "/RootNode/instances/inst_80523FB6915F355D_1/mesh"
+            string "149" = "/RootNode/instances/inst_4459CC711E275380_3/mesh"
+            string "15" = "/RootNode/instances/inst_7F5D619AD979011C_1/mesh"
+            string "150" = ""
+            string "151" = "/RootNode/instances/inst_59B0ED8C28DCA183_0/mesh"
+            string "152" = "/RootNode/instances/inst_7ABD10EF2EB7600E_0/mesh"
+            string "153" = ""
+            string "154" = "/RootNode/instances/inst_59B0ED8C28DCA183_0/mesh"
+            string "155" = "/RootNode/meshes/mesh_59B0ED8C28DCA183"
+            string "156" = "/RootNode/instances/inst_59B0ED8C28DCA183_0/mesh"
+            string "157" = "/RootNode/instances/inst_80523FB6915F355D_1/mesh"
+            string "158" = ""
+            string "159" = "/RootNode/instances/inst_D2F181F29E1C5A2B_0/mesh"
+            string "16" = "/RootNode/instances/inst_3F25FA15C8D8C118_0/mesh"
+            string "160" = "/RootNode/instances/inst_F9DB8E4CC2417478_0/ref_bb326bcd07a34aeaa7079085fa51c40a/XForms/World/ivy_F9DB8E4/ivy_F9DB8E4"
+            string "161" = "/RootNode/instances/inst_F9DB8E4CC2417478_1/ref_bb326bcd07a34aeaa7079085fa51c40a/XForms/World/ivy_F9DB8E4/ivy_F9DB8E4"
+            string "162" = ""
+            string "163" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_05"
+            string "164" = "/RootNode/meshes/mesh_F9DB8E4CC2417478"
+            string "165" = ""
+            string "166" = "/RootNode/meshes/mesh_F9DB8E4CC2417478"
+            string "167" = ""
+            string "168" = "/RootNode/meshes/mesh_75CC876C8D055624"
+            string "169" = ""
+            string "17" = "/RootNode/instances/inst_428462D0D1129431_0/mesh"
+            string "170" = "/RootNode/meshes/mesh_75CC876C8D055624"
+            string "171" = ""
+            string "172" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green/mtl_grandiflora_leaf"
+            string "173" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green"
+            string "174" = ""
+            string "175" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green/mtl_grandiflora_leaf"
+            string "176" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green"
+            string "177" = ""
+            string "178" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green/mtl_grandiflora_leaf"
+            string "179" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green/mtl_vine"
+            string "18" = "/RootNode/instances/inst_A575D7E505F02644_0/mesh"
+            string "180" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green/mtl_grandiflora_leaf"
+            string "181" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_brown/ivy_brown/mtl_brown_leafs"
+            string "182" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_brown/ivy_brown"
+            string "183" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green"
+            string "184" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_brown/ivy_brown"
+            string "185" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green"
+            string "186" = ""
+            string "187" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green"
+            string "188" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_brown/ivy_brown"
+            string "189" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_brown"
+            string "19" = "/RootNode/instances/inst_CC1D8CBA3A6E0F97_0/mesh"
+            string "190" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_brown/ivy_brown"
+            string "191" = "/RootNode/meshes/mesh_1E78EED7270E075E"
+            string "192" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms"
+            string "193" = "/RootNode/meshes/mesh_1E78EED7270E075E"
+            string "194" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green"
+            string "195" = "/RootNode/meshes/mesh_1E78EED7270E075E"
+            string "196" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms"
+            string "197" = "/RootNode/meshes/mesh_1E78EED7270E075E"
+            string "198" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms"
+            string "199" = "/RootNode/instances/inst_1E78EED7270E075E_0/mesh"
+            string "2" = "/RootNode/instances/inst_E48ADD207B95DFB5_4/mesh"
+            string "20" = "/RootNode/instances/inst_A575D7E505F02644_0/mesh"
+            string "21" = "/RootNode/instances/inst_7EF493D116BB2A0E_0/mesh"
+            string "22" = "/RootNode/instances/inst_7F5D619AD979011C_0/mesh"
+            string "23" = "/RootNode/instances/inst_59B0ED8C28DCA183_1/mesh"
+            string "24" = "/RootNode/instances/inst_1E78EED7270E075E_3/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green/mtl_grandiflora_leaf"
+            string "25" = "/RootNode/instances/inst_1E78EED7270E075E_3/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green"
+            string "26" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_hanging/ivy_80523F_hanging/vine_material"
+            string "27" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_hanging/ivy_80523F_hanging"
+            string "28" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_top/ivy_80523F_top"
+            string "29" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_hanging/ivy_80523F_hanging/mtl_vine"
+            string "3" = "/RootNode/instances/inst_E48ADD207B95DFB5_1/mesh"
+            string "30" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_hanging/ivy_80523F_hanging/vine_material"
+            string "31" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_hanging/ivy_80523F_hanging"
+            string "32" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_hanging/ivy_80523F_hanging/vine_material"
+            string "33" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_hanging/ivy_80523F_hanging"
+            string "34" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_hanging/ivy_80523F_hanging/vine_material"
+            string "35" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_hanging/ivy_80523F_hanging"
+            string "36" = ""
+            string "37" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_top/ivy_80523F_top"
+            string "38" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_top"
+            string "39" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_hanging/ivy_80523F_hanging/mtl_vine"
+            string "4" = "/RootNode/instances/inst_E48ADD207B95DFB5_4/mesh"
+            string "40" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_hanging/ivy_80523F_hanging/vine_material"
+            string "41" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms/World/ivy_80523F_hanging/ivy_80523F_hanging"
+            string "42" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms"
+            string "43" = "/RootNode/meshes/mesh_80523FB6915F355D"
+            string "44" = "/RootNode/instances/inst_80523FB6915F355D_1/ref_1f0b83852d0b4139a2f042caf52f14dd/XForms"
+            string "45" = "/RootNode/instances/inst_80523FB6915F355D_1/mesh"
+            string "46" = "/RootNode/instances/inst_4459CC711E275380_3/mesh"
+            string "47" = ""
+            string "48" = "/RootNode/instances/inst_59B0ED8C28DCA183_0/mesh"
+            string "49" = "/RootNode/instances/inst_7ABD10EF2EB7600E_0/mesh"
+            string "5" = "/RootNode/instances/inst_59B0ED8C28DCA183_1/mesh"
+            string "50" = ""
+            string "51" = "/RootNode/instances/inst_59B0ED8C28DCA183_0/mesh"
+            string "52" = "/RootNode/meshes/mesh_59B0ED8C28DCA183"
+            string "53" = "/RootNode/instances/inst_59B0ED8C28DCA183_0/mesh"
+            string "54" = "/RootNode/instances/inst_80523FB6915F355D_1/mesh"
+            string "55" = ""
+            string "56" = "/RootNode/instances/inst_D2F181F29E1C5A2B_0/mesh"
+            string "57" = "/RootNode/instances/inst_F9DB8E4CC2417478_0/ref_bb326bcd07a34aeaa7079085fa51c40a/XForms/World/ivy_F9DB8E4/ivy_F9DB8E4"
+            string "58" = "/RootNode/instances/inst_F9DB8E4CC2417478_1/ref_bb326bcd07a34aeaa7079085fa51c40a/XForms/World/ivy_F9DB8E4/ivy_F9DB8E4"
+            string "59" = ""
+            string "6" = "/RootNode/instances/inst_A575D7E505F02644_0/mesh"
+            string "60" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_05"
+            string "61" = "/RootNode/meshes/mesh_F9DB8E4CC2417478"
+            string "62" = ""
+            string "63" = "/RootNode/meshes/mesh_F9DB8E4CC2417478"
+            string "64" = ""
+            string "65" = "/RootNode/meshes/mesh_75CC876C8D055624"
+            string "66" = ""
+            string "67" = "/RootNode/meshes/mesh_75CC876C8D055624"
+            string "68" = ""
+            string "69" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green/mtl_grandiflora_leaf"
+            string "7" = "/RootNode/instances/inst_00CDBD41206C7288_3/mesh"
+            string "70" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green"
+            string "71" = ""
+            string "72" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green/mtl_grandiflora_leaf"
+            string "73" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green"
+            string "74" = ""
+            string "75" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green/mtl_grandiflora_leaf"
+            string "76" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green/mtl_vine"
+            string "77" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green/mtl_grandiflora_leaf"
+            string "78" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_brown/ivy_brown/mtl_brown_leafs"
+            string "79" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_brown/ivy_brown"
+            string "8" = "/RootNode/instances/inst_00CDBD41206C7288_2/mesh"
+            string "80" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green"
+            string "81" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_brown/ivy_brown"
+            string "82" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green"
+            string "83" = ""
+            string "84" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green"
+            string "85" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_brown/ivy_brown"
+            string "86" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_brown"
+            string "87" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_brown/ivy_brown"
+            string "88" = "/RootNode/meshes/mesh_1E78EED7270E075E"
+            string "89" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms"
+            string "9" = "/RootNode/instances/inst_A575D7E505F02644_1/mesh"
+            string "90" = "/RootNode/meshes/mesh_1E78EED7270E075E"
+            string "91" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms/World/ivy_green/ivy_green"
+            string "92" = "/RootNode/meshes/mesh_1E78EED7270E075E"
+            string "93" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms"
+            string "94" = "/RootNode/meshes/mesh_1E78EED7270E075E"
+            string "95" = "/RootNode/instances/inst_1E78EED7270E075E_0/ref_b847f706417447a8ac3dd13ac52d2281/XForms"
+            string "96" = "/RootNode/instances/inst_1E78EED7270E075E_0/mesh"
+            string "97" = "/RootNode/instances/inst_428462D0D1129431_0/mesh"
+            string "98" = ""
+            string "99" = "/RootNode/instances/inst_F9DB8E4CC2417478_1/mesh"
+        }
+        dictionary cameraSettings = {
+            dictionary Front = {
+                double3 position = (50000.00111758712, 0, 0)
+                double radius = 500
+            }
+            dictionary Perspective = {
+                double3 position = (525.0845693657859, -1214.0104756129865, -152.3676623500232)
+                double3 target = (-24725.87655550131, 3504.5621672760126, -872.6070035791521)
+            }
+            dictionary Right = {
+                double3 position = (0, -50000.00111758712, 0)
+                double radius = 500
+            }
+            dictionary Top = {
+                double3 position = (0, 0, 50000.00111758712)
+                double radius = 500
+            }
+            string boundCamera = "/OmniverseKit_Persp"
+        }
+        string lightspeed_layer_type = "workfile"
+        dictionary omni_layer = {
+            string authoring_layer = "./comp_lights.usda"
+            dictionary locked = {
+                bool "./deps/captures/sp_a1_intro1_m101_chamber_01.usd" = 1
+                bool "./deps/captures/sp_a1_intro4_m104_first_room.usd" = 1
+                bool "./deps/captures/sp_a1_intro6_m106_ele_entry.usd" = 1
+                bool "X:/Z_temp/portal2_game/rtx-remix/captures/sp_a1_intro4_emanci_hidden_but_proxy_as_terrain.usd" = 1
+            }
+            dictionary muteness = {
+                bool "./do_not_ship.usda" = 0
+                bool "./emanci_test.usda" = 0
+            }
+        }
+        dictionary renderSettings = {
+        }
+    }
+    endTimeCode = 1
+    metersPerUnit = 1
+    startTimeCode = 0
+    timeCodesPerSecond = 24
+    upAxis = "Z"
+)
+
+over "RootNode"
+{
+    over "meshes"
+    {
+        over "mesh_395B4EE21A3A18E2"
+        {
+            def SphereLight "SphereLight" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                color3f inputs:color = (0.27674007, 0.9189189, 0.91127396)
+                float inputs:intensity = 60
+                float inputs:radius = 5
+                float inputs:shaping:cone:angle = 180
+                float inputs:shaping:cone:softness
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                double3 xformOp:rotateXYZ = (90, 0, 90)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (204.26030339766146, -396.83837890625, -433.41535312276693)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_01" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                color3f inputs:color = (0.27674007, 0.9189189, 0.91127396)
+                float inputs:intensity = 60
+                float inputs:radius = 5
+                float inputs:shaping:cone:angle = 180
+                float inputs:shaping:cone:softness
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                double3 xformOp:rotateXYZ = (90, 0, 90)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (-10.100212268237897, -396.83837890625, -433.41535312276693)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_02" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                color3f inputs:color = (0.27674007, 0.9189189, 0.91127396)
+                float inputs:intensity = 60
+                float inputs:radius = 5
+                float inputs:shaping:cone:angle = 180
+                float inputs:shaping:cone:softness
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                double3 xformOp:rotateXYZ = (90, 0, 90)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (97.97705214663671, -291.8152778593876, -433.4153531227669)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def Xform "ref_9267274552d74114ac7abe30f3fc15cf" (
+                prepend references = @./assets/textures_world/elevator/elevator_screens/cracked_glass_screen.usda@
+            )
+            {
+                custom bool IsRemixRef = 1
+                double3 xformOp:rotateXYZ = (0, 0, 0)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (0, 0, 0)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                over "XForms"
+                {
+                    float3 xformOp:rotateXYZ = (0, 0, 90)
+                    float3 xformOp:scale = (0.01, 0.01, 0.01)
+                    double3 xformOp:translate = (160.40122583677072, -164.74684550419556, -294.55581403563)
+                    uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                    over "World"
+                    {
+                        over "Looks"
+                        {
+                            over "mat_backside"
+                            {
+                                over "Shader"
+                                {
+                                    custom float inputs:displace_in = 0.02
+                                    custom float inputs:displace_out = 0.02
+                                    custom asset inputs:height_texture = @./assets/textures_world/elevator/elevator_screens/elevator_screen_broken2_height.h.rtex.dds@
+                                    custom float inputs:metallic_constant = 0.72999996
+                                    custom asset inputs:normalmap_texture = @./assets/textures_world/elevator/elevator_screens/elevator_screen_broken2_normal_OTH_Normal.n.rtex.dds@
+                                    custom asset inputs:reflectionroughness_texture = @./assets/textures_world/elevator/elevator_screens/2A068D8211F05295_roughness.r.rtex.dds@
+                                }
+                            }
+
+                            over "mat_glass"
+                            {
+                                over "Shader"
+                                {
+                                    custom float inputs:ior_constant = 1.2
+                                    custom asset inputs:normalmap_texture = @./assets/textures_world/elevator/elevator_screens/elevator_screen_broken2_normal_OTH_Normal.n.rtex.dds@
+                                    custom bool inputs:thin_walled = 0
+                                }
+                            }
+                        }
+
+                        over "broken_glass_elevator"
+                        {
+                            over "glass_front"
+                            {
+                                over "glass_front"
+                                {
+                                    float3 xformOp:rotateXYZ = (0, 0, 0)
+                                    float3 xformOp:scale = (1, 1, 1)
+                                    double3 xformOp:translate = (-0.4913655738575926, 2.489741746103391e-11, 1.2448708730516955e-11)
+                                    uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+            def SphereLight "SphereLight_03" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                color3f inputs:color = (0.68576795, 0.9498069, 0.8916555)
+                float inputs:exposure = 2.8500001
+                float inputs:intensity = 10000
+                float inputs:radius = 5
+                float inputs:shaping:cone:angle = 50.399998
+                float inputs:shaping:cone:softness = 1.15
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                custom float inputs:volumetric_radiance_scale = 9.7
+                double3 xformOp:rotateXYZ = (-7.240290823515579, -9.487566387826945, 91.19966102419846)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (-221.89055260114316, -822.0311908979024, 484.4320941259391)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_04" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                color3f inputs:color = (0.99999, 1, 0.9999999)
+                float inputs:colorTemperature = 5280
+                bool inputs:enableColorTemperature = 1
+                float inputs:intensity = 60
+                float inputs:radius = 5
+                float inputs:shaping:cone:angle = 180
+                float inputs:shaping:cone:softness
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                double3 xformOp:rotateXYZ = (90, 0, 90)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (99.58280788490458, 148.9904043352634, -43.90701648673026)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def DiskLight "DiskLight" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -0), (5, 5, 0)]
+                float inputs:intensity = 60
+                float inputs:radius = 20
+                float inputs:shaping:cone:angle = 180
+                float inputs:shaping:cone:softness = 7.6
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                double3 xformOp:rotateXYZ = (180, -8.526512829121202e-14, 90)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (96.86539657146426, -397.04728601716647, -207.02247269770146)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_05" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                float inputs:intensity = 101489.08
+                float inputs:radius = 2
+                float inputs:shaping:cone:angle = 73.799995
+                float inputs:shaping:cone:softness = 0.15
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                double3 xformOp:rotateXYZ = (6.6458749226228235, 20.266724311891693, 90.58923185612338)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (-338.91044758800007, 836.8311622680901, 795.2344927060402)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_06" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                float inputs:intensity = 8000
+                float inputs:radius = 6
+                float inputs:shaping:cone:angle = 73.799995
+                float inputs:shaping:cone:softness = 0.15
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                double3 xformOp:rotateXYZ = (6.6458749226228235, 20.266724311891693, 90.58923185612338)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (510.42594316434554, 926.3542376087678, 722.248116581576)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_07" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                float inputs:intensity = 106667.625
+                float inputs:radius = 2
+                float inputs:shaping:cone:angle = 45
+                float inputs:shaping:cone:softness = 0
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                double3 xformOp:rotateXYZ = (6.1944173650261405, -41.8106515723951, 87.89336157091378)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (1504.653124203157, 644.3573106188994, 1004.4854601391703)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_08" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                float inputs:exposure = 0.25
+                float inputs:intensity = 10000
+                float inputs:radius = 2
+                float inputs:shaping:cone:angle = 45
+                float inputs:shaping:cone:softness = 0
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                double3 xformOp:rotateXYZ = (22.76966972562849, 3.6743551567636814, 89.5439878264774)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (1682.5755350979068, 940.3374404907227, 1276.209079464291)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_09" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                color3f inputs:color = (0.8996139, 0.18756427, 0.18756427)
+                float inputs:intensity = 0.2
+                float inputs:radius = 30
+                float inputs:shaping:cone:angle = 180
+                float inputs:shaping:cone:softness
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                double3 xformOp:rotateXYZ = (90, 0, 90)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (1603.349064605902, 465.0281982422006, 115.63820318571314)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_10" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                color3f inputs:color = (0.27674007, 0.9189189, 0.91127396)
+                float inputs:intensity = 60
+                float inputs:radius = 5
+                float inputs:shaping:cone:angle = 180
+                float inputs:shaping:cone:softness
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                double3 xformOp:rotateXYZ = (90, 0, 90)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (2689.569122314466, 861.7958076041147, 78.04137969086801)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_11" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                color3f inputs:color = (0.27674007, 0.9189189, 0.91127396)
+                float inputs:intensity = 60
+                float inputs:radius = 5
+                float inputs:shaping:cone:angle = 180
+                float inputs:shaping:cone:softness
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                double3 xformOp:rotateXYZ = (90, 0, 90)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (2689.5691223144822, 648.9597716986484, 78.04137969086904)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_12" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                color3f inputs:color = (0.27674007, 0.9189189, 0.91127396)
+                float inputs:intensity = 60
+                float inputs:radius = 5
+                float inputs:shaping:cone:angle = 180
+                float inputs:shaping:cone:softness
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                double3 xformOp:rotateXYZ = (90, 0, 90)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (2583.836133804689, 755.3265755781368, 78.04137969086904)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_13" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                color3f inputs:color = (0.99999, 0.99999803, 1)
+                float inputs:colorTemperature = 5940
+                bool inputs:enableColorTemperature = 1
+                float inputs:exposure = 6.4
+                float inputs:intensity = 10000
+                float inputs:radius = 5
+                float inputs:shaping:cone:angle = 50.399998
+                float inputs:shaping:cone:softness = 1.15
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                custom float inputs:volumetric_radiance_scale = 9.95
+                double3 xformOp:rotateXYZ = (-7.240290823515579, -9.487566387826945, 91.19966102419846)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (3031.4044642842114, 544.5772943665856, 855.521749517976)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_14" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                color3f inputs:color = (0.99999, 1, 0.9999999)
+                float inputs:colorTemperature = 5280
+                bool inputs:enableColorTemperature = 1
+                float inputs:intensity = 60
+                float inputs:radius = 5
+                float inputs:shaping:cone:angle = 180
+                float inputs:shaping:cone:softness
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                double3 xformOp:rotateXYZ = (90, 0, 90)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (2143.3987651823586, 754.0032290116686, 450.94446563720703)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+
+            def SphereLight "SphereLight_15" (
+                prepend apiSchemas = ["ShapingAPI"]
+            )
+            {
+                float3[] extent = [(-5, -5, -5), (5, 5, 5)]
+                color3f inputs:color = (0.99999, 0.99999803, 1)
+                float inputs:colorTemperature = 5940
+                bool inputs:enableColorTemperature = 1
+                float inputs:exposure = 8.150001
+                float inputs:intensity = 10070.564
+                float inputs:radius = 5
+                float inputs:shaping:cone:angle = 32.399998
+                float inputs:shaping:cone:softness = 1.5
+                float inputs:shaping:focus
+                color3f inputs:shaping:focusTint
+                asset inputs:shaping:ies:file
+                custom float inputs:volumetric_radiance_scale = 9.95
+                double3 xformOp:rotateXYZ = (-6.4741588735740265, 29.52133896892289, 89.68194526842797)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (2459.5616660754686, 916.6439274501903, 996.1812622157768)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+            }
+        }
+    }
+}
+

@@ -1,0 +1,351 @@
+#usda 1.0
+(
+    customLayerData = {
+        dictionary SelectionHistoryList = {
+            string "0" = "/RootNode/meshes/mesh_4C077D994672BCA3/mesh"
+            string "1" = "/RootNode/instances/inst_195108970EFBDA89_0/mesh"
+            string "10" = "/RootNode/meshes/mesh_F915982EC3CA612B/mesh"
+            string "100" = "/RootNode/instances/inst_55DBDADB8A504C9F_3/mesh"
+            string "101" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_04"
+            string "102" = "/RootNode/instances/inst_ABF58B048BAAA293_0/mesh"
+            string "103" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_04"
+            string "104" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_07"
+            string "105" = ""
+            string "106" = "/RootNode/instances/inst_CD2C542209E7EBE1_0/mesh"
+            string "107" = ""
+            string "108" = "/RootNode/instances/inst_00CDBD41206C7288_4/mesh"
+            string "109" = "/RootNode/instances/inst_7F5D619AD979011C_1/mesh"
+            string "11" = "/RootNode/meshes/mesh_F5C91917FBF54003/mesh"
+            string "110" = ""
+            string "111" = "/RootNode/instances/inst_7F5D619AD979011C_1/mesh"
+            string "112" = ""
+            string "113" = "/RootNode/instances/inst_7F5D619AD979011C_1/mesh"
+            string "114" = ""
+            string "115" = "/RootNode/instances/inst_032B90F18BBAEDBB_0/mesh"
+            string "116" = ""
+            string "117" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_26"
+            string "118" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_25"
+            string "119" = "/RootNode/meshes/mesh_1252C4AA67FBCEA4/SphereLight_26"
+            string "12" = "/RootNode/meshes/mesh_D3604A9B02CB4CF1/mesh"
+            string "120" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_25"
+            string "121" = ""
+            string "122" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_25"
+            string "123" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_24"
+            string "124" = "/RootNode/meshes/mesh_1252C4AA67FBCEA4/SphereLight_25"
+            string "125" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_24"
+            string "126" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_23"
+            string "127" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_22"
+            string "128" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_24"
+            string "129" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_20"
+            string "13" = "/RootNode/meshes/mesh_CF3820EA2AC6483D/mesh"
+            string "130" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_21"
+            string "131" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_22"
+            string "132" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_23"
+            string "133" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_24"
+            string "134" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_23"
+            string "135" = "/RootNode/meshes/mesh_1252C4AA67FBCEA4/SphereLight_24"
+            string "136" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_23"
+            string "137" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_22"
+            string "138" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_23"
+            string "139" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_22"
+            string "14" = "/RootNode/meshes/mesh_C85747BBF4BD61D1/mesh"
+            string "140" = "/RootNode/meshes/mesh_1252C4AA67FBCEA4/SphereLight_23"
+            string "141" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_22"
+            string "142" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_21"
+            string "143" = "/RootNode/meshes/mesh_1252C4AA67FBCEA4/SphereLight_22"
+            string "144" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_17"
+            string "145" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_21"
+            string "146" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_20"
+            string "147" = "/RootNode/meshes/mesh_1252C4AA67FBCEA4/SphereLight_21"
+            string "148" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_18"
+            string "149" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_19"
+            string "15" = "/RootNode/meshes/mesh_B4A543A9C6BB3EE3/mesh"
+            string "150" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_20"
+            string "151" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_19"
+            string "152" = "/RootNode/meshes/mesh_1252C4AA67FBCEA4/SphereLight_20"
+            string "153" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_19"
+            string "154" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/DistantLight"
+            string "155" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_20"
+            string "156" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_19"
+            string "157" = "/RootNode/meshes/mesh_1252C4AA67FBCEA4/SphereLight_20"
+            string "158" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_17"
+            string "159" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_18"
+            string "16" = "/RootNode/meshes/mesh_AFCF0316099E1B6E/mesh"
+            string "160" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_19"
+            string "161" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_18"
+            string "162" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_19"
+            string "163" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_18"
+            string "164" = "/RootNode/meshes/mesh_1252C4AA67FBCEA4/SphereLight_19"
+            string "165" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_18"
+            string "166" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_17"
+            string "167" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_18"
+            string "168" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_17"
+            string "169" = "/RootNode/meshes/mesh_1252C4AA67FBCEA4/SphereLight_18"
+            string "17" = "/RootNode/meshes/mesh_959363A26DE858B3/mesh"
+            string "170" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_17"
+            string "171" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_15"
+            string "172" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_16"
+            string "173" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_17"
+            string "174" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_16"
+            string "175" = "/RootNode/meshes/mesh_1252C4AA67FBCEA4/SphereLight_17"
+            string "176" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_16"
+            string "177" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_15"
+            string "178" = "/RootNode/meshes/mesh_1252C4AA67FBCEA4/SphereLight_16"
+            string "179" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_15"
+            string "18" = "/RootNode/meshes/mesh_90C329F9080A7F16/mesh"
+            string "180" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_14"
+            string "181" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_13"
+            string "182" = "/RootNode/meshes/mesh_1252C4AA67FBCEA4/SphereLight_14"
+            string "183" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_13"
+            string "184" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_12"
+            string "185" = "/RootNode/meshes/mesh_1252C4AA67FBCEA4/SphereLight_13"
+            string "186" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_10"
+            string "187" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_12"
+            string "188" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/DistantLight"
+            string "189" = "/RootNode/instances/inst_981513714EE45BDD_40/mesh"
+            string "19" = "/RootNode/meshes/mesh_8D3535B75AF77B02/mesh"
+            string "190" = ""
+            string "191" = "/RootNode/instances/inst_75582CF9700779E6_1/mesh"
+            string "192" = ""
+            string "193" = "/RootNode/instances/inst_1F89A04323E8C8FB_2/mesh"
+            string "194" = ""
+            string "195" = "/RootNode/instances/inst_75582CF9700779E6_1/mesh"
+            string "196" = "/RootNode/instances/inst_75582CF9700779E6_0/mesh"
+            string "197" = "/RootNode/instances/inst_00CDBD41206C7288_2/mesh"
+            string "198" = ""
+            string "199" = "/RootNode/instances/inst_7EF493D116BB2A0E_0/mesh"
+            string "2" = "/RootNode/meshes/mesh_4C077D994672BCA3/mesh"
+            string "20" = "/RootNode/meshes/mesh_47E2285DBA245E74/mesh"
+            string "21" = "/RootNode/meshes/mesh_46D1F2ACC10B0E81/mesh"
+            string "22" = "/RootNode/meshes/mesh_3553126F0AD635E0/mesh"
+            string "23" = "/RootNode/meshes/mesh_27BFB4213B4C602B/mesh"
+            string "24" = "/RootNode/meshes/mesh_3553126F0AD635E0/mesh"
+            string "25" = "/RootNode/meshes/mesh_27BFB4213B4C602B/mesh"
+            string "26" = "/RootNode/meshes/mesh_3553126F0AD635E0/mesh"
+            string "27" = "/RootNode/meshes/mesh_27BFB4213B4C602B/mesh"
+            string "28" = "/RootNode/meshes/mesh_179C8920DADD2D39/mesh"
+            string "29" = "/RootNode/meshes/mesh_05E886DE7BD8A67E/mesh"
+            string "3" = "/RootNode/instances/inst_195108970EFBDA89_0/mesh"
+            string "30" = "/RootNode/instances/inst_195108970EFBDA89_0/mesh"
+            string "31" = "/RootNode/instances/inst_320D582EA683B095_0/mesh"
+            string "32" = "/RootNode/instances/inst_195108970EFBDA89_0/mesh"
+            string "33" = "/RootNode/meshes/mesh_E48ADD201FFF44F2/mesh"
+            string "34" = "/RootNode/meshes/mesh_4C077D994672BCA3/mesh"
+            string "35" = "/RootNode/meshes/mesh_46D1F2ACC10B0E81/mesh"
+            string "36" = "/RootNode/meshes/mesh_4C077D994672BCA3/mesh"
+            string "37" = "/RootNode/meshes/mesh_5221C60B2500E210/mesh"
+            string "38" = "/RootNode/meshes/mesh_525627BC519BC570/mesh"
+            string "39" = "/RootNode/meshes/mesh_8D3535B75AF77B02/mesh"
+            string "4" = "/RootNode/instances/inst_320D582EA683B095_0/mesh"
+            string "40" = "/RootNode/meshes/mesh_959363A26DE858B3/mesh"
+            string "41" = "/RootNode/meshes/mesh_90C329F9080A7F16/mesh"
+            string "42" = "/RootNode/meshes/mesh_9FE0A5916216356A/mesh"
+            string "43" = "/RootNode/meshes/mesh_AFCF0316099E1B6E/mesh"
+            string "44" = "/RootNode/meshes/mesh_9FE0A5916216356A/mesh"
+            string "45" = "/RootNode/meshes/mesh_959363A26DE858B3/mesh"
+            string "46" = "/RootNode/meshes/mesh_9FE0A5916216356A/mesh"
+            string "47" = "/RootNode/meshes/mesh_AFCF0316099E1B6E/mesh"
+            string "48" = "/RootNode/meshes/mesh_B4A543A9C6BB3EE3/mesh"
+            string "49" = "/RootNode/meshes/mesh_B4BCF528CA6E5F76/mesh"
+            string "5" = "/RootNode/meshes/mesh_E48ADD201FFF44F2/mesh"
+            string "50" = "/RootNode/meshes/mesh_B8473A2E343E43FF/mesh"
+            string "51" = "/RootNode/meshes/mesh_C85747BBF4BD61D1/mesh"
+            string "52" = "/RootNode/meshes/mesh_CF3820EA2AC6483D/mesh"
+            string "53" = "/RootNode/meshes/mesh_D3604A9B02CB4CF1/mesh"
+            string "54" = "/RootNode/meshes/mesh_3553126F0AD635E0/mesh"
+            string "55" = "/RootNode/meshes/mesh_179C8920DADD2D39/mesh"
+            string "56" = "/RootNode/meshes/mesh_05E886DE7BD8A67E/mesh"
+            string "57" = "/RootNode/instances/inst_B4BCF528CA6E5F76_0/mesh"
+            string "58" = "/RootNode/instances/inst_54E735185A78B541_0/mesh"
+            string "59" = "/RootNode/instances/inst_3AB4D7AF5E9D003A_0/mesh"
+            string "6" = "/RootNode/meshes/mesh_27BFB4213B4C602B/mesh"
+            string "60" = "/RootNode/instances/inst_D7AD2415192328AC_0/mesh"
+            string "61" = "/RootNode/instances/inst_0A5DDE51D073C25E_0/mesh"
+            string "62" = "/RootNode/instances/inst_21018EE8780BA842_0/mesh"
+            string "63" = "/RootNode/instances/inst_0A5DDE51D073C25E_0/mesh"
+            string "64" = "/RootNode/instances/inst_21018EE8780BA842_0/mesh"
+            string "65" = "/RootNode/instances/inst_0A5DDE51D073C25E_0/mesh"
+            string "66" = "/RootNode/instances/inst_21018EE8780BA842_0/mesh"
+            string "67" = "/RootNode/instances/inst_0A5DDE51D073C25E_0/mesh"
+            string "68" = "/RootNode/instances/inst_21018EE8780BA842_0/mesh"
+            string "69" = "/RootNode/instances/inst_0A5DDE51D073C25E_0/mesh"
+            string "7" = "/RootNode/meshes/mesh_179C8920DADD2D39/mesh"
+            string "70" = "/RootNode/instances/inst_21018EE8780BA842_0/mesh"
+            string "71" = "/RootNode/instances/inst_0A5DDE51D073C25E_0/mesh"
+            string "72" = "/RootNode/instances/inst_21018EE8780BA842_0/mesh"
+            string "73" = "/RootNode/instances/inst_ABF58B048BAAA293_0/mesh"
+            string "74" = "/RootNode/instances/inst_474FFF540E13B08B_0/mesh"
+            string "75" = "/RootNode/instances/inst_5302C413FF87B3CA_3/mesh"
+            string "76" = "/RootNode/instances/inst_C7F50D7F983EE935_0/mesh"
+            string "77" = "/RootNode/instances/inst_ABF58B048BAAA293_0/mesh"
+            string "78" = "/RootNode/instances/inst_C7F50D7F983EE935_0/mesh"
+            string "79" = "/RootNode/instances/inst_ABF58B048BAAA293_0/mesh"
+            string "8" = "/RootNode/meshes/mesh_05E886DE7BD8A67E/mesh"
+            string "80" = "/RootNode/instances/inst_C7F50D7F983EE935_0/mesh"
+            string "81" = "/RootNode/instances/inst_5FCF6E424B865E88_0/mesh"
+            string "82" = "/RootNode/instances/inst_981513714EE45BDD_140/mesh"
+            string "83" = "/RootNode/instances/inst_15070CDFE2AACB29_1/mesh"
+            string "84" = "/RootNode/instances/inst_92C498C6E08FD9AD_0/mesh"
+            string "85" = "/RootNode/instances/inst_474FFF540E13B08B_0/mesh"
+            string "86" = "/RootNode/instances/inst_92C498C6E08FD9AD_0/mesh"
+            string "87" = "/RootNode/instances/inst_474FFF540E13B08B_0/mesh"
+            string "88" = "/RootNode/instances/inst_7C7C2F45383F1C54_0/mesh"
+            string "89" = "/RootNode/instances/inst_40CAFF6CA141F7BD_0/mesh"
+            string "9" = "/RootNode/meshes/mesh_F9BA6DC76ADAB189/mesh"
+            string "90" = "/RootNode/instances/inst_F9DB8E4CC2417478_1/mesh"
+            string "91" = "/RootNode/instances/inst_474FFF540E13B08B_0/mesh"
+            string "92" = "/RootNode/instances/inst_517858FCBD8C1FDA_0/mesh"
+            string "93" = "/RootNode/instances/inst_667F93BB67FAC6DE_0/mesh"
+            string "94" = "/RootNode/instances/inst_96DF9558BEF2F0AC_0/mesh"
+            string "95" = "/RootNode/instances/inst_55DBDADB8A504C9F_2/mesh"
+            string "96" = "/RootNode/meshes/mesh_3D07EEE2E1118C70/SphereLight_06"
+            string "97" = "/RootNode/instances/inst_428462D0D1129431_0/mesh"
+            string "98" = "/RootNode/instances/inst_00CDBD41206C7288_4/mesh"
+            string "99" = "/RootNode/instances/inst_96DF9558BEF2F0AC_2/mesh"
+        }
+        dictionary cameraSettings = {
+            dictionary Front = {
+                double3 position = (50000.00111758712, 0, 0)
+                double radius = 500
+            }
+            dictionary Perspective = {
+                double3 position = (593.0510451043021, 245.33102660011818, 135.5427075478592)
+                double3 target = (290.7848089085982, 116.8557248390077, 33.92801218262362)
+            }
+            dictionary Right = {
+                double3 position = (0, -50000.00111758712, 0)
+                double radius = 500
+            }
+            dictionary Top = {
+                double3 position = (0, 0, 50000.00111758712)
+                double radius = 500
+            }
+            string boundCamera = "/OmniverseKit_Persp"
+        }
+        string lightspeed_layer_type = "workfile"
+        dictionary omni_layer = {
+            string authoring_layer = "./comp_effects.usda"
+            dictionary locked = {
+                bool "./deps/captures/sp_a1_intro1_m101_chamber_01.usd" = 1
+                bool "./deps/captures/sp_a1_intro4_emanci_no_proxy_on.usd" = 1
+                bool "./deps/captures/sp_a1_intro4_m104_2nd_room.usd" = 1
+                bool "./deps/captures/sp_a1_intro4_m104_emancipation_alpha_off2_hidden_else.usd" = 1
+            }
+        }
+        dictionary renderSettings = {
+        }
+    }
+    endTimeCode = 1
+    metersPerUnit = 1
+    startTimeCode = 0
+    timeCodesPerSecond = 24
+    upAxis = "Z"
+)
+
+over "RootNode"
+{
+    over "Looks"
+    {
+        over "mat_B56E1342C4754AEA"
+        {
+            over "Shader"
+            {
+                custom int inputs:alpha_test_type = 0
+                custom bool inputs:blend_enabled = 0
+                custom int inputs:blend_type = 0
+                custom color3f inputs:emissive_color_constant = (0.62342536, 0.9245562, 0.9498069)
+                custom float inputs:emissive_intensity = 0.2
+                custom bool inputs:enable_emission = 0
+                custom bool inputs:enable_thin_film = 1
+                custom bool inputs:inverted_blend = 0
+                custom float inputs:metallic_constant = 0
+                custom bool inputs:preload_textures = 1
+                custom float inputs:reflection_roughness_constant = 1
+                custom float inputs:thin_film_thickness_constant = 0
+                custom bool inputs:thin_film_thickness_from_albedo_alpha = 0
+                custom bool inputs:use_legacy_alpha_state = 1
+            }
+        }
+
+        over "mat_6689CB4AE011C323"
+        {
+            over "Shader"
+            {
+                float inputs:alpha_test_reference_value = 0
+                int inputs:alpha_test_type = 0
+                bool inputs:blend_enabled = 1
+                int inputs:blend_type = 0
+                custom color3f inputs:diffuse_color_constant = (0.1137729, 0.5849351, 0.6138996)
+                asset inputs:diffuse_texture = @@
+                color3f inputs:emissive_color_constant = (0.46300742, 0.69832623, 0.7837838)
+                float inputs:emissive_intensity = 10
+                bool inputs:enable_emission = 0
+                custom bool inputs:enable_thin_film = 0
+                bool inputs:inverted_blend = 0
+                custom float inputs:opacity_constant = 0.64
+                custom float inputs:reflection_roughness_constant = 1
+                bool inputs:use_legacy_alpha_state = 0
+            }
+        }
+
+        over "mat_9E3243FB6C0D20F6"
+        {
+            over "Shader"
+            {
+                custom int inputs:alpha_test_type = 4
+                custom bool inputs:blend_enabled = 0
+                custom int inputs:blend_type = 0
+                custom color3f inputs:emissive_color_constant = (0.56194746, 0.92546624, 0.95752895)
+                custom float inputs:emissive_intensity = 0.1
+                custom bool inputs:enable_emission = 0
+                custom bool inputs:enable_thin_film = 1
+                custom float inputs:thin_film_thickness_constant = 0
+                custom bool inputs:thin_film_thickness_from_albedo_alpha = 0
+                custom bool inputs:use_legacy_alpha_state = 1
+            }
+        }
+
+        over "mat_00000000FAB9DA32"
+        {
+            over "Shader"
+            {
+                custom float inputs:emissive_intensity = 0.1
+                custom bool inputs:enable_thin_film = 1
+            }
+        }
+    }
+
+    over "meshes"
+    {
+        over "mesh_320D582EA683B095"
+        {
+            over "mesh"
+            {
+                custom uniform bool remix_category:alpha_blend_to_cutout = 0
+                custom uniform bool remix_category:decal_Static = 0
+                custom uniform bool remix_category:particle = 0
+            }
+        }
+
+        over "mesh_630950B6F64F1F73"
+        {
+            over "mesh"
+            {
+                custom uniform bool remix_category:ignore = 0
+            }
+        }
+
+        over "mesh_E1EA802682E7395C"
+        {
+            over "mesh"
+            {
+                custom uniform bool remix_category:alpha_blend_to_cutout = 1
+                custom uniform bool remix_category:beam = 0
+                custom uniform bool remix_category:hidden = 0
+                custom uniform bool remix_category:ignore_anti_culling = 0
+                custom uniform bool remix_category:particle = 0
+            }
+        }
+    }
+}
+

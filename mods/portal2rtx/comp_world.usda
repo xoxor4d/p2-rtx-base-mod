@@ -1,0 +1,909 @@
+#usda 1.0
+(
+    customLayerData = {
+        dictionary SelectionHistoryList = {
+            string "0" = "/RootNode/instances/inst_810E883157FD23F3_0/mesh"
+            string "1" = "/RootNode/instances/inst_C23E78C492753F91_0/mesh"
+            string "10" = "/RootNode/instances/inst_13EA136ADA3A4E70_0/DistantLight"
+            string "100" = "/RootNode/instances/inst_F909F05906A7C509_0/mesh"
+            string "101" = "/RootNode/instances/inst_282FBC1BD3B9C3F5_0/mesh"
+            string "102" = "/RootNode/instances/inst_8697DAAC55F01C90_0/mesh"
+            string "103" = "/RootNode/instances/inst_C12FE6ACB4EAAD69_0/mesh"
+            string "104" = "/RootNode/instances/inst_9C96DF97AA819A34_0/mesh"
+            string "105" = "/RootNode/instances/inst_46CDF2BF859E3C67_0/mesh"
+            string "106" = "/RootNode/instances/inst_1ED130E0C5E21EDF_0/mesh"
+            string "107" = "/RootNode/instances/inst_46CDF2BF859E3C67_0/mesh"
+            string "108" = ""
+            string "109" = "/RootNode/Looks/mat_6689CB4AE011C323/Shader"
+            string "11" = "/RootNode/instances/inst_13EA136ADA3A4E70_0/DistantLight"
+            string "110" = "/RootNode/Looks/mat_6689CB4AE011C323"
+            string "111" = ""
+            string "112" = "/RootNode/Looks/mat_C1FDA1491A30AC33/Shader"
+            string "113" = ""
+            string "114" = "/RootNode/Looks/mat_5312CF5DA5654648/Shader"
+            string "115" = ""
+            string "116" = "/RootNode/Looks/mat_5312CF5DA5654648/Shader"
+            string "117" = ""
+            string "118" = "/RootNode"
+            string "119" = ""
+            string "12" = "/RootNode/instances/inst_13EA136ADA3A4E70_0/mesh"
+            string "120" = "/RootNode/Looks/mat_6689CB4AE011C323/Shader"
+            string "121" = "/RootNode/Looks/mat_6689CB4AE011C323"
+            string "122" = ""
+            string "123" = "/RootNode/Looks/mat_C1FDA1491A30AC33/Shader"
+            string "124" = ""
+            string "125" = "/RootNode/Looks/mat_5312CF5DA5654648/Shader"
+            string "126" = ""
+            string "127" = "/RootNode/Looks/mat_6689CB4AE011C323/Shader"
+            string "128" = "/RootNode/Looks/mat_6689CB4AE011C323"
+            string "129" = ""
+            string "13" = "/RootNode/instances/inst_7F54FA3124E7F310_0/mesh"
+            string "130" = "/RootNode/Looks/mat_C1FDA1491A30AC33/Shader"
+            string "131" = ""
+            string "132" = "/RootNode/Looks/mat_5312CF5DA5654648/Shader"
+            string "133" = ""
+            string "134" = "/RootNode/Looks/mat_5312CF5DA5654648/Shader"
+            string "135" = ""
+            string "136" = "/RootNode"
+            string "137" = ""
+            string "138" = "/RootNode/Looks/mat_6689CB4AE011C323/Shader"
+            string "139" = "/RootNode/Looks/mat_6689CB4AE011C323"
+            string "14" = "/RootNode/instances/inst_4FB27C52324EE155_0/mesh"
+            string "140" = ""
+            string "141" = "/RootNode/Looks/mat_C1FDA1491A30AC33/Shader"
+            string "142" = ""
+            string "143" = "/RootNode/Looks/mat_5312CF5DA5654648/Shader"
+            string "144" = ""
+            string "15" = "/RootNode/instances/inst_F66D628674E1FE66_0/mesh"
+            string "16" = "/RootNode/instances/inst_DB4B86EC0EF9A8DB_0/mesh"
+            string "17" = "/RootNode/instances/inst_61B8D7B99D2D7265_0/mesh"
+            string "18" = "/RootNode/instances/inst_C4C909B91F73098B_0/mesh"
+            string "19" = "/RootNode/instances/inst_307C86CA28853F39_0/mesh"
+            string "2" = "/RootNode/instances/inst_810E883157FD23F3_0/mesh"
+            string "20" = "/RootNode/instances/inst_363AD3651D92679F_0/mesh"
+            string "21" = "/RootNode/instances/inst_F9E10650AB5E09DA_0/mesh"
+            string "22" = "/RootNode/instances/inst_2B5F047CB12C4749_0/mesh"
+            string "23" = "/RootNode/instances/inst_8A80691938C87C67_0/mesh"
+            string "24" = "/RootNode/instances/inst_B6EB89E0C620CDBA_0/mesh"
+            string "25" = "/RootNode/instances/inst_25F5ACBB87257603_0/mesh"
+            string "26" = "/RootNode/instances/inst_4E3E9A190403F36D_0/mesh"
+            string "27" = "/RootNode/instances/inst_BE36DABB3D45D1A8_0/mesh"
+            string "28" = "/RootNode/instances/inst_7F8B0B6C5F10563A_0/mesh"
+            string "29" = "/RootNode/instances/inst_58C7126652B803CA_0/mesh"
+            string "3" = "/RootNode/instances/inst_5EA07A91435270AC_0/mesh"
+            string "30" = "/RootNode/instances/inst_15BC1593E8C8DDA7_0/mesh"
+            string "31" = "/RootNode/instances/inst_12B58C732DBEE322_0/mesh"
+            string "32" = "/RootNode/instances/inst_FDE8069F39883AC8_0/mesh"
+            string "33" = "/RootNode/instances/inst_A3273FE0CCA4815C_0/mesh"
+            string "34" = "/RootNode/instances/inst_560DF91FD506EF95_0/mesh"
+            string "35" = "/RootNode/instances/inst_42B6FF28FE734634_0/mesh"
+            string "36" = "/RootNode/instances/inst_71EC5B79D9E82FF8_0/mesh"
+            string "37" = "/RootNode/instances/inst_777A3B9D3CD9603A_0/mesh"
+            string "38" = "/RootNode/instances/inst_75E7CE28B5C5331F_0/mesh"
+            string "39" = "/RootNode/instances/inst_F909F05906A7C509_0/mesh"
+            string "4" = "/RootNode/instances/inst_D1AC27E5E7534801_0/mesh"
+            string "40" = "/RootNode/instances/inst_D91739D56C501181_0/mesh"
+            string "41" = "/RootNode/instances/inst_C12FE6ACB4EAAD69_0/mesh"
+            string "42" = "/RootNode/instances/inst_9C96DF97AA819A34_0/mesh"
+            string "43" = "/RootNode/instances/inst_F051A9FDC0F03B1E_0/mesh"
+            string "44" = "/RootNode/instances/inst_50E2E73E080E03C8_0/mesh"
+            string "45" = "/RootNode/instances/inst_12B58C732DBEE322_0/mesh"
+            string "46" = "/RootNode/instances/inst_44AD5639CA9F57D1_0/mesh"
+            string "47" = "/RootNode/instances/inst_07EDD187EBD7C294_0/mesh"
+            string "48" = "/RootNode/instances/inst_44AD5639CA9F57D1_0/mesh"
+            string "49" = "/RootNode/instances/inst_245B17A26E597B54_0/mesh"
+            string "5" = "/RootNode/instances/inst_82CEE315BEB55C14_0/mesh"
+            string "50" = "/RootNode/instances/inst_884389C6F2903FB4_0/mesh"
+            string "51" = "/RootNode/instances/inst_245B17A26E597B54_0/mesh"
+            string "52" = "/RootNode/instances/inst_E35268D874EB0631_0/SphereLight"
+            string "53" = "/RootNode/instances/inst_E35268D874EB0631_0/mesh"
+            string "54" = "/RootNode/instances/inst_13EA136ADA3A4E70_0/mesh"
+            string "55" = "/RootNode/instances/inst_FFEBA2773D4AE6B0_0/mesh"
+            string "56" = "/RootNode/instances/inst_3DF35B8A6F614124_0/mesh"
+            string "57" = "/RootNode/instances/inst_4FB27C52324EE155_0/mesh"
+            string "58" = "/RootNode/instances/inst_9D34296BB43CFDF7_0/mesh"
+            string "59" = "/RootNode/instances/inst_5836EAA1D6DE59B9_0/mesh"
+            string "6" = "/RootNode/instances/inst_8E7EBEB52B4E28DF_0/mesh"
+            string "60" = "/RootNode/instances/inst_7ADE96BDDFD47CFF_0/mesh"
+            string "61" = "/RootNode/instances/inst_F66D628674E1FE66_0/mesh"
+            string "62" = "/RootNode/instances/inst_C2DB75CC87DA0E47_0/mesh"
+            string "63" = "/RootNode/instances/inst_C4C909B91F73098B_0/mesh"
+            string "64" = "/RootNode/instances/inst_3E5053CC3BD15F66_0/mesh"
+            string "65" = "/RootNode/instances/inst_47EBDC06098B0BE2_0/mesh"
+            string "66" = "/RootNode/instances/inst_D1F268FE31C4C83A_0/mesh"
+            string "67" = "/RootNode/instances/inst_363AD3651D92679F_0/mesh"
+            string "68" = "/RootNode/instances/inst_6E6CC7465D397CAD_0/mesh"
+            string "69" = "/RootNode/instances/inst_8A619E6A47B8094C_0/mesh"
+            string "7" = "/RootNode/instances/inst_810E883157FD23F3_0/mesh"
+            string "70" = "/RootNode/instances/inst_F9E10650AB5E09DA_0/mesh"
+            string "71" = "/RootNode/instances/inst_5BAC44392AD00917_0/mesh"
+            string "72" = "/RootNode/instances/inst_E23BC63B5DFE7D00_0/mesh"
+            string "73" = "/RootNode/instances/inst_405AA39EBDB5C932_9/mesh"
+            string "74" = "/RootNode/instances/inst_25F5ACBB87257603_0/mesh"
+            string "75" = "/RootNode/instances/inst_BE36DABB3D45D1A8_0/mesh"
+            string "76" = "/RootNode/instances/inst_E40D7619E2EEE0E3_0/mesh"
+            string "77" = "/RootNode/instances/inst_509E50FDA3D17D73_0/mesh"
+            string "78" = "/RootNode/instances/inst_A83CE458B5A4B659_0/mesh"
+            string "79" = "/RootNode/instances/inst_64E528F4B92D9A0A_0/mesh"
+            string "8" = "/RootNode/instances/inst_82CEE315BEB55C14_0/mesh"
+            string "80" = "/RootNode/instances/inst_DCFB8A27E7E2122A_0/mesh"
+            string "81" = "/RootNode/instances/inst_2B4CD6907124E420_0/mesh"
+            string "82" = "/RootNode/instances/inst_58C7126652B803CA_0/mesh"
+            string "83" = "/RootNode/instances/inst_0424C3517E41E1FC_0/mesh"
+            string "84" = "/RootNode/instances/inst_EA8AE5A319059DEE_0/mesh"
+            string "85" = "/RootNode/instances/inst_15BC1593E8C8DDA7_0/mesh"
+            string "86" = "/RootNode/instances/inst_77CA36A41F53078E_0/mesh"
+            string "87" = "/RootNode/instances/inst_5E30AFE6E8915D9A_0/mesh"
+            string "88" = "/RootNode/instances/inst_B03B82671B80651E_0/mesh"
+            string "89" = "/RootNode/instances/inst_61B69E681A2EE4CC_0/mesh"
+            string "9" = "/RootNode/instances/inst_13EA136ADA3A4E70_0/DistantLight"
+            string "90" = "/RootNode/instances/inst_CD04759233E6CC19_0/mesh"
+            string "91" = "/RootNode/instances/inst_1B17B72F1D8DBDE4_0/mesh"
+            string "92" = "/RootNode/instances/inst_42B6FF28FE734634_0/mesh"
+            string "93" = "/RootNode/instances/inst_71EC5B79D9E82FF8_0/mesh"
+            string "94" = "/RootNode/instances/inst_DAC0F6F7064AA668_0/mesh"
+            string "95" = "/RootNode/instances/inst_647932AF787E5636_0/mesh"
+            string "96" = "/RootNode/instances/inst_8953BE679EF995E4_0/mesh"
+            string "97" = "/RootNode/instances/inst_BEA22777D694109D_0/mesh"
+            string "98" = "/RootNode/instances/inst_E3ED7672E6D548C9_0/mesh"
+            string "99" = "/RootNode/instances/inst_BD58B4FFE12677F3_0/mesh"
+        }
+        dictionary cameraSettings = {
+            dictionary Front = {
+                double3 position = (50000.00111758712, 0, 0)
+                double radius = 500
+            }
+            dictionary Perspective = {
+                double3 position = (-4345.059129755918, 2223.8119149886347, 3147.3324831709783)
+                double3 target = (-4344.0683333717925, 2259.655611357656, 3143.7958826710938)
+            }
+            dictionary Right = {
+                double3 position = (0, -50000.00111758712, 0)
+                double radius = 500
+            }
+            dictionary Top = {
+                double3 position = (0, 0, 50000.00111758712)
+                double radius = 500
+            }
+            string boundCamera = "/OmniverseKit_Persp"
+        }
+        string lightspeed_layer_type = "workfile"
+        dictionary omni_layer = {
+            string authoring_layer = "./hq_world.usda"
+            dictionary locked = {
+                bool "./deps/captures/sp_a1_intro1_m101_second_container_03.usd" = 1
+            }
+            dictionary muteness = {
+                bool "./do_not_ship.usda" = 0
+            }
+        }
+        dictionary renderSettings = {
+        }
+    }
+    endTimeCode = 1
+    metersPerUnit = 1
+    startTimeCode = 0
+    timeCodesPerSecond = 24
+    upAxis = "Z"
+)
+
+over "RootNode"
+{
+    over "Looks"
+    {
+        over "mat_5DFD9DEA7D671597"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.78999996
+                custom float inputs:reflection_roughness_constant = 0.405
+            }
+        }
+
+        over "mat_1188B1998C59612C"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.91499996
+                custom float inputs:reflection_roughness_constant = 0.45999998
+            }
+        }
+
+        over "mat_C61C0C97F7EEFBBB"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.45
+                custom float inputs:reflection_roughness_constant = 0.89
+            }
+        }
+
+        over "mat_0FE17CA774943B64"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.815
+                custom float inputs:reflection_roughness_constant = 0.325
+            }
+        }
+
+        over "mat_D3682D2318F09011" (
+            references = @./materials/AperturePBR_Translucent.usda@</Looks/mat_AperturePBR_Translucent>
+        )
+        {
+            over "Shader"
+            {
+                custom float inputs:ior_constant = 1.3
+                custom float inputs:thin_wall_thickness = 1
+                custom bool inputs:thin_walled = 0
+                custom color3f inputs:transmittance_color = (0.9825584, 1, 0.93050194)
+                custom float inputs:transmittance_measurement_distance = 35
+            }
+        }
+
+        over "mat_5A0A67F78F95EFE5" (
+            references = @./materials/AperturePBR_Translucent.usda@</Looks/mat_AperturePBR_Translucent>
+        )
+        {
+            over "Shader"
+            {
+                custom asset inputs:normalmap_texture = @./assets/textures_world/glass/glass_frosted01/wavey02_normal_dx_OTH_Normal.n.rtex.dds@
+                custom float inputs:transmittance_measurement_distance = 5
+            }
+        }
+
+        over "mat_D51AEB143C84ED22" (
+            references = @./materials/AperturePBR_Translucent.usda@</Looks/mat_AperturePBR_Translucent>
+        )
+        {
+            over "Shader"
+            {
+                custom float inputs:alpha_test_reference_value = 0
+                custom int inputs:alpha_test_type = 4
+                custom bool inputs:blend_enabled = 1
+                custom int inputs:blend_type = 7
+                custom float inputs:emissive_intensity = 0.045
+                custom asset inputs:emissive_mask_texture = @./assets/textures_model/elevator/elevator_glass/D51AEB143C84ED22_albedo.a.rtex.dds@
+                custom bool inputs:enable_emission = 1
+                custom bool inputs:inverted_blend = 0
+                custom float inputs:ior_constant = 1
+                custom float inputs:metallic_constant = 0.175
+                custom asset inputs:normalmap_texture = @@
+                custom float inputs:opacity_constant = 1
+                custom float inputs:reflection_roughness_constant = 0.105
+                custom float inputs:thin_wall_thickness = 0.7
+                custom bool inputs:thin_walled = 1
+                custom color3f inputs:transmittance_color = (0.95752895, 1, 0.9877013)
+                custom float inputs:transmittance_measurement_distance = 100
+                custom asset inputs:transmittance_texture = @./assets/textures_model/elevator/elevator_glass/D51AEB143C84ED22_diffuse_trans.a.rtex.dds@
+                custom bool inputs:use_diffuse_layer = 0
+                custom bool inputs:use_legacy_alpha_state = 0
+            }
+        }
+
+        over "mat_B80469F073A6EC8E"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.705
+                custom float inputs:reflection_roughness_constant = 0.255
+            }
+        }
+
+        over "mat_D55A50B397472606"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.435
+                custom float inputs:reflection_roughness_constant = 0.225
+            }
+        }
+
+        over "mat_B42B840E39C9036A" (
+            references = @./materials/AperturePBR_Translucent.usda@</Looks/mat_AperturePBR_Translucent>
+        )
+        {
+            over "Shader"
+            {
+                custom color3f inputs:emissive_color = (1, 0.99999, 0.99999)
+                custom float inputs:ior_constant = 1.3
+                custom asset inputs:normalmap_texture = @./assets/textures_world/glass/glass_frosted01/glass_frosted01_nml_dx_OTH_Normal.n.rtex.dds@
+                custom float inputs:thin_wall_thickness = 2
+                custom bool inputs:thin_walled = 1
+                custom color3f inputs:transmittance_color = (0.9536584, 0.95366794, 0.9536665)
+                custom float inputs:transmittance_measurement_distance = 1
+            }
+        }
+
+        over "mat_D0F60FBA85B0333A"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.60499996
+                custom float inputs:reflection_roughness_constant = 0.835
+            }
+        }
+
+        over "mat_7116DA5ECF329C2A"
+        {
+            over "Shader"
+            {
+                custom int inputs:alpha_test_type = 4
+                custom bool inputs:blend_enabled = 1
+                custom float inputs:reflection_roughness_constant = 1
+                custom bool inputs:subsurface_diffusion_profile = 0
+                custom float inputs:subsurface_measurement_distance = 2.4
+                custom color3f inputs:subsurface_radius = (0.6431373, 0.68235296, 0.3254902)
+                custom float inputs:subsurface_radius_scale = 1.6
+                custom color3f inputs:subsurface_single_scattering_albedo = (1, 0.99999, 0.99999)
+                custom color3f inputs:subsurface_transmittance_color = (0.6431373, 0.68235296, 0.3254902)
+                custom float inputs:subsurface_volumetric_anisotropy = 0.297
+            }
+        }
+
+        over "mat_90ABF9B7573AA175"
+        {
+            over "Shader"
+            {
+                custom int inputs:alpha_test_type = 4
+                custom bool inputs:blend_enabled = 1
+                custom float inputs:metallic_constant = 0.26
+                custom float inputs:reflection_roughness_constant = 0.805
+                custom bool inputs:subsurface_diffusion_profile = 0
+                custom float inputs:subsurface_max_sample_radius = 16
+                float inputs:subsurface_measurement_distance = 2.4
+                custom color3f inputs:subsurface_radius = (0.6431373, 0.68235296, 0.3254902)
+                custom float inputs:subsurface_radius_scale = 1.5999999
+                color3f inputs:subsurface_single_scattering_albedo = (0.9999971, 1, 0.99999)
+                custom asset inputs:subsurface_transmittance_texture = @./assets_hq/textures_model/foliage/prop_foliage_combo_mtl_albedo.a.rtex.dds@
+                float inputs:subsurface_volumetric_anisotropy = 0.0495
+            }
+        }
+
+        over "mat_B39925E0A2BE52AD"
+        {
+            over "Shader"
+            {
+                custom int inputs:alpha_test_type = 4
+                custom bool inputs:blend_enabled = 1
+                custom float inputs:reflection_roughness_constant = 1
+                custom float inputs:subsurface_measurement_distance = 2.4
+                custom color3f inputs:subsurface_single_scattering_albedo = (1, 0.99999, 0.99999)
+                custom color3f inputs:subsurface_transmittance_color = (0.6431373, 0.68235296, 0.3254902)
+                custom float inputs:subsurface_volumetric_anisotropy = 0.0495
+            }
+        }
+
+        over "mat_81CD39F4CCF1D20A"
+        {
+            over "Shader"
+            {
+                custom int inputs:alpha_test_type = 4
+                custom bool inputs:blend_enabled = 1
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_435DFC4DA4070A99"
+        {
+            over "Shader"
+            {
+                custom int inputs:alpha_test_type = 4
+                custom bool inputs:blend_enabled = 1
+                custom float inputs:metallic_constant = 0.53
+                custom float inputs:reflection_roughness_constant = 0.29
+                custom float inputs:subsurface_measurement_distance = 2.4
+                custom color3f inputs:subsurface_single_scattering_albedo = (1, 0.99999, 0.99999)
+                custom color3f inputs:subsurface_transmittance_color = (0.6431373, 0.68235296, 0.3254902)
+                custom float inputs:subsurface_volumetric_anisotropy = 0.2277
+            }
+        }
+
+        over "mat_493D4721A36EA269"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.78999996
+                custom float inputs:reflection_roughness_constant = 0.635
+            }
+        }
+
+        over "mat_DC16DBB87079D7FE"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.56
+                custom float inputs:reflection_roughness_constant = 0.7
+            }
+        }
+
+        over "mat_E29EDF1A181A5BC8"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.85499996
+            }
+        }
+
+        over "mat_DE5AC43FF2678076"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.905
+            }
+        }
+
+        over "mat_3829C560DC7E8F96"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.87
+            }
+        }
+
+        over "mat_5C75CF0D1FC72AFD"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.87
+            }
+        }
+
+        over "mat_B820CA4EC7F5F23A"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_75336360CB307CC6"
+        {
+            over "Shader"
+            {
+                custom asset inputs:metallic_texture = @@
+                custom asset inputs:normalmap_texture = @./assets/textures_world/glass/glass_stripes/C91B319E391276F6_normal_OTH.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets/textures_world/glass/glass_stripes/75336360CB307CC6_rough.r.rtex.dds@
+            }
+        }
+
+        over "mat_B6A53DBA022D0CAD" (
+            references = @./materials/AperturePBR_Translucent.usda@</Looks/mat_AperturePBR_Translucent>
+        )
+        {
+            over "Shader"
+            {
+                custom bool inputs:enable_emission = 0
+                custom float inputs:ior_constant = 2
+                custom asset inputs:normalmap_texture = @./assets/textures_world/glass/glass_frosted01/refract_light_normal_OTH_Normal.n.rtex.dds@
+                custom color3f inputs:transmittance_color = (0.6525097, 0.6279344, 0.5769294)
+                custom float inputs:transmittance_measurement_distance = 2.4
+            }
+        }
+
+        over "mat_5E2EBAE175CDEC29"
+        {
+            over "Shader"
+            {
+                custom float inputs:alpha_test_reference_value = 0
+                custom int inputs:alpha_test_type = 0
+                custom bool inputs:blend_enabled = 0
+                custom int inputs:blend_type = 0
+                custom bool inputs:enable_thin_film = 0
+                custom bool inputs:inverted_blend = 0
+                custom float inputs:metallic_constant = 0
+                custom asset inputs:metallic_texture = @./assets/textures_world/glass/glass_stripes_dirty/5E2EBAE175CDEC29_metalness.m.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets/textures_world/glass/glass_stripes/C91B319E391276F6_normal_OTH.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets/textures_world/glass/glass_stripes_dirty/5E2EBAE175CDEC29_rough.r.rtex.dds@
+                custom float inputs:thin_film_thickness_constant = 0
+                custom bool inputs:thin_film_thickness_from_albedo_alpha = 0
+                custom bool inputs:use_legacy_alpha_state = 1
+            }
+        }
+
+        over "mat_FC60669FB09A5F1F"
+        {
+            over "Shader"
+            {
+                custom asset inputs:normalmap_texture = @./assets/textures_world/elevator/elevator_screens/elevator_screen_normal_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets/textures_world/elevator/elevator_screens/FC60669FB09A5F1F_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_2A068D8211F05295"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0
+                custom asset inputs:normalmap_texture = @./assets/textures_world/elevator/elevator_screens/elevator_screen_normal_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets/textures_world/elevator/elevator_screens/2A068D8211F05295_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_0EDF1D4F6715CD60"
+        {
+            over "Shader"
+            {
+                custom asset inputs:normalmap_texture = @./assets/textures_world/elevator/elevator_screens/elevator_screen_normal_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets/textures_world/elevator/elevator_screens/0EDF1D4F6715CD60_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_6041BB4BFBD1526D"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets/textures_model/sliding_door/prop_sliding_door_albedo.a.rtex.dds@
+                custom float inputs:emissive_intensity = 0.15
+                custom asset inputs:emissive_mask_texture = @./assets/textures_model/sliding_door/6041BB4BFBD1526D_emissive.e.rtex.dds@
+                custom bool inputs:enable_emission = 1
+                custom float inputs:metallic_constant = 0
+                custom asset inputs:metallic_texture = @./assets/textures_model/sliding_door/prop_sliding_door_metalness.m.rtex.dds@
+                custom asset inputs:normalmap_texture = @./assets/textures_model/sliding_door/prop_sliding_door_normal_dx_OTH_Normal.n.rtex.dds@
+                custom asset inputs:reflectionroughness_texture = @./assets/textures_model/sliding_door/prop_sliding_door_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_00000000B6526B8B"
+        {
+            over "Shader"
+            {
+                custom bool inputs:blend_enabled = 0
+            }
+        }
+
+        over "mat_22276E4D11916E4D"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.49499997
+                custom float inputs:reflection_roughness_constant = 0.51
+            }
+        }
+
+        over "mat_B4FF8054BBFF32AF"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.78999996
+            }
+        }
+
+        over "mat_B58F7CDCB43EE901"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.42
+                custom float inputs:reflection_roughness_constant = 0.59
+            }
+        }
+
+        over "mat_C9FFA0FCC6A3202A"
+        {
+            over "Shader"
+            {
+                custom bool inputs:blend_enabled = 0
+                custom int inputs:blend_type = 8
+                custom color3f inputs:emissive_color_constant = (1, 0.99999, 0.99999)
+                custom float inputs:emissive_intensity = 0.02
+                custom bool inputs:enable_emission = 1
+                custom bool inputs:enable_thin_film = 1
+                custom float inputs:metallic_constant = 0.47
+                custom float inputs:reflection_roughness_constant = 0.75
+                custom float inputs:thin_film_thickness_constant = 0
+                custom bool inputs:thin_film_thickness_from_albedo_alpha = 1
+                custom bool inputs:use_legacy_alpha_state = 1
+            }
+        }
+
+        over "mat_5E9284EDA528490D"
+        {
+            over "Shader"
+            {
+                custom color3f inputs:emissive_color_constant = (1, 0.99999, 0.99999)
+                custom float inputs:emissive_intensity = 0.02
+                custom bool inputs:enable_emission = 1
+                custom bool inputs:enable_thin_film = 1
+                custom float inputs:thin_film_thickness_constant = 0
+                custom bool inputs:thin_film_thickness_from_albedo_alpha = 1
+            }
+        }
+
+        over "mat_50D849525E2DD721"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.47
+                custom float inputs:reflection_roughness_constant = 0.59999996
+            }
+        }
+
+        over "mat_9429634FC29BCB16"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.93
+            }
+        }
+
+        over "mat_8FCA00BE67376A7D" (
+            references = @./materials/AperturePBR_Translucent.usda@</Looks/mat_AperturePBR_Translucent>
+        )
+        {
+            over "Shader"
+            {
+                custom float inputs:transmittance_measurement_distance = 30
+            }
+        }
+
+        over "mat_1A4238FC6F23E23F"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.94
+                custom float inputs:reflection_roughness_constant = 1
+            }
+        }
+
+        over "mat_6F46AB6D6E4D6D45"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.445
+                custom float inputs:reflection_roughness_constant = 0.825
+            }
+        }
+
+        over "mat_000000000B9C1E4B" (
+            references = @./materials/AperturePBR_Translucent.usda@</Looks/mat_AperturePBR_Translucent>
+        )
+        {
+            over "Shader"
+            {
+                custom asset inputs:normalmap_texture = @./assets/textures_world/glass/glass_broken/glass_fracture_d_normal_OTH_Normal.n.rtex.dds@
+                custom float inputs:transmittance_measurement_distance = 2
+            }
+        }
+
+        over "mat_4B3EE6B3A1E47BA5" (
+            references = @./materials/AperturePBR_Translucent.usda@</Looks/mat_AperturePBR_Translucent>
+        )
+        {
+            over "Shader"
+            {
+                custom float inputs:emissive_intensity = 1
+                custom bool inputs:enable_emission = 0
+                custom float inputs:ior_constant = 3
+                custom asset inputs:normalmap_texture = @./assets/textures_world/glass/glass_frosted01/refract_light_normal_OTH_Normal.n.rtex.dds@
+                custom float inputs:thin_wall_thickness = 1
+                custom bool inputs:thin_walled = 0
+                custom color3f inputs:transmittance_color = (0.8918919, 0.8560211, 0.771366)
+                custom float inputs:transmittance_measurement_distance = 80
+                custom asset inputs:transmittance_texture = @@
+                custom bool inputs:use_diffuse_layer = 0
+            }
+        }
+
+        over "mat_6ACBE682C115F891"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.17
+                custom float inputs:reflection_roughness_constant = 0.13
+            }
+        }
+
+        over "mat_DE66A333B3B57728"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.315
+                custom float inputs:reflection_roughness_constant = 0.19999999
+            }
+        }
+
+        over "mat_FE63227ECA815302"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.72999996
+                custom float inputs:reflection_roughness_constant = 0.445
+            }
+        }
+
+        over "mat_513DC6FAA2BA6AFE"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.515
+                custom float inputs:reflection_roughness_constant = 0.41
+            }
+        }
+
+        over "mat_361BC3323F89738A"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 1
+                custom float inputs:subsurface_measurement_distance = 2.96
+                custom color3f inputs:subsurface_single_scattering_albedo = (1, 0.99999, 0.99999)
+                custom color3f inputs:subsurface_transmittance_color = (0.6216216, 0.4763586, 0.32401127)
+                custom float inputs:subsurface_volumetric_anisotropy = 0.4851
+            }
+        }
+
+        over "mat_5D8111135839D3E5"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0
+                custom float inputs:reflection_roughness_constant = 0.13499999
+            }
+        }
+
+        over "mat_411D11DE745D114E"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.90999997
+            }
+        }
+
+        over "mat_9E48ED76B6EDBF9C"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.875
+            }
+        }
+
+        over "mat_2F4777FDC4919180"
+        {
+            over "Shader"
+            {
+                custom color3f inputs:diffuse_color_constant = (0.000001, 9.9999e-7, 9.9999e-7)
+                asset inputs:diffuse_texture = @@
+                custom float inputs:metallic_constant = 0.38
+                custom asset inputs:normalmap_texture = @./assets/textures_world/water/water_really_dirty_normal_dx_OTH_Normal.n.rtex.dds@
+                custom float inputs:reflection_roughness_constant = 0.715
+            }
+        }
+
+        over "mat_DEEF18A891EBAD7C"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.31
+                custom bool inputs:use_legacy_alpha_state = 0
+            }
+        }
+
+        over "mat_2064AB5C9CE8EFAF"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.28
+                custom float inputs:reflection_roughness_constant = 0.835
+            }
+        }
+
+        over "mat_378EA3783E38DA3D"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.835
+            }
+        }
+
+        over "mat_AB870E5A5A1B2753"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0
+                custom float inputs:reflection_roughness_constant = 0.76
+            }
+        }
+
+        over "mat_3DB69F1A0A71A66F"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.87
+            }
+        }
+
+        over "mat_2A52915EB62C6BA5"
+        {
+            over "Shader"
+            {
+                custom float inputs:metallic_constant = 0.14999999
+                custom float inputs:reflection_roughness_constant = 0.125
+            }
+        }
+
+        over "mat_4D912A39230C5468"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.68
+            }
+        }
+
+        over "mat_DAAD2992BBDC873B"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.68
+            }
+        }
+
+        over "mat_8240FC8D0A2AB909"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.435
+            }
+        }
+
+        over "mat_4894F26CABEFDEC2"
+        {
+            over "Shader"
+            {
+                custom float inputs:transmittance_measurement_distance = 1
+            }
+        }
+    }
+
+    over "meshes"
+    {
+        over "mesh_C2C224B87845FB12"
+        {
+            over "mesh"
+            {
+                custom uniform bool remix_category:alpha_blend_to_cutout = 1
+                custom uniform bool remix_category:decal_Static = 1
+            }
+        }
+
+        over "mesh_A42DBB96E7CE7957"
+        {
+            over "mesh"
+            {
+                custom uniform bool remix_category:decal_Static = 1
+            }
+        }
+
+        over "mesh_CE2B9281C576A1A5"
+        {
+            over "mesh"
+            {
+                custom uniform bool remix_category:alpha_blend_to_cutout = 0
+                custom uniform bool remix_category:decal_Static = 0
+                custom uniform bool remix_category:hidden = 0
+                custom uniform bool remix_category:world_ui = 0
+            }
+        }
+
+        over "mesh_CE90833D63F828B7"
+        {
+            over "mesh"
+            {
+                custom uniform bool remix_category:world_ui = 0
+            }
+        }
+
+        over "mesh_59FDA72C00734190"
+        {
+            over "mesh"
+            {
+                custom uniform bool remix_category:world_ui = 0
+            }
+        }
+
+        over "mesh_3D07EEE2E1118C70"
+        {
+        }
+    }
+}
+

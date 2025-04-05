@@ -1,0 +1,406 @@
+#usda 1.0
+(
+    customLayerData = {
+        dictionary SelectionHistoryList = {
+            string "0" = "/RootNode/instances/inst_ABF58B048BAAA293_0/mesh"
+            string "1" = "/RootNode/instances/inst_093BB82B9DA047A3_0/mesh"
+            string "10" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_01"
+            string "100" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_10"
+            string "101" = ""
+            string "102" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_09"
+            string "103" = ""
+            string "104" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_08"
+            string "105" = ""
+            string "106" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_07"
+            string "107" = ""
+            string "108" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_06"
+            string "109" = ""
+            string "11" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight"
+            string "110" = "/RootNode/meshes/mesh_1E4506B16AB0F103/ref_a9180bc1045d418a95b46c9559a82103"
+            string "111" = ""
+            string "112" = "/RootNode/meshes/mesh_1E4506B16AB0F103/ref_856c480afce64eecbb3208e5257cf181"
+            string "113" = ""
+            string "114" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_12"
+            string "115" = ""
+            string "116" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_11"
+            string "117" = ""
+            string "118" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_10"
+            string "119" = ""
+            string "12" = "/RootNode/meshes/mesh_1252C4AA67FBCEA4/SphereLight_01"
+            string "120" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_09"
+            string "121" = ""
+            string "122" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_08"
+            string "123" = ""
+            string "124" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_07"
+            string "125" = ""
+            string "126" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_06"
+            string "127" = ""
+            string "128" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_05"
+            string "129" = ""
+            string "13" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight"
+            string "130" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_04"
+            string "131" = ""
+            string "132" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_03"
+            string "133" = ""
+            string "134" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_01"
+            string "135" = ""
+            string "136" = "/RootNode/meshes/mesh_1E4506B16AB0F103/ref_a9180bc1045d418a95b46c9559a82103"
+            string "137" = ""
+            string "138" = "/RootNode/meshes/mesh_1E4506B16AB0F103/ref_856c480afce64eecbb3208e5257cf181"
+            string "139" = ""
+            string "14" = "/RootNode/instances/inst_C2C224B87845FB12_0/mesh"
+            string "140" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_12"
+            string "141" = ""
+            string "142" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_11"
+            string "143" = ""
+            string "144" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_10"
+            string "145" = ""
+            string "146" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_09"
+            string "147" = ""
+            string "148" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_08"
+            string "149" = ""
+            string "15" = "/RootNode/instances/inst_1E4506B16AB0F103_0/ref_856c480afce64eecbb3208e5257cf181/XForms/Plane/Plane"
+            string "150" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_07"
+            string "151" = ""
+            string "152" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_06"
+            string "153" = ""
+            string "154" = "/RootNode/instances/inst_1CC92A28515D2184_0/mesh"
+            string "155" = ""
+            string "156" = "/RootNode/instances/inst_1CC92A28515D2184_1/mesh"
+            string "157" = ""
+            string "158" = "/RootNode/meshes/mesh_1E4506B16AB0F103/ref_a9180bc1045d418a95b46c9559a82103"
+            string "159" = ""
+            string "16" = "/RootNode/instances/inst_BC1E407AE40A59C5_0/mesh"
+            string "160" = "/RootNode/meshes/mesh_1E4506B16AB0F103/ref_82c0391a56ca4b92a7f266993b53b221"
+            string "161" = ""
+            string "162" = "/RootNode/meshes/mesh_1E4506B16AB0F103/ref_a9180bc1045d418a95b46c9559a82103"
+            string "163" = ""
+            string "164" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_13"
+            string "165" = ""
+            string "166" = "/RootNode/meshes/mesh_1E4506B16AB0F103/ref_8fb074b40e8745b2a2d8368b0afecc47"
+            string "167" = "/RootNode/meshes/mesh_1E4506B16AB0F103/ref_f147781c476b4c5e8e26cef57b22b238"
+            string "168" = "/RootNode/meshes/mesh_1E4506B16AB0F103/ref_8fb074b40e8745b2a2d8368b0afecc47"
+            string "169" = ""
+            string "17" = "/RootNode/instances/inst_1E4506B16AB0F103_0/ref_856c480afce64eecbb3208e5257cf181/XForms/Plane/Plane"
+            string "170" = "/RootNode/meshes/mesh_1E4506B16AB0F103/ref_a9180bc1045d418a95b46c9559a82103"
+            string "171" = ""
+            string "172" = "/RootNode/meshes/mesh_1E4506B16AB0F103/ref_856c480afce64eecbb3208e5257cf181"
+            string "173" = ""
+            string "174" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_12"
+            string "175" = ""
+            string "176" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_11"
+            string "177" = ""
+            string "178" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_10"
+            string "179" = ""
+            string "18" = "/RootNode/instances/inst_D9705E2F6CB1062D_0/mesh"
+            string "180" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_09"
+            string "181" = ""
+            string "182" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_08"
+            string "183" = ""
+            string "184" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_07"
+            string "185" = ""
+            string "186" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_06"
+            string "187" = ""
+            string "188" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_05"
+            string "189" = ""
+            string "19" = "/RootNode/instances/inst_1E4506B16AB0F103_0/ref_856c480afce64eecbb3208e5257cf181/XForms/Plane/Plane"
+            string "190" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_04"
+            string "191" = ""
+            string "192" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_03"
+            string "193" = ""
+            string "194" = "/RootNode/instances/inst_1E4506B16AB0F103_0/DistantLight"
+            string "195" = "/RootNode/instances/inst_1E4506B16AB0F103_0/SphereLight"
+            string "196" = "/RootNode/instances/inst_1E4506B16AB0F103_0/SphereLight_13"
+            string "197" = "/RootNode/instances/inst_1E4506B16AB0F103_0/SphereLight"
+            string "198" = "/RootNode/instances/inst_1E4506B16AB0F103_0/SphereLight_13"
+            string "199" = "/RootNode/instances/inst_1E4506B16AB0F103_0/SphereLight"
+            string "2" = "/RootNode/instances/inst_ABF58B048BAAA293_0/mesh"
+            string "20" = "/RootNode/instances/inst_D9705E2F6CB1062D_0/mesh"
+            string "21" = "/RootNode/instances/inst_9015330C32392D15_0/mesh"
+            string "22" = "/RootNode/instances/inst_D9705E2F6CB1062D_0/mesh"
+            string "23" = "/RootNode/instances/inst_9015330C32392D15_0/mesh"
+            string "24" = "/RootNode/instances/inst_D9705E2F6CB1062D_0/mesh"
+            string "25" = "/RootNode/instances/inst_9015330C32392D15_0/mesh"
+            string "26" = "/RootNode/instances/inst_8FD4B0A225AEE1A8_0/mesh"
+            string "27" = "/RootNode/instances/inst_1E4506B16AB0F103_0/DistantLight"
+            string "28" = "/RootNode/instances/inst_1E4506B16AB0F103_0/SphereLight"
+            string "29" = "/RootNode/instances/inst_1E4506B16AB0F103_0/SphereLight_13"
+            string "3" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_03"
+            string "30" = "/RootNode/instances/inst_1E4506B16AB0F103_0/SphereLight"
+            string "31" = "/RootNode/instances/inst_1E4506B16AB0F103_0/SphereLight_13"
+            string "32" = "/RootNode/instances/inst_1E4506B16AB0F103_0/SphereLight"
+            string "33" = "/RootNode/instances/inst_1E4506B16AB0F103_0/DistantLight"
+            string "34" = "/RootNode/instances/inst_1E4506B16AB0F103_0/SphereLight"
+            string "35" = "/RootNode/instances/inst_1E4506B16AB0F103_0/SphereLight_13"
+            string "36" = "/RootNode/instances/inst_1E4506B16AB0F103_0/SphereLight"
+            string "37" = "/RootNode/instances/inst_1E4506B16AB0F103_0/SphereLight_09"
+            string "38" = "/RootNode/instances/inst_1E4506B16AB0F103_0/SphereLight_10"
+            string "39" = "/RootNode/instances/inst_1E4506B16AB0F103_0/SphereLight_11"
+            string "4" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight"
+            string "40" = "/RootNode/instances/inst_1E4506B16AB0F103_0/SphereLight_10"
+            string "41" = "/RootNode/instances/inst_1E4506B16AB0F103_0/SphereLight_11"
+            string "42" = "/RootNode/instances/inst_1E4506B16AB0F103_0/SphereLight_12"
+            string "43" = "/RootNode/instances/inst_1E4506B16AB0F103_0/SphereLight_13"
+            string "44" = "/RootNode/instances/inst_1E4506B16AB0F103_0/SphereLight_01"
+            string "45" = "/RootNode/instances/inst_1E4506B16AB0F103_0/SphereLight"
+            string "46" = "/RootNode/instances/inst_1E4506B16AB0F103_0/DistantLight"
+            string "47" = ""
+            string "48" = "/RootNode/instances/inst_BEE88ADFBBBCE89F_0/mesh"
+            string "49" = ""
+            string "5" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/DistantLight"
+            string "50" = "/RootNode/instances/inst_1CC92A28515D2184_0/mesh"
+            string "51" = ""
+            string "52" = "/RootNode/instances/inst_1CC92A28515D2184_1/mesh"
+            string "53" = ""
+            string "54" = "/RootNode/meshes/mesh_1E4506B16AB0F103/ref_a9180bc1045d418a95b46c9559a82103"
+            string "55" = ""
+            string "56" = "/RootNode/meshes/mesh_1E4506B16AB0F103/ref_82c0391a56ca4b92a7f266993b53b221"
+            string "57" = ""
+            string "58" = "/RootNode/meshes/mesh_1E4506B16AB0F103/ref_a9180bc1045d418a95b46c9559a82103"
+            string "59" = ""
+            string "6" = "/RootNode/instances/inst_AE5D6FEB3768757E_0/mesh"
+            string "60" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_13"
+            string "61" = ""
+            string "62" = "/RootNode/meshes/mesh_1E4506B16AB0F103/ref_8fb074b40e8745b2a2d8368b0afecc47"
+            string "63" = "/RootNode/meshes/mesh_1E4506B16AB0F103/ref_f147781c476b4c5e8e26cef57b22b238"
+            string "64" = "/RootNode/meshes/mesh_1E4506B16AB0F103/ref_8fb074b40e8745b2a2d8368b0afecc47"
+            string "65" = ""
+            string "66" = "/RootNode/meshes/mesh_1E4506B16AB0F103/ref_a9180bc1045d418a95b46c9559a82103"
+            string "67" = ""
+            string "68" = "/RootNode/meshes/mesh_1E4506B16AB0F103/ref_856c480afce64eecbb3208e5257cf181"
+            string "69" = ""
+            string "7" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_02"
+            string "70" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_12"
+            string "71" = ""
+            string "72" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_11"
+            string "73" = ""
+            string "74" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_10"
+            string "75" = ""
+            string "76" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_09"
+            string "77" = ""
+            string "78" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_08"
+            string "79" = ""
+            string "8" = "/RootNode/instances/inst_1252C4AA67FBCEA4_0/SphereLight_01"
+            string "80" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_07"
+            string "81" = ""
+            string "82" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_06"
+            string "83" = ""
+            string "84" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_05"
+            string "85" = ""
+            string "86" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_04"
+            string "87" = ""
+            string "88" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_03"
+            string "89" = ""
+            string "9" = "/RootNode/meshes/mesh_1252C4AA67FBCEA4/SphereLight_02"
+            string "90" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_01"
+            string "91" = ""
+            string "92" = "/RootNode/meshes/mesh_1E4506B16AB0F103/ref_a9180bc1045d418a95b46c9559a82103"
+            string "93" = ""
+            string "94" = "/RootNode/meshes/mesh_1E4506B16AB0F103/ref_856c480afce64eecbb3208e5257cf181"
+            string "95" = ""
+            string "96" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_12"
+            string "97" = ""
+            string "98" = "/RootNode/meshes/mesh_1E4506B16AB0F103/SphereLight_11"
+            string "99" = ""
+        }
+        dictionary cameraSettings = {
+            dictionary Front = {
+                double3 position = (50000.00111758712, 0, 0)
+                double radius = 500
+            }
+            dictionary Perspective = {
+                double3 position = (-114.85408062757679, 1572.4564168175589, -309.8631475380445)
+                double3 target = (-95.95823115353012, 1605.1893490557236, -312.17786398827695)
+            }
+            dictionary Right = {
+                double3 position = (0, -50000.00111758712, 0)
+                double radius = 500
+            }
+            dictionary Top = {
+                double3 position = (0, 0, 50000.00111758712)
+                double radius = 500
+            }
+            string boundCamera = "/OmniverseKit_Persp"
+        }
+        string lightspeed_layer_type = "workfile"
+        dictionary omni_layer = {
+            string authoring_layer = "./_compatibility.usda"
+            dictionary locked = {
+                bool "./deps/captures/sp_a1_intro1_m101_chamber_01.usd" = 1
+                bool "./deps/captures/sp_a1_intro3_portalgun.usd" = 1
+            }
+            dictionary muteness = {
+                bool "./do_not_ship.usda" = 0
+            }
+        }
+        dictionary renderSettings = {
+        }
+    }
+    endTimeCode = 1
+    metersPerUnit = 1
+    startTimeCode = 0
+    timeCodesPerSecond = 24
+    upAxis = "Z"
+)
+
+over "RootNode"
+{
+    over "Looks"
+    {
+        over "mat_00000000A6F94AD1" (
+            references = @./materials/AperturePBR_Translucent.usda@</Looks/mat_AperturePBR_Translucent>
+        )
+        {
+            over "Shader"
+            {
+                custom asset inputs:normalmap_texture = @./assets/textures_world/water/water_slow_shallow_16x4_OTH_Normal.n.rtex.dds@
+                custom bool inputs:preload_textures = 1
+                custom int inputs:sprite_sheet_cols = 16
+                custom int inputs:sprite_sheet_fps = 21
+                custom int inputs:sprite_sheet_rows = 4
+                custom color3f inputs:transmittance_color = (0.8146718, 0.76141137, 0.68885374)
+                custom float inputs:transmittance_measurement_distance = 1
+                custom bool inputs:use_diffuse_layer = 0
+            }
+        }
+
+        over "mat_A2CE332FB0F3AFE1"
+        {
+            over "Shader"
+            {
+                custom int inputs:alpha_test_type = 4
+                custom bool inputs:blend_enabled = 1
+                custom int inputs:blend_type = 0
+                asset inputs:diffuse_texture = @./assets/textures_world/water/water_really_dirty_albedo.a.rtex.dds@
+                custom float inputs:displace_in = 0.05
+                custom float inputs:displace_out = 0.02
+                custom asset inputs:height_texture = @./assets/textures_world/water/water_really_dirty_height.h.rtex.dds@
+                custom bool inputs:inverted_blend = 0
+                custom float inputs:metallic_constant = 0.17999999
+                custom asset inputs:normalmap_texture = @./assets/textures_world/water/water_really_dirty_normal_dx_OTH_Normal.n.rtex.dds@
+                custom float inputs:opacity_constant = 0.90999997
+                custom float inputs:reflection_roughness_constant = 0.48999998
+                custom asset inputs:reflectionroughness_texture = @./assets/textures_world/water/water_really_dirty_roughness.r.rtex.dds@
+                custom int inputs:sprite_sheet_cols = 64
+                custom int inputs:sprite_sheet_fps = 0
+                custom int inputs:sprite_sheet_rows = 1
+                custom bool inputs:use_legacy_alpha_state = 0
+            }
+        }
+
+        over "mat_B99502251D858895"
+        {
+            over "Shader"
+            {
+                asset inputs:diffuse_texture = @./assets/textures_world/water/water_really_dirty_albedo.a.rtex.dds@
+                custom float inputs:displace_in = 0.05
+                custom float inputs:displace_out = 0
+                custom asset inputs:height_texture = @./assets/textures_world/water/water_really_dirty_height.h.rtex.dds@
+                custom float inputs:metallic_constant = 0.39999998
+                custom asset inputs:normalmap_texture = @./assets/textures_world/water/water_really_dirty_normal_dx_OTH_Normal.n.rtex.dds@
+                custom float inputs:reflection_roughness_constant = 1
+                custom asset inputs:reflectionroughness_texture = @./assets/textures_world/water/water_really_dirty_roughness.r.rtex.dds@
+            }
+        }
+
+        over "mat_00000000D6727EC3" (
+            references = @./materials/AperturePBR_Translucent.usda@</Looks/mat_AperturePBR_Translucent>
+        )
+        {
+            over "Shader"
+            {
+                custom float inputs:ior_constant = 1.3
+                custom asset inputs:normalmap_texture = @./assets/textures_world/water/water_slow_shallow_16x4_OTH_Normal.n.rtex.dds@
+                custom int inputs:sprite_sheet_cols = 16
+                custom int inputs:sprite_sheet_fps = 30
+                custom int inputs:sprite_sheet_rows = 4
+                custom bool inputs:thin_walled = 0
+                custom color3f inputs:transmittance_color = (0.30888033, 0.3024074, 0.29576185)
+                custom float inputs:transmittance_measurement_distance = 15
+                custom asset inputs:transmittance_texture = @@
+                custom bool inputs:use_diffuse_layer = 0
+            }
+        }
+
+        over "mat_000000000B5CD75B" (
+            references = @./materials/AperturePBR_Translucent.usda@</Looks/mat_AperturePBR_Translucent>
+        )
+        {
+            over "Shader"
+            {
+                custom float inputs:ior_constant = 1.2
+                custom asset inputs:normalmap_texture = @./assets/textures_world/water/water_turbolent_01_16x4_OTH_Normal.n.rtex.dds@
+                custom int inputs:sprite_sheet_cols = 16
+                custom int inputs:sprite_sheet_fps = 17
+                custom int inputs:sprite_sheet_rows = 4
+                custom float inputs:thin_wall_thickness = 1
+                custom bool inputs:thin_walled = 0
+                custom color3f inputs:transmittance_color = (0.992, 0.99199533, 0.99199003)
+                custom float inputs:transmittance_measurement_distance = 10
+                custom asset inputs:transmittance_texture = @@
+                custom bool inputs:use_diffuse_layer = 0
+            }
+        }
+
+        over "mat_00000000CEFF9FB1" (
+            references = @./materials/AperturePBR_Translucent.usda@</Looks/mat_AperturePBR_Translucent>
+        )
+        {
+            over "Shader"
+            {
+                custom float inputs:ior_constant = 1.2
+                custom asset inputs:normalmap_texture = @./assets/textures_world/water/water_slow_shallow_02_16x4_OTH_Normal.n.rtex.dds@
+                custom int inputs:sprite_sheet_cols = 16
+                custom int inputs:sprite_sheet_fps = 17
+                custom int inputs:sprite_sheet_rows = 4
+                custom float inputs:thin_wall_thickness = 1
+                custom bool inputs:thin_walled = 0
+                custom color3f inputs:transmittance_color = (0.992, 0.99199533, 0.99199003)
+                custom float inputs:transmittance_measurement_distance = 10
+                custom asset inputs:transmittance_texture = @@
+                custom bool inputs:use_diffuse_layer = 0
+            }
+        }
+
+        over "mat_00000000D5B64AFF" (
+            references = @./materials/AperturePBR_Translucent.usda@</Looks/mat_AperturePBR_Translucent>
+        )
+        {
+            over "Shader"
+            {
+                custom float inputs:ior_constant = 1.4
+                custom asset inputs:normalmap_texture = @./assets/textures_world/water/water_turbolent_01_16x4_OTH_Normal.n.rtex.dds@
+                custom int inputs:sprite_sheet_cols = 16
+                custom int inputs:sprite_sheet_fps = 17
+                custom int inputs:sprite_sheet_rows = 4
+                custom float inputs:thin_wall_thickness = 1
+                custom bool inputs:thin_walled = 0
+                custom color3f inputs:transmittance_color = (0.8996139, 0.8022751, 0.69120914)
+                custom float inputs:transmittance_measurement_distance = 2
+                custom asset inputs:transmittance_texture = @@
+                custom bool inputs:use_diffuse_layer = 0
+            }
+        }
+
+        over "mat_00000000CB192824" (
+            references = @./materials/AperturePBR_Translucent.usda@</Looks/mat_AperturePBR_Translucent>
+        )
+        {
+            over "Shader"
+            {
+                custom float inputs:ior_constant = 1.4
+                custom asset inputs:normalmap_texture = @./assets/textures_world/water/water_turbolent_01_16x4_OTH_Normal.n.rtex.dds@
+                custom int inputs:sprite_sheet_cols = 16
+                custom int inputs:sprite_sheet_fps = 17
+                custom int inputs:sprite_sheet_rows = 4
+                custom float inputs:thin_wall_thickness = 1
+                custom bool inputs:thin_walled = 0
+                custom color3f inputs:transmittance_color = (0.8996139, 0.8022751, 0.69120914)
+                custom float inputs:transmittance_measurement_distance = 3
+                custom asset inputs:transmittance_texture = @@
+                custom bool inputs:use_diffuse_layer = 0
+            }
+        }
+    }
+}
+

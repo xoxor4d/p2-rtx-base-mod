@@ -1,0 +1,237 @@
+#usda 1.0
+(
+    upAxis = "Z"
+)
+
+over "RootNode"
+{
+    over "meshes"
+    {
+        over "mesh_85E6A62DBDB0606C" (
+            references = None
+        )
+        {
+        }
+
+        over "mesh_F501C75626D4D95A" (
+            references = None
+        )
+        {
+        }
+
+        over "mesh_DF822765452F1053" (
+            references = None
+        )
+        {
+        }
+
+        over "mesh_BDC28400DAB5AB09" (
+            references = None
+        )
+        {
+        }
+
+        over "mesh_E7A60548222ADB36" (
+            references = None
+        )
+        {
+        }
+
+        over "mesh_EA500B3019CD1485"
+        {
+            def Xform "ref_25a37736f89a460d827c77b5aba4376e" (
+                prepend references = @./assets_hq/models/terrain/a1_intro1/a1_terrain_btn.usda@
+            )
+            {
+                custom bool IsRemixRef = 1
+                double3 xformOp:rotateXYZ = (0, 0, 0)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (0, 0, 0)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                over "XForms"
+                {
+                    float3 xformOp:rotateXYZ = (0, 0, 90)
+                    float3 xformOp:scale = (0.01, 0.01, 0.01)
+                    double3 xformOp:translate = (-28.509997842428334, -316.96491424962096, -158.52877526831207)
+                    uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                    over "World"
+                    {
+                        over "a1_terrain_btn"
+                        {
+                            float3 xformOp:rotateXYZ = (0, -0, -90.00001)
+                            float3 xformOp:scale = (100, 100, 100)
+                            double3 xformOp:translate = (33, 40, 2)
+                            uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                            over "a1_terrain_btn"
+                            {
+                                uniform bool doubleSided = 1
+                                float3 xformOp:rotateXYZ = (0, 0, 0)
+                                float3 xformOp:scale = (1, 1, 1)
+                                double3 xformOp:translate = (0, 0, 0)
+                                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+                            }
+                        }
+
+                        over "Looks"
+                        {
+                            over "mat_terrain_a1_intro1_btn"
+                            {
+                                over "Shader"
+                                {
+                                    custom float inputs:alpha_test_reference_value = 0
+                                    custom int inputs:alpha_test_type = 4
+                                    custom bool inputs:blend_enabled = 1
+                                    custom int inputs:blend_type = 0
+                                    custom asset inputs:diffuse_texture = @./assets_hq/models/terrain/a1_intro1/textures/terrain_a1_intro1_btn_albedo.a.rtex.dds@
+                                    custom float inputs:displace_in = 0.004
+                                    custom float inputs:displace_out = 0.005
+                                    custom asset inputs:height_texture = @./assets_hq/models/terrain/a1_intro1/textures/terrain_a1_intro1_btn_height.h.rtex.dds@
+                                    custom asset inputs:normalmap_texture = @./assets_hq/models/terrain/a1_intro1/textures/terrain_a1_intro1_btn_normal_dx_OTH_Normal.n.rtex.dds@
+                                    custom asset inputs:reflectionroughness_texture = @./assets_hq/models/terrain/a1_intro1/textures/terrain_a1_intro1_btn_roughness.r.rtex.dds@
+                                    custom bool inputs:use_legacy_alpha_state = 0
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+            def Xform "ref_86cbac4d34f54a0db9977af13e218f67" (
+                prepend references = @./assets_hq/models/terrain/a1_intro1/terrain_a1_intro1_first_chamber.usda@
+            )
+            {
+                custom bool IsRemixRef = 1
+                double3 xformOp:rotateXYZ = (0, 0, 0)
+                double3 xformOp:scale = (1, 1, 1)
+                double3 xformOp:translate = (0, 0, 0)
+                uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                over "XForms"
+                {
+                    float3 xformOp:rotateXYZ = (0, 0, 0)
+                    float3 xformOp:scale = (0.01, 0.01, 0.01)
+                    double3 xformOp:translate = (0.32, -0.146, -0.415)
+                    uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                    over "World"
+                    {
+                        float3 xformOp:rotateXYZ = (0, 0, 0)
+                        float3 xformOp:scale = (1, 1, 1)
+                        double3 xformOp:translate = (-64584.31396562078, -26872.208550016687, -16358.89292144758)
+                        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:rotateXYZ", "xformOp:scale"]
+
+                        over "Looks"
+                        {
+                            over "terrain_a1_intro1_first_chamber"
+                            {
+                                over "Shader"
+                                {
+                                    custom asset inputs:diffuse_texture = @./assets_hq/models/terrain/a1_intro1/textures/terrain_a1_intro1_first_chamber_terrain_a1_intro1_first_chamber_BaseColor.a.rtex.dds@
+                                    custom float inputs:displace_in = 0.008
+                                    custom float inputs:displace_out = 0.001
+                                    custom asset inputs:height_texture = @./assets_hq/models/terrain/a1_intro1/textures/terrain_a1_intro1_first_chamber_terrain_a1_intro1_first_chamber_Height.h.rtex.dds@
+                                    custom asset inputs:normalmap_texture = @./assets_hq/models/terrain/a1_intro1/textures/terrain_a1_intro1_first_chamber_terrain_a1_intro1_first_chamber_OTH_Normal.n.rtex.dds@
+                                    custom asset inputs:reflectionroughness_texture = @./assets_hq/models/terrain/a1_intro1/textures/terrain_a1_intro1_first_chamber_terrain_a1_intro1_first_chamber_Roughness.r.rtex.dds@
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        over "mesh_CD25E57B41D1123F" (
+            references = None
+        )
+        {
+        }
+
+        over "mesh_F390B1D8FF9405DA" (
+            references = None
+        )
+        {
+        }
+
+        over "mesh_51BA9684AF14C4F4" (
+            references = None
+        )
+        {
+        }
+
+        over "mesh_26C20F71851FF8F3" (
+            references = None
+        )
+        {
+        }
+
+        over "mesh_BA762EB2F6FB9A5D" (
+            references = None
+        )
+        {
+        }
+
+        over "mesh_15EFFA32B979378A" (
+            references = None
+        )
+        {
+        }
+
+        over "mesh_C09779D47CBDBC2C" (
+            references = None
+        )
+        {
+        }
+
+        over "mesh_D9BA19DDDCBB4DDB" (
+            references = None
+        )
+        {
+        }
+
+        over "mesh_BFDDBB566B6CC470" (
+            references = None
+        )
+        {
+        }
+
+        over "mesh_A6F0DB5FCB6A3587" (
+            references = None
+        )
+        {
+        }
+
+        over "mesh_738858B90EAEBE21" (
+            references = None
+        )
+        {
+        }
+
+        over "mesh_DC118C39412C13F6" (
+            references = None
+        )
+        {
+        }
+
+        over "mesh_40A5ADFA32C87158" (
+            references = None
+        )
+        {
+        }
+
+        over "mesh_37DD340F18C34D5F" (
+            references = None
+        )
+        {
+        }
+
+        over "mesh_95F7135348438C71" (
+            references = None
+        )
+        {
+        }
+    }
+}
+
