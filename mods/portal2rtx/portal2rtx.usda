@@ -1,0 +1,289 @@
+#usda 1.0
+(
+    customLayerData = {
+        dictionary SelectionHistoryList = {
+            string "0" = "/RootNode/instances/inst_3DC8EA514F686E25_0/SphereLight_15"
+            string "1" = "/RootNode/instances/inst_3DC8EA514F686E25_0/SphereLight_09"
+            string "10" = "/RootNode/instances/inst_C5522B26B22F65CC_0/mesh"
+            string "100" = "/RootNode/meshes/mesh_C389BAA24CAA6D07/SphereLight_02"
+            string "101" = ""
+            string "102" = "/RootNode/meshes/mesh_C389BAA24CAA6D07/SphereLight_01"
+            string "103" = ""
+            string "104" = "/RootNode/meshes/mesh_FFA14D98FBA4807E/SphereLight_11"
+            string "105" = ""
+            string "106" = "/RootNode/meshes/mesh_FFA14D98FBA4807E/SphereLight_10"
+            string "107" = ""
+            string "108" = "/RootNode/meshes/mesh_FFA14D98FBA4807E/SphereLight_09"
+            string "109" = ""
+            string "11" = "/RootNode/instances/inst_1C4B2D9D1C3041AB_0/mesh"
+            string "110" = "/RootNode/meshes/mesh_FFA14D98FBA4807E/SphereLight_08"
+            string "111" = ""
+            string "112" = "/RootNode/meshes/mesh_FFA14D98FBA4807E/SphereLight_07"
+            string "113" = ""
+            string "114" = "/RootNode/meshes/mesh_FFA14D98FBA4807E/SphereLight_05"
+            string "115" = ""
+            string "116" = "/RootNode/meshes/mesh_FFA14D98FBA4807E/SphereLight_04"
+            string "117" = ""
+            string "118" = "/RootNode/meshes/mesh_FFA14D98FBA4807E/SphereLight_03"
+            string "119" = ""
+            string "12" = "/RootNode/instances/inst_C5522B26B22F65CC_0/mesh"
+            string "120" = "/RootNode/meshes/mesh_FFA14D98FBA4807E/SphereLight_02"
+            string "121" = ""
+            string "122" = "/RootNode/meshes/mesh_FFA14D98FBA4807E/SphereLight_01"
+            string "123" = ""
+            string "124" = "/RootNode/meshes/mesh_E48ADD20CE09C1D6"
+            string "125" = ""
+            string "126" = "/RootNode/meshes/mesh_E48ADD20CE09C1D6"
+            string "127" = ""
+            string "128" = "/RootNode/meshes/mesh_7093DD3C2058524A/SphereLight_08"
+            string "129" = ""
+            string "13" = "/RootNode/instances/inst_9CCA240B29172C02_0/mesh"
+            string "130" = "/RootNode/meshes/mesh_7093DD3C2058524A/SphereLight_07"
+            string "131" = ""
+            string "132" = "/RootNode/meshes/mesh_2308E72786651896"
+            string "133" = ""
+            string "134" = "/RootNode/meshes/mesh_A42DBB96E7CE7957"
+            string "135" = ""
+            string "136" = "/RootNode/meshes/mesh_E1EA802682E7395C/mesh"
+            string "137" = ""
+            string "138" = "/RootNode/meshes/mesh_3DC8EA514F686E25/SphereLight_14"
+            string "139" = ""
+            string "14" = "/RootNode/instances/inst_2209644AB2894A93_0/mesh"
+            string "140" = "/RootNode/meshes/mesh_1A6922444FFC06EF/SphereLight_08"
+            string "141" = ""
+            string "142" = "/RootNode/meshes/mesh_3DC8EA514F686E25/SphereLight_08"
+            string "143" = ""
+            string "144" = "/RootNode/meshes/mesh_3DC8EA514F686E25/SphereLight_06"
+            string "145" = ""
+            string "146" = "/RootNode/meshes/mesh_3DC8EA514F686E25/SphereLight_04"
+            string "147" = ""
+            string "148" = "/RootNode/meshes/mesh_3DC8EA514F686E25/SphereLight_03"
+            string "149" = ""
+            string "15" = "/RootNode/meshes/mesh_3DC8EA514F686E25/SphereLight_05"
+            string "150" = "/RootNode/meshes/mesh_3DC8EA514F686E25/SphereLight_04"
+            string "151" = ""
+            string "152" = "/RootNode/meshes/mesh_65C177097D8057E2/SphereLight"
+            string "153" = ""
+            string "154" = "/RootNode/meshes/mesh_3DC8EA514F686E25/SphereLight_03"
+            string "155" = ""
+            string "156" = "/RootNode/meshes/mesh_3DC8EA514F686E25/SphereLight_01"
+            string "157" = ""
+            string "158" = "/RootNode/meshes/mesh_64F2E6A25B59B29E/SphereLight_09"
+            string "159" = ""
+            string "16" = "/RootNode/instances/inst_0155CE43A0BE26C8_0/mesh"
+            string "160" = "/RootNode/meshes/mesh_64F2E6A25B59B29E/SphereLight_05"
+            string "161" = ""
+            string "162" = "/RootNode/meshes/mesh_64F2E6A25B59B29E/SphereLight_04"
+            string "163" = ""
+            string "164" = "/RootNode/meshes/mesh_64F2E6A25B59B29E/RectLight_01"
+            string "165" = ""
+            string "166" = "/RootNode/meshes/mesh_64F2E6A25B59B29E/SphereLight_03"
+            string "167" = ""
+            string "168" = "/RootNode/meshes/mesh_E48ADD20CE09C1D6"
+            string "169" = ""
+            string "17" = "/RootNode/instances/inst_E48ADD20877F250D_26/mesh"
+            string "170" = "/RootNode/meshes/mesh_E48ADD20CE09C1D6"
+            string "171" = ""
+            string "172" = "/RootNode/meshes/mesh_7093DD3C2058524A/SphereLight_08"
+            string "173" = ""
+            string "174" = "/RootNode/meshes/mesh_7093DD3C2058524A/SphereLight_07"
+            string "175" = ""
+            string "176" = "/RootNode/meshes/mesh_2308E72786651896"
+            string "177" = ""
+            string "178" = "/RootNode/meshes/mesh_A42DBB96E7CE7957"
+            string "179" = ""
+            string "18" = "/RootNode/instances/inst_A42DBB96E7CE7957_23/mesh"
+            string "180" = "/RootNode/meshes/mesh_E1EA802682E7395C/mesh"
+            string "181" = ""
+            string "182" = "/RootNode/meshes/mesh_E48ADD20CE09C1D6"
+            string "183" = ""
+            string "184" = "/RootNode/meshes/mesh_E48ADD20CE09C1D6"
+            string "185" = ""
+            string "186" = "/RootNode/meshes/mesh_7093DD3C2058524A/SphereLight_08"
+            string "187" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_14"
+            string "188" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_13"
+            string "189" = "/RootNode/meshes/mesh_635B9825AE675164/SphereLight_14"
+            string "19" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_14"
+            string "190" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_13"
+            string "191" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_12"
+            string "192" = "/RootNode/meshes/mesh_635B9825AE675164/SphereLight_13"
+            string "193" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_12"
+            string "194" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_11"
+            string "195" = "/RootNode/meshes/mesh_635B9825AE675164/SphereLight_12"
+            string "196" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_10"
+            string "197" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_11"
+            string "198" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_10"
+            string "199" = "/RootNode/meshes/mesh_635B9825AE675164/SphereLight_11"
+            string "2" = "/RootNode/instances/inst_3DC8EA514F686E25_0/SphereLight_08"
+            string "20" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_13"
+            string "21" = "/RootNode/meshes/mesh_635B9825AE675164/SphereLight_14"
+            string "22" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_13"
+            string "23" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_12"
+            string "24" = "/RootNode/meshes/mesh_635B9825AE675164/SphereLight_13"
+            string "25" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_12"
+            string "26" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_11"
+            string "27" = "/RootNode/meshes/mesh_635B9825AE675164/SphereLight_12"
+            string "28" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_10"
+            string "29" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_11"
+            string "3" = "/RootNode/instances/inst_1E621816EF1F5B7B_0/mesh"
+            string "30" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_10"
+            string "31" = "/RootNode/meshes/mesh_635B9825AE675164/SphereLight_11"
+            string "32" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_01"
+            string "33" = "/RootNode/instances/inst_E48ADD20877F250D_26/mesh"
+            string "34" = ""
+            string "35" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_10"
+            string "36" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_09"
+            string "37" = "/RootNode/meshes/mesh_635B9825AE675164/SphereLight_10"
+            string "38" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_09"
+            string "39" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_01"
+            string "4" = "/RootNode/instances/inst_EA32F95988AA5B10_0/mesh"
+            string "40" = ""
+            string "41" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_07"
+            string "42" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_06"
+            string "43" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_08"
+            string "44" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_07"
+            string "45" = "/RootNode/meshes/mesh_635B9825AE675164/SphereLight_08"
+            string "46" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_07"
+            string "47" = "/RootNode/instances/inst_1C7EE41B354C6C73_0/mesh"
+            string "48" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_07"
+            string "49" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_06"
+            string "5" = "/RootNode/instances/inst_1E621816EF1F5B7B_0/mesh"
+            string "50" = "/RootNode/meshes/mesh_635B9825AE675164/SphereLight_07"
+            string "51" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_06"
+            string "52" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_02"
+            string "53" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_05"
+            string "54" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_04"
+            string "55" = "/RootNode/meshes/mesh_635B9825AE675164/SphereLight_05"
+            string "56" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_04"
+            string "57" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_03"
+            string "58" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_02"
+            string "59" = "/RootNode/meshes/mesh_635B9825AE675164/SphereLight_03"
+            string "6" = "/RootNode/instances/inst_99C38AC642FFF967_0/mesh"
+            string "60" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_02"
+            string "61" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_01"
+            string "62" = "/RootNode/meshes/mesh_635B9825AE675164/SphereLight_02"
+            string "63" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight_01"
+            string "64" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight"
+            string "65" = "/RootNode/meshes/mesh_635B9825AE675164/SphereLight_01"
+            string "66" = "/RootNode/instances/inst_635B9825AE675164_0/SphereLight"
+            string "67" = "/RootNode/instances/inst_635B9825AE675164_0/mesh"
+            string "68" = "/RootNode/instances/inst_A42DBB96E7CE7957_14/mesh"
+            string "69" = ""
+            string "7" = "/RootNode/instances/inst_1E621816EF1F5B7B_0/mesh"
+            string "70" = "/RootNode/meshes/mesh_C770ED1F8BDEFBB2/SphereLight_07"
+            string "71" = ""
+            string "72" = "/RootNode/meshes/mesh_C770ED1F8BDEFBB2/SphereLight_05"
+            string "73" = ""
+            string "74" = "/RootNode/meshes/mesh_C770ED1F8BDEFBB2/SphereLight_04"
+            string "75" = ""
+            string "76" = "/RootNode/meshes/mesh_C770ED1F8BDEFBB2/SphereLight_03"
+            string "77" = ""
+            string "78" = "/RootNode/meshes/mesh_C770ED1F8BDEFBB2/SphereLight_02"
+            string "79" = ""
+            string "8" = "/RootNode/instances/inst_99C38AC642FFF967_0/mesh"
+            string "80" = "/RootNode/meshes/mesh_C770ED1F8BDEFBB2/SphereLight_01"
+            string "81" = ""
+            string "82" = "/RootNode/instances/inst_280239B3631F8A13_0/mesh"
+            string "83" = ""
+            string "84" = "/RootNode/instances/inst_9635C3878395803C_0/mesh"
+            string "85" = ""
+            string "86" = "/RootNode/instances/inst_9B44C02727899704_0/mesh"
+            string "87" = ""
+            string "88" = "/RootNode/instances/inst_A5EE68F0BA24A383_1/mesh"
+            string "89" = ""
+            string "9" = "/RootNode/instances/inst_1E621816EF1F5B7B_0/mesh"
+            string "90" = "/RootNode/instances/inst_9635C3878395803C_0/mesh"
+            string "91" = ""
+            string "92" = "/RootNode/instances/inst_9635C3878395803C_0/mesh"
+            string "93" = ""
+            string "94" = "/RootNode/meshes/mesh_C389BAA24CAA6D07/SphereLight_08"
+            string "95" = ""
+            string "96" = "/RootNode/meshes/mesh_C389BAA24CAA6D07/SphereLight_07"
+            string "97" = ""
+            string "98" = "/RootNode/meshes/mesh_C389BAA24CAA6D07/SphereLight_03"
+            string "99" = ""
+        }
+        dictionary cameraSettings = {
+            dictionary Front = {
+                double3 position = (50000.00111758712, 0, 0)
+                double radius = 500
+            }
+            dictionary Perspective = {
+                double3 position = (435.7647822851963, 176.53754744126405, 70.55147112932595)
+                double3 target = (146.957000696225, 180.4522649999977, -28.90139052386644)
+            }
+            dictionary Right = {
+                double3 position = (0, -50000.00111758712, 0)
+                double radius = 500
+            }
+            dictionary Top = {
+                double3 position = (0, 0, 50000.00111758712)
+                double radius = 500
+            }
+            string boundCamera = "/OmniverseKit_Persp"
+        }
+        string lightspeed_layer_type = "workfile"
+        dictionary omni_layer = {
+            string authoring_layer = "./comp_fizzler.usda"
+            dictionary locked = {
+                bool "./deps/captures/000_fizzler_ems5x.usd" = 1
+                bool "./deps/captures/00_non_emissive_emanci.usd" = 1
+                bool "./deps/captures/sp_a1_intro1_m101_chamber_01.usd" = 1
+                bool "./deps/captures/sp_a1_intro4_m104_first_room.usd" = 1
+                bool "X:/Z_temp/portal2_game/rtx-remix/captures/sp_a1_intro4_emanci_hidden_but_proxy_as_terrain.usd" = 1
+            }
+            dictionary muteness = {
+                bool "./do_not_ship.usda" = 0
+                bool "./emanci_test.usda" = 0
+            }
+        }
+        dictionary renderSettings = {
+        }
+    }
+    endTimeCode = 0
+    metersPerUnit = 1
+    startTimeCode = -1
+    subLayers = [
+        @./mod.usda@,
+        @./deps/captures/000_fizzler_ems5x.usd@
+    ]
+    timeCodesPerSecond = 24
+    upAxis = "Z"
+)
+
+def Scope "Bookmarks" (
+    prepend apiSchemas = ["CollectionAPI:specials", "CollectionAPI:elevator_videos"]
+)
+{
+    prepend rel collection:elevator_videos:includes = [
+        </RootNode/instances/inst_E48ADD200518FC5B_0/mesh>,
+        </RootNode/instances/inst_E48ADD2080EB25D2_8/mesh>,
+        </RootNode/instances/inst_E48ADD20CE09C1D6_5/mesh>,
+        </RootNode/instances/inst_E48ADD20CE09C1D6_5>,
+        </RootNode/meshes/mesh_E48ADD20CE09C1D6>,
+        </RootNode/meshes/mesh_E48ADD207BDBE18F>,
+        </RootNode/instances/inst_E48ADD207BDBE18F_4/mesh>,
+    ]
+    delete rel collection:specials:includes = [
+        </RootNode/meshes/mesh_4C077D994672BCA3/mesh>,
+        </RootNode/meshes/mesh_E48ADD201FFF44F2/mesh>,
+        </RootNode/instances/inst_B4BCF528CA6E5F76_0/mesh>,
+    ]
+    prepend rel collection:specials:includes = [
+        </RootNode/instances/inst_320D582EA683B095_0/mesh>,
+        </RootNode/instances/inst_195108970EFBDA89_0/mesh>,
+        </RootNode/meshes/mesh_4C077D994672BCA3/mesh>,
+        </RootNode/meshes/mesh_E1EA802682E7395C/mesh>,
+        </RootNode/instances/inst_9BB2D8077A53FCA6_0/mesh>,
+        </RootNode/instances/inst_2A8EB6D35CDAA5B2_0/mesh>,
+    ]
+}
+
+def Scope "CustomTags" (
+    prepend apiSchemas = ["CollectionAPI:hidden"]
+)
+{
+    uniform token collection:hidden:expansionRule = "explicitOnly"
+    prepend rel collection:hidden:includes = </RootNode/instances/inst_E48ADD201AC0CFFC_20/mesh>
+}
+
