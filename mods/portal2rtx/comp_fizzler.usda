@@ -250,24 +250,38 @@ over "RootNode"
         {
             over "Shader"
             {
-                custom float inputs:alpha_test_reference_value = 0
-                custom int inputs:alpha_test_type = 5
+                custom int inputs:alpha_test_type = 6
                 custom bool inputs:blend_enabled = 1
                 custom int inputs:blend_type = 2
                 asset inputs:diffuse_texture = @./assets/textures_effects/fizzler_half.a.rtex.dds@
-                custom float inputs:displace_in = 0.01
+                custom float inputs:displace_in = 0.003
+                custom float inputs:displace_out = 0
                 custom float inputs:emissive_intensity = 0.2
-                custom asset inputs:emissive_mask_texture = @./assets/textures_effects/fizzler_flow.e.rtex.dds@
-                custom bool inputs:enable_albedo_emission = 1
+                custom asset inputs:emissive_mask_texture = @./assets/textures_effects/fizzler_half.a.rtex.dds@
                 custom bool inputs:enable_emission = 1
-                custom int inputs:filter_mode = 1
+                custom asset inputs:height_texture = @./assets/textures_effects/fizzler_half.a.rtex.dds@
                 custom bool inputs:inverted_blend = 0
-                custom float inputs:metallic_constant = 1
+                custom float inputs:metallic_constant = 0
+                custom bool inputs:preload_textures = 0
                 custom float inputs:reflection_roughness_constant = 1
                 custom int inputs:sprite_sheet_cols = 32
                 custom int inputs:sprite_sheet_fps = 30
                 custom int inputs:sprite_sheet_rows = 4
                 custom bool inputs:use_legacy_alpha_state = 0
+            }
+        }
+
+        over "mat_00000000FAB9DA32"
+        {
+            over "Shader"
+            {
+                custom int inputs:alpha_test_type = 4
+                custom bool inputs:blend_enabled = 0
+                custom int inputs:blend_type = 0
+                custom bool inputs:enable_thin_film = 0
+                custom float inputs:thin_film_thickness_constant = 200
+                custom bool inputs:thin_film_thickness_from_albedo_alpha = 0
+                custom bool inputs:use_legacy_alpha_state = 1
             }
         }
 
@@ -310,25 +324,6 @@ over "RootNode"
                 custom float inputs:opacity_constant = 0.64
                 custom float inputs:reflection_roughness_constant = 1
                 bool inputs:use_legacy_alpha_state = 0
-            }
-        }
-
-        over "mat_00000000FAB9DA32"
-        {
-            over "Shader"
-            {
-                custom int inputs:alpha_test_type = 4
-                custom bool inputs:blend_enabled = 1
-                custom int inputs:blend_type = 0
-                custom color3f inputs:emissive_color_constant = (0.9227799, 0.98121804, 1)
-                custom float inputs:emissive_intensity = 0.06
-                custom bool inputs:enable_emission = 1
-                custom bool inputs:enable_thin_film = 0
-                custom float inputs:metallic_constant = 0.95
-                custom float inputs:reflection_roughness_constant = 1
-                custom float inputs:thin_film_thickness_constant = 397.49976
-                custom bool inputs:thin_film_thickness_from_albedo_alpha = 1
-                custom bool inputs:use_legacy_alpha_state = 0
             }
         }
     }
