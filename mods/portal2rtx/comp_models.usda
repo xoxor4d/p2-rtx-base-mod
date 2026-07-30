@@ -934,6 +934,14 @@ This parameter is unused."""
                 )
             }
         }
+
+        over "mat_4D912A39230C5468"
+        {
+            over "Shader"
+            {
+                custom float inputs:reflection_roughness_constant = 0.96999997
+            }
+        }
     }
 
     over "meshes"

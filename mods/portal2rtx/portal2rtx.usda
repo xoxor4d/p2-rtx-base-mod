@@ -209,8 +209,8 @@
                 double radius = 500
             }
             dictionary Perspective = {
-                double3 position = (301.2257679286836, 161.64663930811292, 66.7935809682735)
-                double3 target = (605.7722126282108, 162.9169635139332, 43.00323191226647)
+                double3 position = (665.2061383849517, -266.38132156030167, 86.15074092194845)
+                double3 target = (516.8180831518, 447.8513044289462, 38.52926951325215)
             }
             dictionary Right = {
                 double3 position = (0, -50000.00111758712, 0)
@@ -224,9 +224,9 @@
         }
         string lightspeed_layer_type = "workfile"
         dictionary omni_layer = {
-            string authoring_layer = "./comp_fizzler.usda"
+            string authoring_layer = "./comp_world.usda"
             dictionary locked = {
-                bool "./deps/captures/000_fizzler_ems5x.usd" = 1
+                bool "./deps/captures/000_chell_hair.usd" = 1
                 bool "./deps/captures/00_non_emissive_emanci.usd" = 1
                 bool "./deps/captures/sp_a1_intro1_m101_chamber_01.usd" = 1
                 bool "./deps/captures/sp_a1_intro4_m104_first_room.usd" = 1
@@ -245,7 +245,7 @@
     startTimeCode = -1
     subLayers = [
         @./mod.usda@,
-        @./deps/captures/000_fizzler_ems5x.usd@
+        @./deps/captures/000_chell_hair.usd@
     ]
     timeCodesPerSecond = 24
     upAxis = "Z"

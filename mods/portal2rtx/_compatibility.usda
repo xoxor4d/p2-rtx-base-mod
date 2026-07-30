@@ -95,7 +95,7 @@
         @./comp_lights.usda@,
         @./comp_water.usda@,
         @./comp_world.usda@,
-        @./comp_models_old.usda@
+        @./comp_models.usda@
     ]
     timeCodesPerSecond = 24
     upAxis = "Z"

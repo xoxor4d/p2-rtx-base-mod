@@ -587,8 +587,8 @@ over "RootNode"
                 custom int inputs:blend_type = 8
                 custom color3f inputs:emissive_color_constant = (1, 0.99999, 0.99999)
                 custom float inputs:emissive_intensity = 0.02
-                custom bool inputs:enable_emission = 1
                 custom bool inputs:enable_albedo_emission = 1
+                custom bool inputs:enable_emission = 1
                 custom float inputs:metallic_constant = 0.47
                 custom float inputs:reflection_roughness_constant = 0.75
                 custom float inputs:thin_film_thickness_constant = 0
@@ -603,8 +603,8 @@ over "RootNode"
             {
                 custom color3f inputs:emissive_color_constant = (1, 0.99999, 0.99999)
                 custom float inputs:emissive_intensity = 0.02
-                custom bool inputs:enable_emission = 1
                 custom bool inputs:enable_albedo_emission = 1
+                custom bool inputs:enable_emission = 1
                 custom float inputs:thin_film_thickness_constant = 0
                 custom bool inputs:thin_film_thickness_from_albedo_alpha = 1
             }
@@ -826,7 +826,8 @@ over "RootNode"
         {
             over "Shader"
             {
-                custom float inputs:reflection_roughness_constant = 0.68
+                custom float inputs:metallic_constant = 0
+                custom float inputs:reflection_roughness_constant = 0.95
             }
         }
 
